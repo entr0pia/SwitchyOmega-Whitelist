@@ -12,6 +12,6 @@
 https://raw.githubusercontent.com/entr0pia/SwitchyOmega-Whitelist/master/white-list.sorl
 ``；
 7. 点击「立即更新情景模式」；
-8. 点击左上角「界面」，将初始情景模式改为「Switchy」；
+8. 点击左上角「界面」，将初始情景模式改为「自动切换」；
 
 > 黑名单适用于经常访问国内网的同学，白名单适用于经常访问国外网的同学。
