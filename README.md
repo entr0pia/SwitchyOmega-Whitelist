@@ -1,4 +1,4 @@
-# SwitchOmegay-Whitelist
+# SwitchyOmega-Whitelist
 中国网站白名单，主要内容来自 [felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list)，纯列表，用于 SwitchyOmega 的白名单，持续更新。
 
 ## 使用步骤
