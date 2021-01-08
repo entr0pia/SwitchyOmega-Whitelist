@@ -19,15 +19,25 @@ if __name__ == "__main__":
     with open(conffile, 'wb') as f:
         f.write(r.content)
 
-    headline = []
+    headline = ['[SwitchyOmega Conditions]\n',
+                '; Require: SwitchyOmega >= 2.3.2\n',
+                '\n',
+                '; cn域名都不走代理\n',
+                '*.cn\n',
+                '\n',
+                '; 数字开头不走代理\n',
+                '1*.*.*.*\n',
+                '2*.*.*.*\n',
+                '3*.*.*.*\n',
+                '4*.*.*.*\n',
+                '5*.*.*.*\n',
+                '6*.*.*.*\n',
+                '7*.*.*.*\n',
+                '8*.*.*.*\n',
+                '9*.*.*.*\n',
+                '\n',
+                '\n']
     rules = set()
-
-    with open(sorlfile, 'r') as f:
-        for line in f.readlines():
-            if re.match(r'\*\.\S+\.\S+', line) == None:
-                headline.append(line)
-            else:
-                break
 
     with open(conffile, 'r') as f:
         for line in f.readlines():
