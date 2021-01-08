@@ -13,12 +13,9 @@ import os
 confurl = 'https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf'
 
 if __name__ == "__main__":
-    r = requests.get(confurl)
     conffile = 'accelerated-domains.china.conf'
     sorlfile = 'white-list.sorl'
-    with open(conffile, 'wb') as f:
-        f.write(r.content)
-
+    rules = set()
     headline = ['[SwitchyOmega Conditions]\n',
                 '; Require: SwitchyOmega >= 2.3.2\n',
                 '\n',
@@ -37,7 +34,10 @@ if __name__ == "__main__":
                 '9*.*.*.*\n',
                 '\n',
                 '\n']
-    rules = set()
+
+    r = requests.get(confurl)
+    with open(conffile, 'wb') as f:
+        f.write(r.content)
 
     with open(conffile, 'r') as f:
         for line in f.readlines():
