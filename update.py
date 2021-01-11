@@ -35,7 +35,7 @@ if __name__ == "__main__":
                 '\n',
                 '; 教育网\n',
                 '*.acm.org\n',
-                'dblp.org\n',
+                '*.dblp.org\n',
                 '*.edu\n',
                 '*.edu.*\n',
                 '*.ieee.org\n',

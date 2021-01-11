@@ -17,7 +17,7 @@
 
 ; 教育网
 *.acm.org
-dblp.org
+*.dblp.org
 *.edu
 *.edu.*
 *.ieee.org
