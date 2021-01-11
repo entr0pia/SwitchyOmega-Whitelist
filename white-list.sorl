@@ -14,8 +14,8 @@
 7*.*.*.*
 8*.*.*.*
 9*.*.*.*
-*.msftconnecttest.com
 
+; 教育网*.acm.orgdblp.org*.edu*.edu.**.ieee.org*.msftconnecttest.com*.springer.com*.uni-trier.de*.webofknowledge.com
 *.0-100.com
 *.0-6.com
 *.0-gold.net
@@ -1016,7 +1016,6 @@
 *.100xuexi.com
 *.100xwrc.com
 *.100ydrc.com
-*.100ye.com
 *.100yfrc.com
 *.100yigui.com
 *.100yingcai.com
@@ -29917,7 +29916,6 @@
 *.hjyl.org
 *.hjylx.com
 *.hjz518.com
-*.hk-cdn.monster
 *.hk-island.hk
 *.hk-myungga.net
 *.hk5.cc
@@ -38518,7 +38516,6 @@
 *.landscapecn.com
 *.landtu.com
 *.landui.com
-*.landujx.com
 *.landzestate.com
 *.lanecn.com
 *.lanemi.com
@@ -43765,7 +43762,6 @@
 *.mvacc.com
 *.mvben.com
 *.mvcat.com
-*.mvduo.com
 *.mvgod.com
 *.mvhere.com
 *.mvmpg.com

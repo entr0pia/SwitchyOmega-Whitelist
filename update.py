@@ -32,8 +32,17 @@ if __name__ == "__main__":
                 '7*.*.*.*\n',
                 '8*.*.*.*\n',
                 '9*.*.*.*\n',
-                '*.msftconnecttest.com',
                 '\n',
+                '; 教育网',
+                '*.acm.org',
+                'dblp.org',
+                '*.edu',
+                '*.edu.*',
+                '*.ieee.org',
+                '*.msftconnecttest.com',
+                '*.springer.com',
+                '*.uni-trier.de',
+                '*.webofknowledge.com',
                 '\n']
 
     r = requests.get(confurl)
