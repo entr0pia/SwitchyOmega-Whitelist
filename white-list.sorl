@@ -18,13 +18,24 @@
 ; 教育网
 *.acm.org
 *.dblp.org
+*.ebscohost.com
 *.edu
 *.edu.*
+*.engineeringvillage.com
 *.ieee.org
+*.jstor.org
+*.lexis.com
 *.msftconnecttest.com
+*.nature.com
+*.oclc.org
+*.proquest.com
+*.sciencedirect.com
+*.sciencemag.org
 *.springer.com
+*.tandfonline.com
 *.uni-trier.de
 *.webofknowledge.com
+*.wiley.com
 
 *.0-100.com
 *.0-6.com
