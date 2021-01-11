@@ -15,7 +15,17 @@
 8*.*.*.*
 9*.*.*.*
 
-; 教育网*.acm.orgdblp.org*.edu*.edu.**.ieee.org*.msftconnecttest.com*.springer.com*.uni-trier.de*.webofknowledge.com
+; 教育网
+*.acm.org
+dblp.org
+*.edu
+*.edu.*
+*.ieee.org
+*.msftconnecttest.com
+*.springer.com
+*.uni-trier.de
+*.webofknowledge.com
+
 *.0-100.com
 *.0-6.com
 *.0-gold.net
