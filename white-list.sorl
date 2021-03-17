@@ -4,16 +4,9 @@
 ; cn域名都不走代理
 *.cn
 
-; 数字开头不走代理
-1*.*.*.*
-2*.*.*.*
-3*.*.*.*
-4*.*.*.*
-5*.*.*.*
-6*.*.*.*
-7*.*.*.*
-8*.*.*.*
-9*.*.*.*
+; IP地址不走代理
+(?:[0-9]{1,3}\.){3}[0-9]{1,3}
+(?:[A-F0-9]{1,4}:){7}[A-F0-9]{1,4}
 
 ; 教育网
 *.acm.org
@@ -37,6 +30,7 @@
 *.webofknowledge.com
 *.wiley.com
 
+; 常规列表
 *.0-100.com
 *.0-6.com
 *.0-gold.net
@@ -3926,6 +3920,7 @@
 *.4090.com
 *.40manhua.com
 *.40net.net
+*.40tp.com
 *.40ya.com
 *.41188.com
 *.411au.com
@@ -5008,6 +5003,7 @@
 *.52bendi.com
 *.52biquge.com
 *.52bji.com
+*.52bjy.com
 *.52blackberry.com
 *.52bookshop.com
 *.52bqg.com
@@ -5247,7 +5243,6 @@
 *.539km.com
 *.53chewu.com
 *.53info.com
-*.53k.cc
 *.53kf.com
 *.53kjw.com
 *.53miji.com
@@ -8605,7 +8600,6 @@
 *.adlvyou.com
 *.admai.com
 *.admaimai.com
-*.admclub.com
 *.admin.edu.pl
 *.admin10000.com
 *.admin168.net
@@ -11345,6 +11339,7 @@
 *.baoyt.com
 *.baoyung.com
 *.baoyuntong.com
+*.baoyushipin.me
 *.baoyz.com
 *.baoz.net
 *.baozang.com
@@ -11585,6 +11580,7 @@
 *.bdstatic.com
 *.bdsye.com
 *.bdtic.com
+*.bdtjs.org
 *.bdtkba.com
 *.bdtm.net
 *.bdurl.net
@@ -15527,7 +15523,6 @@
 *.china-lushan.com
 *.china-lzmj.com
 *.china-m2m.com
-*.china-mayibc.com
 *.china-moutai.com
 *.china-nengyuan.com
 *.china-nlp.com
@@ -16239,6 +16234,7 @@
 *.chlahb.com
 *.chloe99.com
 *.chmecc.org
+*.chmed.net
 *.chmgames.com
 *.chmia.org
 *.chn112.com
@@ -24823,6 +24819,7 @@
 *.fswl66.com
 *.fsxchina.com
 *.fsxdwy.com
+*.fsxsj.net
 *.fsymltc.com
 *.fsysb.com
 *.fsyule.net
@@ -27893,6 +27890,7 @@
 *.hansrobot.com
 *.hansuku.com
 *.hantang59.com
+*.hantangrx.com
 *.hantangxintong.com
 *.hanterry.com
 *.hantinghotels.com
@@ -29515,6 +29513,7 @@
 *.hnbwsd.com
 *.hnccpit.org
 *.hnchuncheng.com
+*.hncloud.com
 *.hncnnews.net
 *.hncoolwarm.com
 *.hncourt.org
@@ -30902,6 +30901,7 @@
 *.hustport.com
 *.hustunique.com
 *.hustwenhua.net
+*.hustxb.com
 *.husubao.com
 *.hutaojie.com
 *.hutaolinight.com
@@ -31073,6 +31073,7 @@
 *.hyahm.com
 *.hyb2b.com
 *.hybbtree.com
+*.hycdn.com
 *.hycfw.com
 *.hycgy.com
 *.hyckjic.com
@@ -32032,7 +32033,6 @@
 *.ihongyou.com
 *.ihonker.org
 *.ihou.com
-*.ihozh.com
 *.ihr360.com
 *.ihref.com
 *.ihrscloud.com
@@ -34775,7 +34775,6 @@
 *.jixiang10.com
 *.jixiangbaiwei.com
 *.jixiangjili.com
-*.jixiangtv.com
 *.jixiangyou.com
 *.jixianku.com
 *.jixie100.net
@@ -35647,6 +35646,7 @@
 *.jumaicms.com
 *.jumaizhijia.com
 *.jumanhua.com
+*.jumbobondhk.com
 *.jumei.com
 *.jumeiglobal.com
 *.jumeinet.com
@@ -39145,6 +39145,7 @@
 *.lipinduihuan.com
 *.lipip.com
 *.lippt.com
+*.liqiang999.com
 *.liqihuoke.com
 *.liqijt.com
 *.liqile.com
@@ -40446,7 +40447,6 @@
 *.lzfjq.com
 *.lzg.im
 *.lzgxq.com
-*.lzhaohao.info
 *.lzhongdian.com
 *.lzhpo.com
 *.lzjdbjc.com
@@ -44200,6 +44200,7 @@
 *.nmyygs.com
 *.nmzh.net
 *.nmzol.com
+*.nn.ci
 *.nn.com
 *.nn92.com
 *.nnbrj.com
@@ -44904,6 +44905,7 @@
 *.oncity.cc
 *.oncloud.store
 *.one-all.com
+*.one-arts.com
 *.one-eyedjack.it
 *.one-lab.net
 *.one918.com
@@ -45792,7 +45794,6 @@
 *.pdsxww.com
 *.pdszhtl.com
 *.pdvisa.com
-*.pdwzjs.com
 *.pdxx.net
 *.pe.vc
 *.pe62.com
@@ -49567,7 +49568,6 @@
 *.rsu.su
 *.rsw163.com
 *.rszfg.com
-*.rszh.net
 *.rt-blend.com
 *.rt-mart.net
 *.rt-thread.org
@@ -51186,6 +51186,7 @@
 *.shenyangoffice.com
 *.shenyecg.com
 *.shenyehd.com
+*.shenyequ.com
 *.shenyongxiang.com
 *.shenyou.tv
 *.shenyunlaw.com
@@ -54597,6 +54598,7 @@
 *.talkyun.com
 *.taluo.com
 *.tamaegis.com
+*.tamc8.com
 *.tamersunion.org
 *.tamguo.com
 *.tamigroup.com
@@ -66975,6 +66977,7 @@
 *.yunpanx.com
 *.yunpian.com
 *.yunpiao.net
+*.yunpigai.com
 *.yunplus.io
 *.yunpp.com
 *.yunqi.org
@@ -67293,6 +67296,7 @@
 *.yyclub.org
 *.yycoin.com
 *.yycqc.com
+*.yydbzz.com
 *.yydidai.com
 *.yydzh.com
 *.yyearth.com
@@ -67487,6 +67491,7 @@
 *.zaijia.com
 *.zaijiawan.com
 *.zailouxia.com
+*.zaiminglvsuo.com
 *.zaisd.com
 *.zaitansuo.com
 *.zaitong.net
@@ -67902,6 +67907,7 @@
 *.zgkao.com
 *.zgkashi.com
 *.zgkawah.com
+*.zgkfzz.com
 *.zgkjb.com
 *.zgkjcx.com
 *.zgkjw.org
@@ -68044,6 +68050,7 @@
 *.zhaiiker.com
 *.zhaikexueyuan.com
 *.zhainanba.net
+*.zhainanbaw.com
 *.zhainanfulishe.com
 *.zhainanhuayuan.com
 *.zhainanpindao.cc
