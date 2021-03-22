@@ -7,7 +7,7 @@
 3. 点击「新增情景模式」-「自动切换」，名字自己设置；
 4. 规则列表设置为直连；
 5. 默认情景模式设置为刚才设置的代理服务器；
-6. 点击「添加规则列表」，在规则列表网址，输入``https://raw.githubusercontent.com/entr0pia/SwitchyOmega-Whitelist/master/white-list.sorl``；
+6. 点击「添加规则列表」，在规则列表网址，输入 [https://raw.githubusercontent.com/entr0pia/SwitchyOmega-Whitelist/master/white-list.sorl](https://raw.githubusercontent.com/entr0pia/SwitchyOmega-Whitelist/master/white-list.sorl)；
 7. 点击「立即更新情景模式」；
 8. 点击左上角「界面」，将初始情景模式改为「自动切换」。
 
