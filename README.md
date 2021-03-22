@@ -14,4 +14,4 @@
 
 ## 使用建议
 1. [黑名单](https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt) 适用于经常访问国内网的同学，白名单适用于经常访问国外网的同学；
-2. 建议``googel.cn``强制走代理。
+2. 建议``google.cn``强制走代理。
