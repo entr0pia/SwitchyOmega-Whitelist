@@ -1,13 +1,19 @@
 name: 'Update Bot'
  
 on:
-  push:
+  workflow_dispatch:
   schedule:
     - cron: '0 23 * * *'
-
+    
 jobs:
   bot:
     runs-on: ubuntu-latest
     steps:
-      name: 'update'
-      run: python3 ./update.py
+      - name: 'Checkout Ubuntu'
+        uses: actions/checkout@v1
+      - name: 'Set up Python'
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.8
+      - name: 'update'
+        run: python3 ./update.py
