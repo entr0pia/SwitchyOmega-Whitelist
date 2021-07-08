@@ -3,19 +3,14 @@
 name: 'Update Bot'
  
 on:
-  repository_dispatch:
   workflow_dispatch:
+  schedule:
+    - cron: '0 23 * * *'
     
 jobs:
   bot:
     runs-on: ubuntu-latest
     steps:
-      - name: Repository Dispatch
-        uses: peter-evans/repository-dispatch@v1
-        with:
-          token: ${{ secrets.REPO_ACCESS_TOKEN }}
-          repository: felixonmars/dnsmasq-china-list
-          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
       - name: 'Checkout Ubuntu'
         uses: actions/checkout@v1
       - name: 'Set up Python'
