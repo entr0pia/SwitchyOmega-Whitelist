@@ -13,7 +13,9 @@ jobs:
       - name: Repository Dispatch
         uses: peter-evans/repository-dispatch@v1
         with:
+          token: ${{ secrets.REPO_ACCESS_TOKEN }}
           repository: felixonmars/dnsmasq-china-list
+          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
       - name: 'Checkout Ubuntu'
         uses: actions/checkout@v1
       - name: 'Set up Python'
