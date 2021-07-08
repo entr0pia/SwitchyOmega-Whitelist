@@ -71,7 +71,3 @@ if __name__ == "__main__":
         f.writelines(out)
 
     os.remove(conffile)
-    
-    os.system('git add *')
-    os.system('git commit -m "update"')
-    os.system('git push')

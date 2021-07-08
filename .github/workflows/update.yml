@@ -21,3 +21,13 @@ jobs:
         run: pip install requests
       - name: 'update'
         run: python3 ./update.py
+      - name: 'commit'
+        run: |
+          git config --global user.email 30486766+entr0pia@users.noreply.github.com
+          git config --global user.name entr0pia
+          git add *
+          git commit -m "update by bot"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.workflow }}
