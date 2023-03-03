@@ -8,6 +8,7 @@
 import requests
 import re
 import os
+import time
 
 # 默认来源 git@github.com:felixonmars/dnsmasq-china-list.git, 可能需要代理
 confurl = 'https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf'
@@ -16,8 +17,10 @@ if __name__ == "__main__":
     conffile = 'accelerated-domains.china.conf'
     sorlfile = 'white-list.sorl'
     rules = set()
+    up_time=time.ctime()
     headline = ['[SwitchyOmega Conditions]\n',
                 '; Require: SwitchyOmega >= 2.3.2\n',
+                '; Update @ {}\n'.format(up_time),
                 '\n',
                 '; cn域名都不走代理\n',
                 '*.cn\n',
