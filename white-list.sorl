@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Sun Mar 12 10:21:53 2023
+; Update @ Mon Mar 13 10:24:26 2023
 
 ; cn域名都不走代理
 *.cn
@@ -7602,7 +7602,6 @@
 *.ahudows.com
 *.ahugeship.com
 *.ahuyi.com
-*.ahwkdz.com
 *.ahwwnews.com
 *.ahwxcs.com
 *.ahxwkj.com
@@ -7895,6 +7894,7 @@
 *.aiuxstudio.com
 *.aiviy.com
 *.aiviysoft.com
+*.aivote.com
 *.aiwall.com
 *.aiwan4399.com
 *.aiwan91.com
@@ -16779,6 +16779,7 @@
 *.cyudun.net
 *.cyuew.com
 *.cywetc.com
+*.cywyjj.com
 *.cyy18.com
 *.cyypscl.com
 *.cyyself.name
@@ -26898,7 +26899,6 @@
 *.hoverlees.com
 *.hovertree.com
 *.hovfree.com
-*.how234.com
 *.howardwchen.com
 *.howbuy.com
 *.howelllighting.com
@@ -28561,6 +28561,7 @@
 *.icslx.com
 *.icsoc.net
 *.icson.com
+*.icspec.com
 *.icss.me
 *.icstreet.com
 *.icswb.com
@@ -37288,6 +37289,7 @@
 *.mcchcdn.com
 *.mcchina.com
 *.mcchou.com
+*.mcd.blue
 *.mcd.cc
 *.mcdchina.net
 *.mcdsusan.com
@@ -37826,7 +37828,6 @@
 *.miaostreet.com
 *.miaov.com
 *.miaoweijianfei.com
-*.miaowugo.com
 *.miaowutech.com
 *.miaoxiazai.com
 *.miaozao.com
@@ -38621,7 +38622,6 @@
 *.morewiscloud.com
 *.morigames.com
 *.morihei.net
-*.moring.pw
 *.morketing.com
 *.morning.work
 *.morningcore.com
@@ -42373,7 +42373,6 @@
 *.ppxs.net
 *.ppxvod.com
 *.ppxwo.com
-*.ppxzy.co
 *.ppys.net
 *.ppzhan.com
 *.ppzhilian.com
@@ -48864,7 +48863,6 @@
 *.suningcloud.com
 *.suningestate.com
 *.suningholdings.com
-*.sunjidong.net
 *.sunjiwen.com
 *.sunjs.com
 *.sunland.cc
@@ -51876,7 +51874,6 @@
 *.twcczhu.com
 *.twd2.me
 *.twd2.net
-*.tweakboxapp.com
 *.tweakcube.com
 *.twguozao.com
 *.twh5.com
@@ -55322,7 +55319,6 @@
 *.woaifanyi.com
 *.woaihaoyouxi.com
 *.woaihuahua.com
-*.woaipj.com
 *.woaipu.com
 *.woair.com
 *.woaishouban.com
@@ -57968,7 +57964,6 @@
 *.xoliao.com
 *.xooooa.com
 *.xorpay.com
-*.xoveskincare.com
 *.xox8688.com
 *.xox8995.com
 *.xox9325.com
