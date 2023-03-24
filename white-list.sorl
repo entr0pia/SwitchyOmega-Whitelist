@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Thu Mar 23 10:23:11 2023
+; Update @ Fri Mar 24 10:22:26 2023
 
 ; cn域名都不走代理
 *.cn
@@ -19714,6 +19714,7 @@
 *.echinatobacco.com
 *.echo-isoftstone.com
 *.echo188.com
+*.echodns.xyz
 *.echoing.tech
 *.echoteen.com
 *.echuandan.com
@@ -21546,6 +21547,7 @@
 *.fhycs.com
 *.fhyx.com
 *.fhyx.hk
+*.fhyx.online
 *.fi1818.com
 *.fi94.com
 *.fiberhome.com
@@ -34822,6 +34824,7 @@
 *.lerye.com
 *.leshanvc.com
 *.leshi123.cc
+*.leshiguang.com
 *.leshou.com
 *.leshow.com
 *.leshu.com
@@ -46133,6 +46136,7 @@
 *.shangbaolai.com
 *.shangbiao.com
 *.shangbiao.store
+*.shangbiaocheng.com
 *.shangboo.com
 *.shangbw.com
 *.shangc.net
@@ -50436,6 +50440,7 @@
 *.tianmao.com
 *.tianmaying.com
 *.tianmidian.com
+*.tianmu.mobi
 *.tianmupe.com
 *.tianmupr.com
 *.tiann90.com
@@ -55610,6 +55615,7 @@
 *.wsoversea.info
 *.wsq.cool
 *.wsqejt.com
+*.wss.ink
 *.wsssec.com
 *.wstong.com
 *.wstx.com
@@ -56853,6 +56859,7 @@
 *.xiaomingming.org
 *.xiaomiqiu.com
 *.xiaomiquan.com
+*.xiaomirom.com
 *.xiaomishu.com
 *.xiaomiwujiecao.com
 *.xiaomiyoupin.com
@@ -57960,6 +57967,7 @@
 *.xs.la
 *.xs123.net
 *.xs123.org
+*.xs163.net
 *.xs2500.com
 *.xs3cnc.com
 *.xs52.com
@@ -63783,6 +63791,7 @@
 *.zuosa.com
 *.zuoshangbao.com
 *.zuoshipin.com
+*.zuoshouyisheng.com
 *.zuotishi.com
 *.zuotixia.com
 *.zuowen.com
