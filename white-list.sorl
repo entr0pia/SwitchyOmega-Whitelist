@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Sat Mar 25 10:20:46 2023
+; Update @ Sun Mar 26 10:20:28 2023
 
 ; cn域名都不走代理
 *.cn
@@ -814,7 +814,7 @@
 *.1024.com
 *.1024.cool
 *.1024.ink
-*.1024dmg.com
+*.1024.mx
 *.1024g.com
 *.1024ie.com
 *.1024nic.com
@@ -7975,6 +7975,7 @@
 *.akeyun.com
 *.akhtm.com
 *.akhy.com
+*.akjianding.com
 *.akkogear.com
 *.akng.net
 *.akniu.com
@@ -11745,6 +11746,7 @@
 *.buylabel.com
 *.buysun.net
 *.buysweet.com
+*.buyu1314.com
 *.buzhi5.com
 *.buzhibushi.com
 *.buzzads.com
@@ -25636,6 +25638,7 @@
 *.hdslb.net
 *.hdsx36hb.com
 *.hdsx39hb.com
+*.hdsx83hb.com
 *.hdtgtm.com
 *.hdtmedia.com
 *.hduofen.com
@@ -40125,6 +40128,7 @@
 *.normstar.net
 *.northdy.com
 *.northidc.net
+*.northsoar.com
 *.northtimes.com
 *.nosec.org
 *.nosuchfield.com
@@ -49453,6 +49457,7 @@
 *.szwfzs.com
 *.szwgroup.com
 *.szwstui.com
+*.szwtsd.com
 *.szwuyukeji.com
 *.szwwco.com
 *.szxbyx.com
@@ -63609,7 +63614,6 @@
 *.zssph.com
 *.zssxczxyey.com
 *.zstack.io
-*.zstzs.com
 *.zsucai.com
 *.zsucai.net
 *.zsufivehos.com
