@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Thu Apr 20 10:21:43 2023
+; Update @ Fri Apr 21 10:21:37 2023
 
 ; cn域名都不走代理
 *.cn
@@ -16468,6 +16468,7 @@
 *.ctocio.com
 *.ctoclub.com
 *.ctoutiao.com
+*.ctqcw.com
 *.ctracer.net
 *.ctrip-lvyou.com
 *.ctrip-ttd.hk
@@ -19672,6 +19673,7 @@
 *.echashi.com
 *.echatsoft.com
 *.echead.com
+*.echepiao.com
 *.echiele.com
 *.echinacareers.com
 *.echinacities.com
@@ -22739,7 +22741,6 @@
 *.gbtags.com
 *.gbtranswins.com
 *.gbw114.com
-*.gc-repair.com
 *.gc-zb.com
 *.gc1616.com
 *.gc39.com
@@ -23143,7 +23144,6 @@
 *.ghost008.com
 *.ghost11.com
 *.ghost123.com
-*.ghost580.net
 *.ghost64.com
 *.ghostchina.com
 *.ghostsf.com
@@ -30189,7 +30189,6 @@
 *.izjj.com
 *.izmzg.com
 *.izstz.com
-*.izt6.com
 *.izt8.com
 *.iztwp.com
 *.izuche.com
@@ -34756,7 +34755,6 @@
 *.lersang.com
 *.lerye.com
 *.leshanvc.com
-*.leshi123.cc
 *.leshiguang.com
 *.leshou.com
 *.leshow.com
@@ -41835,7 +41833,6 @@
 *.pinzhi.org
 *.pinzhikeji.net
 *.pinzs.com
-*.pioneerlinux.com
 *.pioneersci.com
 *.pipa.com
 *.pipacdn.com
@@ -47026,7 +47023,6 @@
 *.shuzhiduo.com
 *.shuzhou.cc
 *.shuzibao.com
-*.shuziju.com
 *.shuzixiaoyuan.com
 *.shwcsh.com
 *.shwdbjgs.com
@@ -49422,7 +49418,6 @@
 *.t-io.org
 *.t-ji.net
 *.t-jiu.com
-*.t-nan.com
 *.t-v.com
 *.t.tt
 *.t00ls.cc
@@ -50707,7 +50702,6 @@
 *.tlivepush.com
 *.tljcw.com
 *.tljob8001.com
-*.tlkzs.com
 *.tlqwine.com
 *.tlrcbk.com
 *.tlryjg.com
@@ -55460,7 +55454,6 @@
 *.wsfdn.com
 *.wsfff.com
 *.wsfnk.com
-*.wsfsy.com
 *.wsgjp.com
 *.wsglb0.com
 *.wsglb0.info
@@ -58246,7 +58239,6 @@
 *.xxhd-tech.com
 *.xxhh.com
 *.xxhkt.com
-*.xxhyzd.com
 *.xxingclub.com
 *.xxjcy.com
 *.xxjrjxc.com
@@ -62276,7 +62268,6 @@
 *.zhinengshe.com
 *.zhinengxia.com
 *.zhinet.com
-*.zhinews.com
 *.zhinikefu.com
 *.zhiniu8.com
 *.zhipan.net
