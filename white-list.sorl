@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Fri May 26 10:21:31 2023
+; Update @ Sat May 27 10:19:51 2023
 
 ; cn域名都不走代理
 *.cn
@@ -2193,7 +2193,6 @@
 *.23sk.com
 *.23tgo.com
 *.23txt.com
-*.23us.la
 *.23us.so
 *.23us.tv
 *.23us23us.com
@@ -7586,6 +7585,7 @@
 *.ahteacher.com
 *.ahtlbyby.com
 *.ahtlgc.com
+*.ahtoc.com
 *.ahtrain.com
 *.ahuano.com
 *.ahudows.com
@@ -11443,6 +11443,7 @@
 *.boolaw.com
 *.boole-tech.com
 *.boolean93.com
+*.boolv.com
 *.boomsense.com
 *.boonwin.com
 *.boooba.com
@@ -14996,7 +14997,6 @@
 *.cmcc-ecs.com
 *.cmcc.in
 *.cmcm.com
-*.cmcm5.cc
 *.cmcm5.com
 *.cmcm55.cc
 *.cmcmcdn.com
@@ -15843,6 +15843,7 @@
 *.communicatte.com
 *.comocloud.net
 *.companydns.com
+*.compass-fit.jp
 *.compassedu.hk
 *.compevt.com
 *.compgoo.com
@@ -39076,6 +39077,7 @@
 *.mwryx.com
 *.mwyzhcdn.com
 *.mx-industry.com
+*.mx007.com
 *.mx175.com
 *.mx3g.com
 *.mxarts.com
@@ -44276,6 +44278,7 @@
 *.qxbnkj.com
 *.qxbx.com
 *.qxcu.com
+*.qxdaojia.com
 *.qxiu.com
 *.qxka.com
 *.qxkp.net
@@ -50662,6 +50665,7 @@
 *.tianmaying.com
 *.tianmidian.com
 *.tianmu.mobi
+*.tianmunews.com
 *.tianmupe.com
 *.tianmupr.com
 *.tiann90.com
@@ -61255,7 +61259,6 @@
 *.yunip.com
 *.yunipo.com
 *.yunji.com
-*.yunjiale.net
 *.yunjian.com
 *.yunjiasu-cdn.net
 *.yunjiasu.com
@@ -62562,6 +62565,7 @@
 *.zhenwu.com
 *.zhenxiad.com
 *.zhenxian.fm
+*.zhenxinfu.com
 *.zhenxingkuangchanpin.com
 *.zhenyouliao.com
 *.zhenyouweb.com
