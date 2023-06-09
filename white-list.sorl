@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Thu Jun  8 10:22:01 2023
+; Update @ Fri Jun  9 10:21:59 2023
 
 ; cn域名都不走代理
 *.cn
@@ -3632,9 +3632,12 @@
 *.517huwai.com
 *.517idc.com
 *.517japan.com
+*.517la.com
+*.517la.net
 *.517lppz.com
 *.517ming.com
 *.517mr.com
+*.517na.com
 *.517rcw.com
 *.517sc.com
 *.517tez.com
@@ -18669,7 +18672,6 @@
 *.dongqiudi.com
 *.dongqiudi.net
 *.dongsenzs.com
-*.dongshenghuiyang.com
 *.dongshou.com
 *.dongsport.com
 *.dongtaijt.com
@@ -34408,6 +34410,7 @@
 *.lanrenzhaofang.com
 *.lanrenzhijia.com
 *.lanrenzhoumo.com
+*.lansancn.com
 *.lansedongli.com
 *.lansha.tv
 *.lanshanweb.com
@@ -38519,7 +38522,6 @@
 *.moeli123.com
 *.moemiao.net
 *.moeover.com
-*.moerail.ml
 *.moerkeji.net
 *.moerlong.com
 *.moetu.org
@@ -39436,7 +39438,6 @@
 *.namisoft.com
 *.namitiyu.com
 *.namoc.org
-*.nanadao.com
 *.nanapro.org
 *.nanbeijt.com
 *.nanbeiyou.com
@@ -40817,6 +40818,7 @@
 *.onche.net
 *.oncity.cc
 *.one-all.com
+*.one-netbook.com
 *.one918.com
 *.onealert.com
 *.oneapm.com
@@ -40911,6 +40913,7 @@
 *.oomake.com
 *.ooniu.com
 *.ooogo.com
+*.ooooai.com
 *.ooopic.com
 *.ooopn.com
 *.ooppoo.com
@@ -48929,7 +48932,6 @@
 *.sun0769.com
 *.sun0769ns.com
 *.sun0816.com
-*.sun19.com
 *.sun66.net
 *.sunacctg.com
 *.sunater.com
@@ -52465,6 +52467,7 @@
 *.umaman.com
 *.umbpay.com
 *.umcloud.com
+*.umdac.com
 *.umeng.co
 *.umeng.com
 *.umeng.online
