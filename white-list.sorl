@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Wed Jun 14 10:21:29 2023
+; Update @ Thu Jun 15 10:22:32 2023
 
 ; cn域名都不走代理
 *.cn
@@ -4723,7 +4723,6 @@
 *.5906333.com
 *.590m.com
 *.59120.com
-*.591234x.com
 *.59168.net
 *.59178.com
 *.5918dyw.com
@@ -8317,7 +8316,6 @@
 *.ampmake.com
 *.ampxl.com
 *.ams-ic.com
-*.amsjsy.com
 *.amsoveasea.com
 *.amssro.net
 *.amtron-ic.com
@@ -9748,7 +9746,6 @@
 *.bao21.com
 *.bao315.com
 *.bao369.com
-*.baobabnet.com
 *.baobao.com
 *.baobao001.com
 *.baobao88.com
@@ -13258,7 +13255,6 @@
 *.chaojifan.com
 *.chaojifangyu.com
 *.chaojihetong.com
-*.chaojishipin.com
 *.chaojixiaobaicai.club
 *.chaojiying.com
 *.chaojiyun.com
@@ -29918,7 +29914,6 @@
 *.istylepdf.com
 *.isudaji.com
 *.isuike.com
-*.isumiao.com
 *.isummi.com
 *.isun.org
 *.isuzhou.me
@@ -34503,6 +34498,7 @@
 *.laohuyun.com
 *.laojilu.com
 *.laojiuxitong.com
+*.laojuhui.com
 *.laoke.com
 *.laolai.com
 *.laoliang.net
@@ -40518,6 +40514,7 @@
 *.nxyqs.com
 *.ny-yy.com
 *.ny83.com
+*.nya.ink
 *.nyaacat.com
 *.nyasama.com
 *.nyato.com
@@ -44723,7 +44720,6 @@
 *.repianimg.com
 *.replays.net
 *.replicated.cc
-*.rerevod.com
 *.resccske.cyou
 *.resheji.com
 *.resistor.today
