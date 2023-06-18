@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Sat Jun 17 10:20:31 2023
+; Update @ Sun Jun 18 10:20:36 2023
 
 ; cn域名都不走代理
 *.cn
@@ -1678,7 +1678,6 @@
 *.18daxue.com
 *.18dx.com
 *.18guanjia.com
-*.18kf.net
 *.18l.net
 *.18ladys.com
 *.18link.com
@@ -2578,6 +2577,7 @@
 *.330123456.com
 *.3304399.com
 *.3304399.net
+*.330shingpklk.com
 *.33105.com
 *.331234.xyz
 *.3312345.com
@@ -3098,6 +3098,7 @@
 *.3cpp.org
 *.3cvrc.com
 *.3cwu.com
+*.3cxg6v.com
 *.3d-stereovision.com
 *.3d2000.com
 *.3d56.net
@@ -4251,6 +4252,7 @@
 *.52cik.com
 *.52ckd.com
 *.52click.net
+*.52codes.net
 *.52da.com
 *.52daohang.com
 *.52debug.net
@@ -8703,7 +8705,6 @@
 *.app178.com
 *.app2006.com
 *.app2pixel.com
-*.app4cms.net
 *.app86.com
 *.app887.com
 *.appadhoc.com
@@ -9644,6 +9645,7 @@
 *.bandubook.com
 *.banfubbs.com
 *.banfuzg.com
+*.bang1.work
 *.bangbang.com
 *.bangbang93.com
 *.bangbangbang.wang
@@ -10395,7 +10397,6 @@
 *.bhgmarketplace.com
 *.bhhgallery.com
 *.bhjck.com
-*.bhjysp.com
 *.bhk.mobi
 *.bhnsh.com
 *.bhpiano.com
@@ -12036,7 +12037,6 @@
 *.cagoe.com
 *.cahkms.org
 *.cahuo.com
-*.cai188.com
 *.cai8.net
 *.caian.net
 *.caibaojian.com
@@ -12983,7 +12983,6 @@
 *.cfca-c.org
 *.cfcf.ink
 *.cfcglx.com
-*.cfcp67.com
 *.cfcpn.com
 *.cfcyb.com
 *.cfd-china.com
@@ -17476,7 +17475,6 @@
 *.ddoswafcdn.xyz
 *.ddove.com
 *.ddpai.com
-*.ddport.com
 *.ddqcw.com
 *.ddsaas.com
 *.ddstarapp.com
@@ -20772,7 +20770,6 @@
 *.eyoucms.com
 *.eyourbusiness.com
 *.eyprint.com
-*.eyrefree.org
 *.eyu2017.xyz
 *.eyuangong.com
 *.eyuconnect.com
@@ -21400,7 +21397,6 @@
 *.fengbolive.com
 *.fengbuy.com
 *.fengchizixun.com
-*.fengchj.com
 *.fengchuanba.com
 *.fengchui.cc
 *.fengchusheng.com
@@ -24055,6 +24051,7 @@
 *.guangdauser.com
 *.guangdianyun.tv
 *.guangdiu.com
+*.guangdongtaiji.com
 *.guangdv.com
 *.guangfeng.com
 *.guanggao.com
@@ -25081,7 +25078,6 @@
 *.hao86.com
 *.hao8dai.com
 *.hao9669.com
-*.hao9988.com
 *.haoad.org
 *.haoamc.com
 *.haoayi.xyz
@@ -31122,7 +31118,6 @@
 *.jimubox.com
 *.jimuc.com
 *.jimucake.com
-*.jimucc.com
 *.jimufund.com
 *.jimuhezi.com
 *.jimujiazx.com
@@ -32049,7 +32044,6 @@
 *.jsclearing.com
 *.jscmjt.com
 *.jscnc.net
-*.jscqt.com
 *.jscsfc.com
 *.jscssimg.com
 *.jscts.com
@@ -33191,6 +33185,7 @@
 *.kexuezixunzzs.com
 *.keyan.life
 *.keyboardancer.com
+*.keyboardingonline.net
 *.keycom-ip.com
 *.keydatas.com
 *.keydot.net
@@ -36748,7 +36743,6 @@
 *.m2mzy.com
 *.m3guo.com
 *.m448.com
-*.m598.com
 *.m5bn.com
 *.m5stack.com
 *.m6go.com
@@ -37115,7 +37109,6 @@
 *.maoha.com
 *.maohaha.com
 *.maohetao.com
-*.maohui.net
 *.maoken.com
 *.maoln.com
 *.maomaoche.com
@@ -39524,7 +39517,6 @@
 *.nbpolytheatre.com
 *.nbrj.com
 *.nbrlzy.com
-*.nbrz.site
 *.nbsason.com
 *.nbshuoxue.com
 *.nbsqbank.com
@@ -39567,7 +39559,6 @@
 *.ncu.me
 *.ncvtinfo.com
 *.ncvtmi.com
-*.ncwyxh.com
 *.ncxb.com
 *.ncyinghuochong.net
 *.ncyunqi.com
@@ -40184,6 +40175,7 @@
 *.nonganxian.com
 *.nongcun5.com
 *.nongfen.com
+*.nongfujing.com
 *.nongfuspring.com
 *.nongji1688.com
 *.nongji360.com
@@ -40640,6 +40632,7 @@
 *.oi-wiki.org
 *.oiaqye7985.com
 *.oicat.com
+*.oicp.net
 *.oicq88.com
 *.oicto.com
 *.oidchina.org
@@ -43762,6 +43755,7 @@
 *.qqqnm.com
 *.qqqooo.com
 *.qqqqqqqqqqqqq.com
+*.qqrain.com
 *.qqread.com
 *.qqride.com
 *.qqrizhi.com
@@ -44797,6 +44791,7 @@
 *.riyugo.com
 *.riyujob.com
 *.riyurumen.com
+*.riyutool.com
 *.rizhao9.com
 *.rizhaociming.com
 *.rizhaokjg.com
@@ -45589,6 +45584,7 @@
 *.schneidercampus.com
 *.scholarmate.com
 *.scholat.com
+*.school888.com
 *.schoolpi.net
 *.schove.com
 *.schrb.com
@@ -45602,7 +45598,6 @@
 *.scichina.com
 *.scicn.net
 *.scidict.org
-*.sciencemeta.com
 *.scientrans.com
 *.scies.org
 *.scifans.com
@@ -48452,7 +48447,6 @@
 *.sqstudio.com
 *.squarecn.com
 *.squarefong.com
-*.sqxy.net
 *.sqzw.com
 *.srcb.com
 *.srcbcz.com
@@ -50049,7 +50043,6 @@
 *.tbyfsoft.com
 *.tbyuantu.com
 *.tc-21.com
-*.tc-ds2000.com
 *.tc12580.com
 *.tc199.net
 *.tc9011.com
@@ -50541,6 +50534,7 @@
 *.tianhujy.com
 *.tianji.com
 *.tianji368.com
+*.tianjiarun.com
 *.tianjigame.com
 *.tianjihr.com
 *.tianjimedia.com
@@ -50636,7 +50630,6 @@
 *.tianyijue.com
 *.tianyinzaixian.com
 *.tianyitop.com
-*.tianyiweiya.com
 *.tianyue100.com
 *.tianyuimg.com
 *.tianzeba.com
@@ -52050,8 +52043,8 @@
 *.typechodev.com
 *.typecodes.com
 *.typekuon.com
-*.tyr.gift
 *.tyrantdb.com
+*.tyrbw.com
 *.tyread.com
 *.tysdmh.com
 *.tysj365.com
@@ -53002,6 +52995,7 @@
 *.velep.com
 *.velocaps.com
 *.vemarsdev.com
+*.vemic.com
 *.vemvm.com
 *.ventoy.net
 *.venucia.com
@@ -62650,6 +62644,7 @@
 *.zhiweidata.com
 *.zhiweisoft.com
 *.zhiwo.com
+*.zhiwushuo.com
 *.zhiwuwang.com
 *.zhixiaohuoke.com
 *.zhixiaoren.com
@@ -62819,6 +62814,7 @@
 *.zhongshang114.com
 *.zhongshanpark.com
 *.zhongshengdai.com
+*.zhongshengxinyun.com
 *.zhongshucan.com
 *.zhongso.com
 *.zhongsou.com
@@ -62897,6 +62893,7 @@
 *.zhsyb.cc
 *.zhtelecom.com
 *.zhtmid.com
+*.zhu23.work
 *.zhu360.com
 *.zhuainiu.com
 *.zhuan16.com
@@ -63716,7 +63713,6 @@
 *.zppxba.com
 *.zptong.com
 *.zptq.com
-*.zpzyb.com
 *.zq12369.com
 *.zq235.com
 *.zq99y.com
