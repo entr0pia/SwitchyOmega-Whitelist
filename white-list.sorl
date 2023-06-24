@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Fri Jun 23 10:25:32 2023
+; Update @ Sat Jun 24 10:23:39 2023
 
 ; cn域名都不走代理
 *.cn
@@ -1148,7 +1148,6 @@
 *.133998.com
 *.133china.com
 *.13482896776.com
-*.135-139.com
 *.135019.com
 *.135031.com
 *.1351.com
@@ -2284,6 +2283,7 @@
 *.26ef.com
 *.26host.com
 *.26joy.com
+*.26ks.org
 *.26lady.com
 *.26tc.com
 *.26youxi.com
@@ -6446,7 +6446,6 @@
 *.921716.com
 *.9217web.com
 *.921lu.com
-*.922000.com
 *.92220668.com
 *.92220701.com
 *.922835.com
@@ -7016,6 +7015,7 @@
 *.a1166.com
 *.a135.net
 *.a166.com
+*.a1736.com
 *.a2048.com
 *.a21fs.com
 *.a21yishion.com
@@ -7852,6 +7852,7 @@
 *.aixcoder.com
 *.aixiaoduo.com
 *.aixiashu.com
+*.aixiashu.net
 *.aixiatxt.com
 *.aixiawa.com
 *.aixiawx.com
@@ -8568,6 +8569,7 @@
 *.aolai.com
 *.aolaigo.com
 *.aoliday.com
+*.aoliongame.com
 *.aolylcd.com
 *.aomeng.net
 *.aomygod.com
@@ -10056,7 +10058,6 @@
 *.bdydns.net
 *.bdys.me
 *.bdysite.com
-*.bdyxzx.com
 *.be-xx.com
 *.be90.com
 *.beadwallet.com
@@ -15338,7 +15339,6 @@
 *.cnkybg.com
 *.cnlaw.net
 *.cnledw.com
-*.cnlhzb.com
 *.cnlianjie.com
 *.cnlid.net
 *.cnlight.com
@@ -20265,6 +20265,7 @@
 *.enrz.com
 *.enshide.com
 *.enshijob.com
+*.ensotemple.com
 *.enstylement.com
 *.ent120.com
 *.enterdesk.com
@@ -26845,7 +26846,6 @@
 *.hottui.com
 *.hotwind.net
 *.hotwindbox.com
-*.houbank.com
 *.houcaller.com
 *.houdao.net
 *.houdask.com
@@ -27630,6 +27630,7 @@
 *.huiyinxun.com
 *.huiyizhuo.com
 *.huiyou.com
+*.huiyu.vc
 *.huiyuandao.com
 *.huiyuanyy.com
 *.huiyumedia.com
@@ -28914,7 +28915,6 @@
 *.ihongqiqu.com
 *.ihou.com
 *.ihr360.com
-*.ihref.com
 *.ihrscloud.com
 *.ihuaben.com
 *.ihuan.me
@@ -30679,7 +30679,6 @@
 *.jiagouyun.com
 *.jiaguhome.com
 *.jiagulun.com
-*.jiahe100.com
 *.jiaheu.com
 *.jiahuacinema.com
 *.jiahuaming.com
@@ -31607,7 +31606,6 @@
 *.jjyx.com
 *.jjzdm.com
 *.jjzfgjj.com
-*.jjzl800.com
 *.jk-px.com
 *.jk126.com
 *.jk130.com
@@ -36827,7 +36825,6 @@
 *.maihanji.com
 *.maihaoche.com
 *.maihehd.com
-*.maihenghb.com
 *.maijia.com
 *.maijiaba.com
 *.maijiakan.com
@@ -37052,7 +37049,6 @@
 *.maodou.com
 *.maodouapp.com
 *.maoercdn.com
-*.maoerduo2018.com
 *.maoflag.net
 *.maogepingbeauty.com
 *.maogx.win
@@ -40327,6 +40323,7 @@
 *.nuokui.com
 *.nuomi.com
 *.nuomicikoi.com
+*.nuomili.com
 *.nuomiphp.com
 *.nuonuo.com
 *.nuozhan.com
@@ -45511,6 +45508,7 @@
 *.scdzmw.com
 *.scedu.net
 *.sceeo.com
+*.scenery.hk
 *.scflcp.com
 *.scfzbs.com
 *.scgc.net
@@ -48458,6 +48456,7 @@
 *.sspaas.com
 *.sspai.com
 *.sspai.me
+*.sspeeddns.com
 *.sspezz.com
 *.ssports.com
 *.ssports.net
@@ -49430,6 +49429,7 @@
 *.szlbfs.com
 *.szlc9.com
 *.szlcsc.com
+*.szlddb.com
 *.szledia.org
 *.szleezen.com
 *.szlhtram.com
@@ -50865,6 +50865,7 @@
 *.tlightsky.com
 *.tlinx.com
 *.tlivecdn.com
+*.tlivemcdn.com
 *.tlivepush.com
 *.tlivesource.com
 *.tljcw.com
@@ -56276,7 +56277,6 @@
 *.xayestar.com
 *.xayrc.com
 *.xazcit.com
-*.xaztdz.com
 *.xazwy.com
 *.xazzg.com
 *.xazzp.com
@@ -57530,6 +57530,7 @@
 *.xinzhi.space
 *.xinzzfsdfdslk333.com
 *.xinzzrowieir444.com
+*.xioagege587skjdo.com
 *.xionganxinxi.com
 *.xionganzhuce.com
 *.xiongdayq.com
@@ -57633,7 +57634,6 @@
 *.xiwnn.com
 *.xiwuji.com
 *.xixi520.com
-*.xixiaoling.com
 *.xixiaoyou.com
 *.xixiarc.com
 *.xixibobo.com
@@ -57889,6 +57889,7 @@
 *.xmqyh321.com
 *.xmr-zh.com
 *.xmrbi.com
+*.xms45.com
 *.xmsec.cc
 *.xmshqh.com
 *.xmsixian.com
@@ -60138,6 +60139,7 @@
 *.yolipai.net
 *.yoloboo.com
 *.yoloho.com
+*.yoloogames.com
 *.yomiko.cloud
 *.yomiko.club
 *.yomiko.fun
@@ -62149,7 +62151,6 @@
 *.zhangu365.com
 *.zhangweijie.net
 *.zhangwenli.com
-*.zhangxinhuichuan.com
 *.zhangxinhulian.com
 *.zhangxinxu.com
 *.zhangyin.org
@@ -63022,6 +63023,7 @@
 *.zhuzhouwang.com
 *.zhuzi.me
 *.zhuzihaoke.com
+*.zhuziplay.com
 *.zhw2101024.com
 *.zhwangart.com
 *.zhwdw.com
@@ -63510,6 +63512,7 @@
 *.zmxiazai.com
 *.zmxiu.com
 *.zmye5vly.com
+*.zmzb.com
 *.zmzjk.com
 *.zn8.com
 *.znba.net
