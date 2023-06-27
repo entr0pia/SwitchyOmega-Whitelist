@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Mon Jun 26 10:25:57 2023
+; Update @ Tue Jun 27 10:25:23 2023
 
 ; cn域名都不走代理
 *.cn
@@ -3873,7 +3873,6 @@
 *.51langtu.com
 *.51ldb.com
 *.51ldzx.com
-*.51lexing.com
 *.51lg.com
 *.51lifes.com
 *.51lingji.com
@@ -6172,7 +6171,6 @@
 *.8pu.com
 *.8qwe5.com
 *.8s123.com
-*.8she.com
 *.8tgh.com
 *.8ttt8.com
 *.8tupian.com
@@ -14630,7 +14628,6 @@
 *.cirno9.net
 *.cirs-reach.com
 *.cirunzhang.com
-*.cismag.net
 *.cismef.com
 *.cispotlight.com
 *.cisskwt.com
@@ -18248,7 +18245,6 @@
 *.djstg.com
 *.dju8.com
 *.djwcp.com
-*.djxfar6.com
 *.djyde.com
 *.djye.com
 *.djyjob.com
@@ -22010,7 +22006,6 @@
 *.fpoll.net
 *.fps7.com
 *.fpsace.com
-*.fpvdxd5.com
 *.fpwap.com
 *.fpxz.net
 *.fqapps.com
@@ -22529,7 +22524,6 @@
 *.galaxyinfo.com
 *.galaxymacau.com
 *.galaxyns.net
-*.galeo.me
 *.gallopgazelle.com
 *.galstars.net
 *.galsun.com
@@ -23099,7 +23093,6 @@
 *.gezhixq.net
 *.gezida.com
 *.gezila.com
-*.gezkdx7.com
 *.gf-cloud.com
 *.gf-funds.com
 *.gf.app
@@ -26015,7 +26008,6 @@
 *.hflbysm.com
 *.hflz.com
 *.hfmama.com
-*.hfmckj.com
 *.hfmoney.com
 *.hfqinhang.com
 *.hfqzdz.com
@@ -26886,7 +26878,6 @@
 *.hp123.com
 *.hp888.com
 *.hpccake.com
-*.hpdwfd2.com
 *.hpoi.net
 *.hpool.online
 *.hprt.com
@@ -28260,6 +28251,7 @@
 *.i9star.com
 *.ia-shenzhen.com
 *.iacblog.com
+*.iaczlg.cfd
 *.iaddata.com
 *.iadmob.com
 *.iadmore.com
@@ -28398,7 +28390,6 @@
 *.ican365.net
 *.icandata.com
 *.icangshu111.com
-*.icanzc.com
 *.icardfinancial.com
 *.icaredbd.com
 *.icasiso.com
@@ -28855,7 +28846,6 @@
 *.igooma.com
 *.igoyx.com
 *.igreatdream.com
-*.igslb.net
 *.igtm-a101.com
 *.igtm-b101.com
 *.iguanyu.com
@@ -29290,7 +29280,6 @@
 *.imugeda.com
 *.imuke.com
 *.imuo.com
-*.imushan.com
 *.imvictor.tech
 *.imw.me
 *.imwaco.com
@@ -30406,7 +30395,6 @@
 *.jcwxiao.com
 *.jcyai.com
 *.jcyes.com
-*.jcyunk2.com
 *.jcyx2019.com
 *.jczhijia.com
 *.jczhiyao.com
@@ -34485,6 +34473,7 @@
 *.lawyershanghai.net
 *.laxiao.com
 *.layabox.com
+*.layoutad.com
 *.laysky.com
 *.layui-inc.com
 *.layui.com
@@ -35795,6 +35784,7 @@
 *.lmwlhh.com
 *.lmwljz.com
 *.lmxxxz.com
+*.ln76yf.cfd
 *.lnamphp.com
 *.lncldapi.com
 *.lncnw.com
@@ -38898,7 +38888,6 @@
 *.muzijie.com
 *.muzili.xyz
 *.muzisoft.com
-*.mvben.com
 *.mvc188.com
 *.mvhere.com
 *.mvoicer.com
@@ -39036,7 +39025,6 @@
 *.mydao.net
 *.mydbfx.com
 *.mydcyj.com
-*.mydebook.com
 *.mydeershow.com
 *.mydf.net
 *.mydianshijia.com
@@ -40282,7 +40270,6 @@
 *.ntuiw.cc
 *.ntuiw.com
 *.ntvalumium.com
-*.ntvxbf7.com
 *.ntwikis.com
 *.ntwzy.com
 *.ntyswlkj.com
@@ -42560,7 +42547,6 @@
 *.pv001.net
 *.pv4b.com
 *.pvc123.com
-*.pvhgws7.com
 *.pvkj.com
 *.pvmama.com
 *.pvpin.com
@@ -43589,7 +43575,6 @@
 *.qnsdk.com
 *.qnssl.com
 *.qntz.cc
-*.qnvipmall.com
 *.qnvod.net
 *.qnydns.com
 *.qnydns.net
@@ -44640,7 +44625,6 @@
 *.rfmwave.com
 *.rfsister.com
 *.rfthunder.com
-*.rfyqtv2.com
 *.rg950.com
 *.rgb128.com
 *.rgdhgdf.com
@@ -46410,6 +46394,7 @@
 *.shejipi.com
 *.shejiqun.com
 *.shejis.com
+*.shejitang.com
 *.shejiwo.net
 *.shejiye.com
 *.sheketiandi.com
@@ -46497,7 +46482,6 @@
 *.shenmayouxi.com
 *.shenmikj.com
 *.shenmou.com
-*.shenmufeiyang0912.com
 *.shenou.com
 *.shenpinwu.com
 *.shenpucw.com
@@ -47443,6 +47427,7 @@
 *.sinopr.org
 *.sinosig.com
 *.sinosiglife.com
+*.sinoss.net
 *.sinostargroup.com
 *.sinosteel.com
 *.sinosun.com
@@ -51481,7 +51466,6 @@
 *.ttbba.com
 *.ttbbss.com
 *.ttbc33.com
-*.ttbcdn.com
 *.ttcad.com
 *.ttdailynews.com
 *.ttdown.com
@@ -53002,7 +52986,6 @@
 *.via-cert.com
 *.viaeda.com
 *.vial.cc
-*.viayoo.com
 *.vibaike.com
 *.vibit.cc
 *.vic18.com
@@ -57962,7 +57945,6 @@
 *.xntv.tv
 *.xnw.com
 *.xnwan.com
-*.xny365.com
 *.xnyauto.com
 *.xnye.net
 *.xnzjxx.com
@@ -62683,7 +62665,6 @@
 *.zhongguohuo.com
 *.zhongguojie.org
 *.zhongguojixiewang.com
-*.zhongguomap.com
 *.zhongguopeixun.net
 *.zhongguose.com
 *.zhongguosou.com
