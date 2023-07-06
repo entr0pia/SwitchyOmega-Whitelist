@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Wed Jul  5 10:26:49 2023
+; Update @ Thu Jul  6 10:26:15 2023
 
 ; cn域名都不走代理
 *.cn
@@ -7365,6 +7365,7 @@
 *.adxvip.com
 *.adxwork.com
 *.adyounger.com
+*.adysimg.com
 *.adyun.com
 *.adzar-energy.com
 *.adzh.com
@@ -8853,7 +8854,6 @@
 *.arkread.com
 *.arkteam.net
 *.arliki.com
-*.arm001.com
 *.arm9.net
 *.arm9home.net
 *.armbbs.net
@@ -17792,7 +17792,6 @@
 *.dgwtrl.com
 *.dgxbjg.com
 *.dgxinde.net
-*.dgxinyuds.com
 *.dgxue.com
 *.dgyejia.com
 *.dgygpx.com
@@ -26184,7 +26183,6 @@
 *.hijoys.com
 *.hikailink.com
 *.hikcreate.com
-*.hikedj.com
 *.hiklife.com
 *.hikoon.com
 *.hikops.com
@@ -48423,6 +48421,7 @@
 *.ssdata.com
 *.ssdax.com
 *.ssdfans.com
+*.ssdzg.com
 *.sseinfo.com
 *.ssf.cc
 *.ssfiction.com
@@ -56861,6 +56860,7 @@
 *.xiaohulu.com
 *.xiaohuochai.cc
 *.xiaohuochai.site
+*.xiaohus.com
 *.xiaohuwl.com
 *.xiaoice.com
 *.xiaoj.com
@@ -58781,7 +58781,6 @@
 *.yanglong.pro
 *.yangluojob.com
 *.yangmao.info
-*.yangmaodang.org
 *.yangmaohao.net
 *.yangner.com
 *.yangqianguan.com
