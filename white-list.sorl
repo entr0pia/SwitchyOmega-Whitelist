@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Sat Jul  8 10:22:42 2023
+; Update @ Sun Jul  9 10:23:04 2023
 
 ; cn域名都不走代理
 *.cn
@@ -6334,7 +6334,6 @@
 *.91mariadb.com
 *.91maths.com
 *.91miaoshou.com
-*.91mjw.vip
 *.91money.com
 *.91muzhi.com
 *.91ndeh.xyz
@@ -9999,7 +9998,6 @@
 *.bdclouddns.com
 *.bdf2.com
 *.bdfkb.com
-*.bdfxa.com
 *.bdfzcd.net
 *.bdfzgz.net
 *.bdgamelive.com
@@ -10184,7 +10182,6 @@
 *.bemfa.com
 *.bemhome.com
 *.benbenlong.com
-*.benbenq.com
 *.benber-tech.com
 *.benber.com
 *.benbun.com
@@ -10345,6 +10342,7 @@
 *.bgl88.com
 *.bgmfans.com
 *.bgmlist.com
+*.bgrdh.com
 *.bgren.com
 *.bgrimm.com
 *.bgsdk.net
@@ -15348,7 +15346,6 @@
 *.cnmsn.net
 *.cnmstl.net
 *.cnmtpt.com
-*.cnmysql.com
 *.cnnaihuo.com
 *.cnnb.com
 *.cnnbfdc.com
@@ -20024,6 +20021,7 @@
 *.eisoo.com
 *.eistudy.com
 *.eit0571.com
+*.ej22g.com
 *.ejamad.com
 *.ejcms.com
 *.ejcop.com
@@ -20119,7 +20117,6 @@
 *.elongshine.com
 *.elongstatic.com
 *.elontest.com
-*.elopatchwork.com
 *.elpcon.com
 *.elpwc.com
 *.els001.com
@@ -21671,7 +21668,6 @@
 *.fjhxbank.com
 *.fjhxcaee.com
 *.fjii.com
-*.fjithr.com
 *.fjjcjy.com
 *.fjjsp01.com
 *.fjjszg.com
@@ -27241,7 +27237,6 @@
 *.huangdc.com
 *.huangea.com
 *.huanggao.net
-*.huanggaofang.com
 *.huangh.com
 *.huanghaicollege.com
 *.huanghaiting.com
@@ -29500,6 +29495,7 @@
 *.inzotek.com
 *.ioa365.com
 *.ioage.com
+*.ioclab.com
 *.iocrest.com
 *.iodraw.com
 *.ioeyjsb.com
@@ -31253,7 +31249,6 @@
 *.jinsdk.com
 *.jinse.com
 *.jinsebook.com
-*.jinsedihao.com
 *.jinsehuaqin.com
 *.jinshakemei.com
 *.jinshangdai.cc
@@ -33109,7 +33104,6 @@
 *.kexue.com
 *.kexue.fm
 *.kexuezixunzzs.com
-*.keyan.life
 *.keyboardancer.com
 *.keyboardingonline.net
 *.keycom-ip.com
@@ -39267,12 +39261,9 @@
 *.n459.com
 *.n4x8.xyz
 *.n5738.com
-*.n5878.com
-*.n6579.com
 *.n7326.com
 *.n77777777.com
 *.n802.com
-*.n8389.com
 *.n9cn.net
 *.n9z.net
 *.naadou.com
@@ -44095,6 +44086,7 @@
 *.qwolf.com
 *.qwomcrm.com
 *.qwpo2018.com
+*.qwq.kim
 *.qwq.moe
 *.qwq.ren
 *.qwqk.net
@@ -44213,7 +44205,6 @@
 *.qzxkeji.com
 *.qzxx.com
 *.qzyb.com
-*.qzybl.com
 *.qzyxzs.com
 *.qzze.com
 *.qzzn.com
@@ -48180,7 +48171,6 @@
 *.soupv.com
 *.souqian.com
 *.souqiu8.com
-*.souqiwang.net
 *.souqupu.com
 *.source.tutorabc.com
 *.source3g.com
@@ -48536,7 +48526,6 @@
 *.staticssl.image-gmkt.com
 *.staycu.com
 *.stbieshu.com
-*.stbpzs.com
 *.stc2002.com
 *.stcmcu.com
 *.stcmcudata.com
@@ -50010,6 +49999,7 @@
 *.tctong.com
 *.tcxw.cc
 *.tcy365.com
+*.tcyad.com
 *.tcylgslb.com
 *.td-tech.com
 *.td22.com
@@ -50087,7 +50077,6 @@
 *.techqianmo.com
 *.techshidai.com
 *.techsir.com
-*.techspecndt.com
 *.techtmt.com
 *.techuangyi.com
 *.techug.com
@@ -50526,7 +50515,6 @@
 *.tianxia.la
 *.tianxiajiameng.com
 *.tianxiang.com
-*.tianxianle.com
 *.tianxianmao.com
 *.tianxiawangxiao.com
 *.tianxiaxiao.net
@@ -52392,6 +52380,7 @@
 *.unifycarbon.com
 *.unigress.com
 *.uninf.com
+*.uninstall-tools.com
 *.union-4.com
 *.union-game.com
 *.union-rnd.com
@@ -53374,7 +53363,6 @@
 *.vtuzx.com
 *.vue-js.com
 *.vue5.com
-*.vuejscaff.com
 *.vuepr.icu
 *.vuevideo.net
 *.vuhbgtsi.xyz
@@ -56334,6 +56322,7 @@
 *.xcdn.global
 *.xcexe.com
 *.xcfunds.com
+*.xcggzzb.com
 *.xcgogo.club
 *.xcgogo.site
 *.xcgp.com
@@ -57345,7 +57334,6 @@
 *.xinhaoqi.net
 *.xinhay.com
 *.xinhongru.com
-*.xinhtz.com
 *.xinhua-news.com
 *.xinhua.org
 *.xinhua08.com
@@ -60390,7 +60378,6 @@
 *.youwusc.com
 *.youxi.com
 *.youxi01.com
-*.youxi369.com
 *.youxi377.com
 *.youxi528.com
 *.youxi567.com
@@ -63330,7 +63317,6 @@
 *.zjxc.com
 *.zjxf119.com
 *.zjxhgd.com
-*.zjxin007.com
 *.zjxpp.com
 *.zjxqyy.com
 *.zjxsbank.com
