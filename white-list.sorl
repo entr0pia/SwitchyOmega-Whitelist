@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Thu Jul 13 10:23:30 2023
+; Update @ Fri Jul 14 10:24:30 2023
 
 ; cn域名都不走代理
 *.cn
@@ -5679,6 +5679,7 @@
 *.7sdn.com
 *.7sheji.com
 *.7sj.com
+*.7sown.com
 *.7su.com
 *.7t9.com
 *.7tapp.com
@@ -6098,7 +6099,6 @@
 *.8bb.com
 *.8bcd9.com
 *.8bears.com
-*.8bei8.com
 *.8bit.xin
 *.8btc-ops.com
 *.8btc.com
@@ -6158,7 +6158,6 @@
 *.8tupian.com
 *.8twan.com
 *.8u58.com
-*.8uka.com
 *.8uyx.com
 *.8wan.com
 *.8win.net
@@ -8526,6 +8525,7 @@
 *.aocde.com
 *.aocdn.com
 *.aoch.com
+*.aochengcdn.com
 *.aoclia.com
 *.aocslb.com
 *.aodabo.tech
@@ -9083,7 +9083,6 @@
 *.aupu.net
 *.aura-el.com
 *.aurogon.com
-*.auroivf.com
 *.auromcs.com
 *.ausaview.com
 *.ausbio.com
@@ -12099,7 +12098,6 @@
 *.cairot.com
 *.caisan.io
 *.caishen66.com
-*.caishencai.com
 *.caishenpo.com
 *.caishenwang.online
 *.caistv.com
@@ -12196,7 +12194,6 @@
 *.canrike.com
 *.cansee.net
 *.cansine.com
-*.cansuan.com
 *.cantoge.com
 *.canway.net
 *.canwayit.com
@@ -12295,7 +12292,6 @@
 *.casic3s.com
 *.casicloud.com
 *.casicyber.com
-*.casinorb.com
 *.caslease.com
 *.casnb.com
 *.casql.com
@@ -17520,7 +17516,6 @@
 *.decorcn.com
 *.decwhy.com
 *.dede168.com
-*.dedeapps.com
 *.dedecms.com
 *.dedecmsplus.com
 *.dededao.com
@@ -17704,7 +17699,6 @@
 *.df81.com
 *.df9377.com
 *.df962388.com
-*.dfangmami.com
 *.dfcfs.com
 *.dfcfw.com
 *.dfcx-bj.com
@@ -23463,7 +23457,6 @@
 *.go2yd.com
 *.go300.com
 *.go5.cc
-*.goalan.net
 *.goalhi.com
 *.goalmobi.com
 *.goapk.com
@@ -26372,6 +26365,7 @@
 *.hlapi.com
 *.hlbeixiu.com
 *.hlbeixiu.net
+*.hlcdn.cc
 *.hldbtv.com
 *.hldgp.com
 *.hldnews.com
@@ -29535,7 +29529,6 @@
 *.iosinit.com
 *.iosmu.com
 *.iosre.com
-*.ioswift.org
 *.iot-online.com
 *.iot.moe
 *.iot1001.com
@@ -29961,7 +29954,6 @@
 *.itnihao.com
 *.itniwota.com
 *.itnpc.com
-*.itnpyfwshe.com
 *.itnxs.com
 *.itocp.com
 *.itoec.org
@@ -34535,6 +34527,7 @@
 *.lcsrw.com
 *.lcux.net
 *.lcxwfc.com
+*.lcyff.com
 *.lcyp.net
 *.lczm.com
 *.lczyy.com
@@ -39525,7 +39518,6 @@
 *.negroupedu.org
 *.neigou.com
 *.neihanshequ.com
-*.neihhou.com
 *.neisha.cc
 *.neitui.com
 *.neituixiaowangzi.com
@@ -40065,7 +40057,6 @@
 *.nnwb.com
 *.nnynrc.com
 *.nnzsxblaw.com
-*.no1cg.com
 *.noahedu.com
 *.noahsnail.com
 *.noahteck.com
@@ -41238,7 +41229,6 @@
 *.panasonicmall.com
 *.panchuang.net
 *.panda-home.com
-*.panda321.com
 *.panda98.com
 *.pandadastudio.com
 *.pandafoundation.org
@@ -41918,6 +41908,7 @@
 *.pinpaime.com
 *.pinpaing.com
 *.pinqugongxiangktv.com
+*.pinqukeji.com
 *.pinshan.com
 *.pinshu.com
 *.pintu360.com
@@ -44071,7 +44062,6 @@
 *.quyuansu.com
 *.quyundong.com
 *.quzhiwen.com
-*.quzhuanpan.com
 *.quzhuanxiang.com
 *.quzz88.com
 *.quzzgames.com
@@ -47483,7 +47473,6 @@
 *.siwazywcdn2.com
 *.siwazywcdn3.com
 *.siwazywimg.com
-*.siwei.me
 *.siweidaotu.com
 *.siweiearth.com
 *.siweikongjian.net
@@ -47864,6 +47853,7 @@
 *.sniec.net
 *.snieri.com
 *.snimay.com
+*.snipurl.cc
 *.snjairport.com
 *.snjbs.com
 *.snjjiu.com
@@ -53808,7 +53798,6 @@
 *.wanyunshuju.com
 *.wanyuwang.com
 *.wanyxbox.com
-*.wanzhao.com
 *.wanzhoumo.com
 *.wanzhuang.com
 *.wanzhuangkj.com
@@ -55624,7 +55613,6 @@
 *.wsloan.com
 *.wsltt.com
 *.wsmaoyi.com
-*.wsmaoyi.net
 *.wsonh.com
 *.wsound.cc
 *.wsoversea.info
@@ -60785,6 +60773,7 @@
 *.yuebei.vip
 *.yuebingcheng.com
 *.yuebooemt.com
+*.yuecdn.net
 *.yuecheng.com
 *.yuedaoec.com
 *.yuedisk.com
@@ -60825,6 +60814,7 @@
 *.yuesuoping.com
 *.yuetu.tech
 *.yuetutu.com
+*.yuetuvip.com
 *.yuetuvip.net
 *.yuetx.cc
 *.yueweimusic.com
@@ -61236,7 +61226,6 @@
 *.yuzhulin.com
 *.yuzi.net
 *.yuzvf.com
-*.yveqi.com
 *.yvv.in
 *.yvzfgigpiwmofux.com
 *.yw11.com
@@ -61309,7 +61298,6 @@
 *.yxhenan.com
 *.yxhhdl.com
 *.yxhi.com
-*.yxhjt.com
 *.yxhqj.com
 *.yxi.cc
 *.yxiangzu.com
