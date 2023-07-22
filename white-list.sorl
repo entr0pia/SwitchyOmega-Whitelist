@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Fri Jul 21 10:21:46 2023
+; Update @ Sat Jul 22 10:19:54 2023
 
 ; cn域名都不走代理
 *.cn
@@ -5053,6 +5053,7 @@
 *.636379.com
 *.636935.com
 *.6383.com
+*.6392.spa
 *.639311.com
 *.6399868.com
 *.6399s5.com
@@ -5978,7 +5979,6 @@
 *.8686c.com
 *.86873.com
 *.86888qp.com
-*.8688dhy.com
 *.8688g.com
 *.86898924.vip
 *.86933.com
@@ -9692,7 +9692,6 @@
 *.bananau.com
 *.bananaumbrella.com
 *.bananaunder.com
-*.banassteel.com
 *.banbaise.com
 *.banbaowang.com
 *.banciyuan.me
@@ -11211,7 +11210,6 @@
 *.bljiancai.com
 *.bln7.com
 *.bln8.com
-*.block288.com
 *.blockchain.hk
 *.blockchain123.com
 *.blockchainbrother.com
@@ -13154,7 +13152,6 @@
 *.cgnjy.com
 *.cgnmc.com
 *.cgnne.com
-*.cgnovo.com
 *.cgonet.com
 *.cgown.com
 *.cgpad.com
@@ -13364,7 +13361,6 @@
 *.chaoyisy.com
 *.chaoyuesd.com
 *.chaoyuyun.com
-*.chaozhibm.com
 *.chaozhiedu.com
 *.chaozhoudaily.com
 *.chaozhuo.net
@@ -15051,7 +15047,6 @@
 *.cmcc.in
 *.cmcm.com
 *.cmcm5.com
-*.cmcm55.cc
 *.cmcmcdn.com
 *.cmct22.com
 *.cmd5.com
@@ -15147,6 +15142,7 @@
 *.cn.net
 *.cn.pandora.net
 *.cn.vc
+*.cn.vu
 *.cn.windowssearch.com
 *.cn0-6.com
 *.cn006.com
@@ -16776,7 +16772,6 @@
 *.cxyfjy.com
 *.cxyl.org
 *.cxylfc.com
-*.cxymsg.com
 *.cxyob.com
 *.cxytiandi.com
 *.cxyxiaowu.com
@@ -17396,7 +17391,6 @@
 *.datia-inspect.com
 *.datianmen.com
 *.datk.anythinktech.com
-*.datongplastic.com
 *.datongtaxi.com
 *.datuc.com
 *.dav01.com
@@ -18302,6 +18296,7 @@
 *.discuz.chat
 *.discuz.com
 *.discuz.net
+*.discuz.vip
 *.discuzfans.net
 *.discuzlab.com
 *.dishen.com
@@ -24149,7 +24144,6 @@
 *.gter.net
 *.gtfund.com
 *.gtgres.com
-*.gth01.com
 *.gtibee.com
 *.gtimg.com
 *.gtja-allianz.com
@@ -26743,7 +26737,6 @@
 *.hnhxxk.com
 *.hniec.org
 *.hniic.com
-*.hniois.com
 *.hnisca.org
 *.hniso.net
 *.hnisvc.com
@@ -27049,7 +27042,6 @@
 *.hostbbs.net
 *.hostbuf.com
 *.hostdie.com
-*.hostker.net
 *.hostkvm.com
 *.hostmonit.com
 *.hostxen.com
@@ -28085,7 +28077,6 @@
 *.huuhoo.com
 *.huwaibbs.com
 *.huwaizb.com
-*.huwang.cc
 *.huway.com
 *.huweihuang.com
 *.huweishen.com
@@ -28437,7 +28428,6 @@
 *.hzzmxsls.com
 *.hzzp.com
 *.hzzrmc.com
-*.hzzsbbs.com
 *.hzzsfs.com
 *.hzzuyin.com
 *.i-27.name
@@ -29074,7 +29064,6 @@
 *.ifresh.mobi
 *.ifromvr.com
 *.ifseclabs.com
-*.ifumanhua.net
 *.ifundstore.com
 *.ifunmac.com
 *.ifunvip.com
@@ -32923,7 +32912,6 @@
 *.k18.com
 *.k18882.com
 *.k1u.com
-*.k259.com
 *.k2938.com
 *.k2ma.com
 *.k2os.com
@@ -34826,6 +34814,7 @@
 *.lc123.net
 *.lc77.com
 *.lc787.com
+*.lcatgame.com
 *.lcbdf.net
 *.lcbtv.com
 *.lccareer.com
@@ -40627,7 +40616,6 @@
 *.ntflk.com
 *.ntfsformac.cc
 *.nthfw.com
-*.nthljxzz.com
 *.nthysp.com
 *.ntjob88.com
 *.ntjoy.com
@@ -45046,7 +45034,6 @@
 *.rh98.com
 *.rhce.cc
 *.rhce.net
-*.rhcsmy.com
 *.rhctwy.com
 *.rhhz.net
 *.rhkj.com
@@ -46548,7 +46535,6 @@
 *.shachong8.com
 *.shacumox.com
 *.shaddockfishing.com
-*.shadowedu.net
 *.shadowq.com
 *.shaduizi.com
 *.shafa.com
@@ -51724,7 +51710,6 @@
 *.tpg2i1p7.com
 *.tpkey.com
 *.tplife.com
-*.tplinkglobal.com
 *.tplm123.com
 *.tplogincn.com
 *.tpooo.com
@@ -53816,7 +53801,6 @@
 *.vr-game.club
 *.vr186.com
 *.vr42.com
-*.vr665.com
 *.vralzuns.com
 *.vrbeing.com
 *.vrbi.viveport.com
@@ -54170,7 +54154,6 @@
 *.wangle.com
 *.wanglibao.com
 *.wanglu.info
-*.wanglutech.com
 *.wanglv.com
 *.wanglv.vip
 *.wangmeng.com
@@ -54747,7 +54730,6 @@
 *.weishangtui.vip
 *.weishangye.com
 *.weishangzhonghe.com
-*.weishengka.com
 *.weishi.com
 *.weishi100.com
 *.weishu.me
@@ -55688,7 +55670,6 @@
 *.wld5.com
 *.wldsb.com
 *.wleye.com
-*.wlhcd.com
 *.wlinfor.com
 *.wljy8.com
 *.wljyyjy.com
@@ -56411,7 +56392,6 @@
 *.wuzhiwei.net
 *.wuzhouqianzheng.com
 *.wuzhuiso.com
-*.wuziya.com
 *.wvidc.com
 *.wvshare.com
 *.ww2bbs.net
@@ -57183,7 +57163,6 @@
 *.xiangpi.com
 *.xiangqianpos.com
 *.xiangqin7.com
-*.xiangqiushi.com
 *.xiangqu.com
 *.xiangrikui.co
 *.xiangrikui.com
@@ -57283,7 +57262,6 @@
 *.xiaocen.com
 *.xiaoche001.com
 *.xiaochengxucms.com
-*.xiaochiwang.org
 *.xiaochuan010.com
 *.xiaocifang.com
 *.xiaocms.com
@@ -57822,7 +57800,6 @@
 *.xingshuo.net
 *.xingtai123.com
 *.xingtangzp.com
-*.xingtongbo.com
 *.xingtu.com
 *.xinguad.com
 *.xingumin.net
@@ -63081,6 +63058,7 @@
 *.zhipin.com
 *.zhipingke.com
 *.zhiqiang.org
+*.zhiqiangcdn.com
 *.zhiqiapp.com
 *.zhiqihuo.com
 *.zhiquanxia.com
