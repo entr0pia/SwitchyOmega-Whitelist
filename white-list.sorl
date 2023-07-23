@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Sat Jul 22 10:19:54 2023
+; Update @ Sun Jul 23 10:20:06 2023
 
 ; cn域名都不走代理
 *.cn
@@ -3907,6 +3907,7 @@
 *.51minbingtuan.net
 *.51miz.com
 *.51mkf.com
+*.51mnq.com
 *.51mo.com
 *.51mockup.com
 *.51mokao.com
@@ -4086,6 +4087,7 @@
 *.51xie.com
 *.51xingjy.com
 *.51xinyuan.com
+*.51xnj.com
 *.51xpj.com
 *.51xuanxiao.com
 *.51xue8.com
@@ -5211,6 +5213,7 @@
 *.6787.com
 *.67876.com
 *.67883.com
+*.678869.com
 *.67888.com
 *.6789.com
 *.6789.net
@@ -5286,7 +5289,6 @@
 *.6an8.com
 *.6api.net
 *.6apt.com
-*.6b-0k.tech
 *.6b3b.com
 *.6bdns.com
 *.6c6c.com
@@ -5539,7 +5541,6 @@
 *.7717wan.com
 *.7723.com
 *.7724.com
-*.772457.com
 *.7724yx.com
 *.7725.com
 *.77275.cc
@@ -7230,6 +7231,7 @@
 *.acgp.xyz
 *.acgpiping.net
 *.acgqd.com
+*.acgrenwu.com
 *.acgres.com
 *.acgrip.com
 *.acgsky.win
@@ -8944,6 +8946,7 @@
 *.arqvivayco.com
 *.arrow-tower.com
 *.arrowos.net
+*.arsqb.com
 *.art-ba-ba.com
 *.art-child.com
 *.art138.com
@@ -10003,7 +10006,6 @@
 *.bbmy.net
 *.bbobo.com
 *.bbonfire.com
-*.bbpopo.com
 *.bbqe.com
 *.bbqk.com
 *.bbqmw.net
@@ -10991,6 +10993,7 @@
 *.bjjfsd.com
 *.bjjihui.com
 *.bjjiubo.com
+*.bjjizhun.com
 *.bjjkglxh.org
 *.bjjnzf.com
 *.bjjqzyy.com
@@ -12694,7 +12697,6 @@
 *.ccutu.com
 *.ccv160.com
 *.ccv168.com
-*.ccv5.com
 *.ccview.net
 *.ccwcw.com
 *.ccwcyw.com
@@ -16450,6 +16452,7 @@
 *.csjplatform.com
 *.csjwang.com
 *.csjyzq.com
+*.cskaoyan.com
 *.cskefu.com
 *.cskule.com
 *.cslfans.com
@@ -18669,7 +18672,6 @@
 *.dodonew.com
 *.dodovip.com
 *.doergob.com
-*.doershow.com
 *.dofund.com
 *.dogecdn.com
 *.dogecloud.com
@@ -19004,6 +19006,7 @@
 *.dqycw.com
 *.dqyfapiao.com
 *.dr009.com
+*.draftstatic.com
 *.drageasy.com
 *.dragon-guide.net
 *.dragon-hotel.com
@@ -20302,6 +20305,7 @@
 *.elongshine.com
 *.elongstatic.com
 *.elontest.com
+*.eloonggame.com
 *.elpcon.com
 *.elpwc.com
 *.els001.com
@@ -20516,6 +20520,7 @@
 *.eqiseo.com
 *.eqishare.com
 *.eqixiu.com
+*.eqiyingxiao.com
 *.eqmobi.com
 *.eqnvip.com
 *.equn.com
@@ -21332,7 +21337,6 @@
 *.fatunb.com
 *.fatvg.com
 *.favdeb.com
-*.favolist.com
 *.favopen.com
 *.favorites.ren
 *.faw-benteng.com
@@ -26253,6 +26257,7 @@
 *.hftogo.com
 *.hfx.link
 *.hfx.net
+*.hfxst.com
 *.hfyestar.com
 *.hfykd.com
 *.hfyouqi.com
@@ -27847,7 +27852,6 @@
 *.huiword.com
 *.huixiang360.com
 *.huixiangtiandi.com
-*.huixianjiaoyuedu.com
 *.huixiaoer.com
 *.huixiaoer.net
 *.huixing.hk
@@ -42351,6 +42355,7 @@
 *.pj155.com
 *.pjbest.com
 *.pjf.name
+*.pjgjg.com
 *.pjhome.net
 *.pjhubs.com
 *.pjjyzx.com
@@ -48628,7 +48633,6 @@
 *.souqian.com
 *.souqiu8.com
 *.souqupu.com
-*.source.tutorabc.com
 *.source3g.com
 *.sourcecodecap.com
 *.sourcecvs.com
@@ -49884,6 +49888,7 @@
 *.szlips.com
 *.szlos.com
 *.szlottery.org
+*.szltech.com
 *.szlvbarcode.com
 *.szlwtech.com
 *.szlzsd.com
@@ -52677,7 +52682,6 @@
 *.ufanw.com
 *.ufcap.com
 *.ufenqi.com
-*.uff1.com
 *.ufhost.com
 *.ufhosted.com
 *.ufida-lcwy.com
@@ -52785,6 +52789,7 @@
 *.ulecdn.com
 *.uleek.net
 *.uliang.vip
+*.uliangwang.com
 *.uliaobao.com
 *.ulikecam.com
 *.ulinix.com
@@ -54000,6 +54005,7 @@
 *.waibao123.com
 *.waibao12333.com
 *.waibaodashi.com
+*.waibou.com
 *.waig8.com
 *.waigame.com
 *.waigf.com
@@ -54336,6 +54342,7 @@
 *.was-expo.com
 *.wasair.com
 *.wasanfeng.com
+*.wasd.plus
 *.wasfzx.com
 *.washpayer.com
 *.wasintek.com
@@ -56470,6 +56477,7 @@
 *.wxaokai.com
 *.wxapp-union.com
 *.wxappclub.com
+*.wxappvideo.com
 *.wxatech.com
 *.wxavu.com
 *.wxb.com
@@ -56576,6 +56584,7 @@
 *.wywy6.com
 *.wywyx.com
 *.wyx365.com
+*.wyxokokok.com
 *.wyydsb.xin
 *.wyzc.com
 *.wyzdg.com
@@ -56670,6 +56679,8 @@
 *.x81zw.com
 *.x821.com
 *.x86android.com
+*.x8ds.com
+*.x8sb.com
 *.xa-online.com
 *.xa.com
 *.xa189.net
@@ -59788,6 +59799,7 @@
 *.yhshapp.com
 *.yhsms.com
 *.yhspy.com
+*.yht7.com
 *.yhtools.cc
 *.yhtx.tv
 *.yhurl.com
@@ -63061,6 +63073,7 @@
 *.zhiqiangcdn.com
 *.zhiqiapp.com
 *.zhiqihuo.com
+*.zhiqihuo.org
 *.zhiquanxia.com
 *.zhiquapp.com
 *.zhiquyuan.com
