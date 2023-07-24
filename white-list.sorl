@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Sun Jul 23 10:20:06 2023
+; Update @ Mon Jul 24 10:22:49 2023
 
 ; cn域名都不走代理
 *.cn
@@ -53,7 +53,6 @@
 *.0-6.com
 *.00.net
 *.000.link
-*.00000.host
 *.00042.com
 *.00058.com
 *.0006266.com
@@ -1947,8 +1946,6 @@
 *.2048sj.com
 *.205.com
 *.2080ly.com
-*.2088062.com
-*.2088063.com
 *.208xs.com
 *.20ju.com
 *.20planet.com
@@ -3317,6 +3314,7 @@
 *.40manhua.com
 *.40maoaa.com
 *.40mdd.com
+*.41114.cc
 *.41188.com
 *.411au.com
 *.4124.com
@@ -6448,7 +6446,6 @@
 *.91wan.com
 *.91wangcai.com
 *.91wangmeng.com
-*.91watches.com
 *.91way.com
 *.91weimai.com
 *.91weimi.com
@@ -8653,7 +8650,6 @@
 *.aoshitang.com
 *.aoshowsh.com
 *.aoshu.com
-*.aosikaimge.com
 *.aosikazyimage.com
 *.aosong.com
 *.aosoo.com
@@ -9126,8 +9122,6 @@
 *.atomhike.com
 *.atomic-art.com
 *.atomy.tech
-*.atool.org
-*.atool9.com
 *.atoolbox.net
 *.atpanel.com
 *.atstudy.com
@@ -12527,7 +12521,6 @@
 *.ccedpw.com
 *.ccee.com
 *.cceea.net
-*.ccefb.com
 *.ccement.com
 *.ccen.net
 *.ccepc.com
@@ -12704,7 +12697,6 @@
 *.ccwonline.net
 *.ccwow.cc
 *.ccwqtv.com
-*.ccwzz.cc
 *.ccxcn.com
 *.ccxcredit.com
 *.ccxinyuedu.com
@@ -14805,6 +14797,7 @@
 *.ciwork.net
 *.cixibank.com
 *.cixiedu.net
+*.cixircw.com
 *.ciyew.com
 *.ciyocon.com
 *.ciyuan.men
@@ -15041,6 +15034,7 @@
 *.cmbchina.biz
 *.cmbchina.com
 *.cmbchina.net
+*.cmbchinawm.com
 *.cmbimg.com
 *.cmbs-soft.com
 *.cmbwinglungbank.com
@@ -15760,7 +15754,6 @@
 *.codemart.com
 *.codemm.net
 *.codeok.com
-*.codepiano.com
 *.codepku.com
 *.codeplayer.vip
 *.codeplaygames.com
@@ -22674,7 +22667,6 @@
 *.g2h3.com
 *.g2us.com
 *.g2work.com
-*.g312.com
 *.g32365.com
 *.g3d.org
 *.g3img.com
@@ -23027,7 +23019,6 @@
 *.gda086.com
 *.gdadjs.com
 *.gdadri.com
-*.gdadsly.com
 *.gdatacube.net
 *.gdbhnk.com
 *.gdbljd.com
@@ -23624,6 +23615,7 @@
 *.gmilesquan.com
 *.gming.org
 *.gmiot.net
+*.gmit.vip
 *.gmjk.com
 *.gmm01.com
 *.gmmch5.com
@@ -24372,6 +24364,7 @@
 *.gulutea.com
 *.gumang.com
 *.gumaor.com
+*.gumengya.com
 *.gumingnc.com
 *.gumo.pro
 *.gunfans.net
@@ -24617,6 +24610,7 @@
 *.gy7n.com
 *.gy818.com
 *.gyb086.com
+*.gybcq.com
 *.gycf.com
 *.gycode.com
 *.gydongli.com
@@ -24720,7 +24714,6 @@
 *.gzj568.com
 *.gzjingsha.com
 *.gzjisikj.com
-*.gzjkzzp.com
 *.gzjonathan.com
 *.gzjpad.com
 *.gzjqd.com
@@ -26139,7 +26132,6 @@
 *.herdsric.com
 *.here120.com
 *.here325.com
-*.hereisdownload.com
 *.hermesguanwang.com
 *.heroad-data.com
 *.heroestactics.com
@@ -26768,7 +26760,6 @@
 *.hnlzhd.com
 *.hnlzw.net
 *.hnmdtv.com
-*.hnmeilinya.xyz
 *.hnmgjr.com
 *.hnmrffm888.com
 *.hnmsw.com
@@ -27818,7 +27809,6 @@
 *.huiqudsp.com
 *.huiris.com
 *.huirixiao.com
-*.huiruwei.com
 *.huishangbao.com
 *.huishangol.com
 *.huishanjianchayuan.com
@@ -27829,7 +27819,6 @@
 *.huishoushang.com
 *.huishuaka.com
 *.huishuang.xyz
-*.huishuofa.com
 *.huisituo.com
 *.huisky.com
 *.huisou.com
@@ -27878,7 +27867,6 @@
 *.huizhan-inc.com
 *.huizhaofang.com
 *.huizhek.com
-*.huizhexue.com
 *.huizhijiaxun.com
 *.huizhimob.com
 *.huizhouf.com
@@ -30085,7 +30073,6 @@
 *.isyour.love
 *.it-bound.com
 *.it-crazy.net
-*.it-home.org
 *.it.link
 *.it007.com
 *.it0746.com
@@ -30744,7 +30731,6 @@
 *.jdwl.com
 *.jdworldwide.com
 *.jdwx.info
-*.jdwxs.com
 *.jdwxwz.com
 *.jdxc.net
 *.jdxcw.com
@@ -32144,7 +32130,6 @@
 *.joyyang.com
 *.jp-moco.com
 *.jp.com
-*.jp14.com
 *.jpanj.com
 *.jpbeta.net
 *.jpchinapress.com
@@ -32551,7 +32536,6 @@
 *.juneyaoair.com
 *.juneyaoairlines.com
 *.junezx.com
-*.jungebb.com
 *.junhe.com
 *.juniu.tv
 *.junjiahao.com
@@ -33464,7 +33448,6 @@
 *.khqihuo.com
 *.khs1994.com
 *.khysct.com
-*.khzypic.com
 *.ki-pa.com
 *.kiaic.com
 *.kibinggroup.com
@@ -34622,6 +34605,7 @@
 *.lanuss.com
 *.lanvige.com
 *.lanwoncloudfilm.com
+*.lanwuzhe.com
 *.lanxicy.com
 *.lanxinbase.com
 *.lanxiniu.com
@@ -36439,7 +36423,6 @@
 *.lovfp.com
 *.lovgiin.com
 *.lovology.com
-*.lowsfish.com
 *.loxpo.com
 *.loxue.com
 *.loyar.com
@@ -37349,7 +37332,6 @@
 *.manongdao.com
 *.manonggu.com
 *.manongjc.com
-*.manongs.com
 *.manongzj.com
 *.manosp.com
 *.manpianyi.com
@@ -39712,6 +39694,7 @@
 *.nanxueqx.com
 *.nanxunjob.com
 *.nanyangcable.com
+*.nanyinwealth.com
 *.nanyuetong.com
 *.nanzhao1.com
 *.naobiao.com
@@ -39764,7 +39747,6 @@
 *.nb-medicalsystem.com
 *.nb301.xyz
 *.nb591.com
-*.nb888888.com
 *.nbabm.com
 *.nbahero.com
 *.nbahi.com
@@ -40285,7 +40267,6 @@
 *.niutoushe.com
 *.niutrans.com
 *.niutrip.com
-*.niutuku.com
 *.niuwk.com
 *.niuxgame77.com
 *.niuxiao.net
@@ -40671,7 +40652,6 @@
 *.nuodefund.com
 *.nuoder.com
 *.nuoji.com
-*.nuokui.com
 *.nuomi.com
 *.nuomicikoi.com
 *.nuomili.com
@@ -41519,7 +41499,6 @@
 *.p04e.com
 *.p1.com
 *.p12345.com
-*.p2220.com
 *.p2cdn.com
 *.p2hp.com
 *.p2p.com
@@ -48204,7 +48183,6 @@
 *.smartsenstech.com
 *.smartsteps.com
 *.smartstudy.com
-*.smartteamindia.com
 *.smartwebee.com
 *.smartx-cn.com
 *.smartx.com
@@ -48673,7 +48651,6 @@
 *.souyunku.com
 *.sovell.com
 *.soven.com
-*.sovxin.com
 *.sowang.com
 *.soweather.com
 *.sowellwell.com
@@ -48962,7 +48939,6 @@
 *.starsino.com
 *.starsmicrosystem.com
 *.starstech.cc
-*.starstopic.com
 *.starswar.org
 *.start.htc.com
 *.start.htcsense.com
@@ -50265,6 +50241,7 @@
 *.taobeirj.com
 *.taobz.com
 *.taoc.cc
+*.taocange.com
 *.taoche.com
 *.taoci.com
 *.taocloudx.com
@@ -51236,7 +51213,6 @@
 *.tjgangkouyiyuan.com
 *.tjgcs.com
 *.tjgtgd.com
-*.tjhep.com
 *.tjhskj.com
 *.tjhukou.com
 *.tjhyzyxy.com
@@ -52162,7 +52138,6 @@
 *.tulaoshi.com
 *.tuliaohr.net
 *.tuling123.com
-*.tulingtec.com
 *.tuliren.com
 *.tuliu.com
 *.tumajewelry.com
@@ -52469,7 +52444,6 @@
 *.tz-dsp.com
 *.tz-wf.com
 *.tz.app
-*.tz057610086.com
 *.tz121.com
 *.tz12306.com
 *.tz1288.com
@@ -52503,7 +52477,6 @@
 *.tzvtc.com
 *.tzxingtang.com
 *.tzxwzx.com
-*.tzye123.com
 *.u-jingling.com
 *.u-link.org
 *.u-om.com
@@ -53334,7 +53307,6 @@
 *.vasuwebdev.com
 *.vatano.net
 *.vauoo.com
-*.vbanzs.com
 *.vbbobo.com
 *.vbidc.com
 *.vbiquge.com
@@ -56650,6 +56622,7 @@
 *.x00785.com
 *.x0769.com
 *.x11263.com
+*.x11296.com
 *.x118.net
 *.x12plus.com
 *.x1340.com
@@ -63218,7 +63191,6 @@
 *.zhongdengwang.com
 *.zhongdi168.com
 *.zhongdoulicai.com
-*.zhongfenxian.com
 *.zhongfu.net
 *.zhongguobaiyin.com
 *.zhongguoditu.com
