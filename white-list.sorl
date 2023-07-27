@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Wed Jul 26 10:20:58 2023
+; Update @ Thu Jul 27 10:21:02 2023
 
 ; cn域名都不走代理
 *.cn
@@ -859,7 +859,6 @@
 *.110ask.com
 *.110hack.com
 *.110tm.com
-*.110zhibo.com
 *.111036.com
 *.111111111.com
 *.1111191.com
@@ -5160,6 +5159,7 @@
 *.66house.com
 *.66ip.com
 *.66jiedai.com
+*.66mi.com
 *.66mobi.com
 *.66money.com
 *.66mz8.com
@@ -14174,7 +14174,6 @@
 *.chinatai.com
 *.chinatairun.com
 *.chinatalent.org
-*.chinatarena.com
 *.chinatat.com
 *.chinatechinsights.com
 *.chinatelecom-ec.com
@@ -15515,6 +15514,7 @@
 *.cnpubg.com
 *.cnpusi.com
 *.cnpv.com
+*.cnpx.net
 *.cnpython.com
 *.cnpythoner.com
 *.cnqc.com
@@ -18077,6 +18077,7 @@
 *.dianzhentan.com
 *.dianzhi.com
 *.dianziaihaozhe.com
+*.dianzihetong.net
 *.dianzixuexi.com
 *.diaoben.com
 *.diaochapai.com
@@ -22853,7 +22854,6 @@
 *.gaogulou.com
 *.gaohaipeng.com
 *.gaohangip.com
-*.gaohbook.net
 *.gaohr.com
 *.gaoimg.com
 *.gaoji.ren
@@ -29964,7 +29964,6 @@
 *.ishangtong.com
 *.ishangtu.com
 *.ishangu.com
-*.ishangzu.com
 *.ishanshan.com
 *.ishansong.com
 *.ishaohuang.com
@@ -35851,7 +35850,6 @@
 *.liulianglf.com
 *.liuliangzu.com
 *.liulianqi123.com
-*.liulianyu.com
 *.liuliguo.com
 *.liulin.cc
 *.liulishuo.com
@@ -36365,7 +36363,6 @@
 *.louyue.com
 *.lovcuty.com
 *.love.tv
-*.love1992.com
 *.love21cn.com
 *.love3721.com
 *.love616.com
@@ -39168,6 +39165,7 @@
 *.mupmstx.com
 *.murdermysterypa.com
 *.murl.tv
+*.murphysec.com
 *.muryi.net
 *.muselab-tech.com
 *.mushafa.net
@@ -43514,6 +43512,7 @@
 *.qiling.org
 *.qilingames.com
 *.qilinxuan.net
+*.qilitech.ltd
 *.qilong.com
 *.qilongtan.com
 *.qiluhospital.com
@@ -43771,7 +43770,6 @@
 *.qiwendi.com
 *.qiwenhui.com
 *.qixia.ltd
-*.qixiandoc.com
 *.qixin.com
 *.qixin007.com
 *.qixin18.com
@@ -49445,7 +49443,6 @@
 *.swordofmorning.com
 *.swordtt.com
 *.swotbbs.com
-*.swothouse.com
 *.swsbw.com
 *.swsm.net
 *.swsmu.com
@@ -52846,7 +52843,6 @@
 *.unitek-it.com
 *.uniteyun.com
 *.unitop-apex.com
-*.unity3d8.com
 *.unitymanual.com
 *.uniview.com
 *.uniworldart.com
@@ -54394,7 +54390,6 @@
 *.we.dji.com
 *.we1130.com
 *.we123.com
-*.we12306.com
 *.we2.name
 *.we2marry.com
 *.we4399.com
@@ -54530,7 +54525,6 @@
 *.wei6.com
 *.weiao.online
 *.weiba66.com
-*.weibaiyue.com
 *.weibaji.com
 *.weibanan.com
 *.weibangong.com
@@ -54583,7 +54577,6 @@
 *.weihai.tv
 *.weihaicollege.com
 *.weihaipoly.com
-*.weihanli.xyz
 *.weihaobang.com
 *.weihaoyi.com
 *.weihua2.com
@@ -56791,7 +56784,6 @@
 *.xcmh.cc
 *.xcn457.com
 *.xcnchinese.com
-*.xcnte.com
 *.xcode.me
 *.xcoder.in
 *.xcommon.com
@@ -57310,6 +57302,7 @@
 *.xiaoliangkou.com
 *.xiaoliebian.com
 *.xiaolin.in
+*.xiaolincoding.com
 *.xiaolinsi.com
 *.xiaolinwl.com
 *.xiaoliqing.net
@@ -60292,7 +60285,6 @@
 *.yiyuetop.com
 *.yiyum.com
 *.yiyurumen.com
-*.yizeijun.com
 *.yizenb.com
 *.yizhanzx.com
 *.yizhema.com
