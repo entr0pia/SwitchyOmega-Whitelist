@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Thu Jul 27 10:21:02 2023
+; Update @ Fri Jul 28 10:20:49 2023
 
 ; cn域名都不走代理
 *.cn
@@ -9076,6 +9076,7 @@
 *.asussz-zp.com
 *.aswetalk.net
 *.asyzonline.com
+*.aszvip.com
 *.at-siac.com
 *.at0086.com
 *.at0086.net
@@ -10272,7 +10273,6 @@
 *.benduo.net
 *.benellimotor.com
 *.bengbeng.com
-*.bengchedaquan.com
 *.bengden.com
 *.bengfa.biz
 *.benghuai.com
@@ -11431,7 +11431,6 @@
 *.boohee.com
 *.book118.com
 *.book1234.com
-*.bookabc.cc
 *.bookask.com
 *.bookdao.com
 *.bookdown.net
@@ -12482,7 +12481,6 @@
 *.ccbwfs.com
 *.cccaq.com
 *.cccbs.net
-*.ccccl.net
 *.cccdun.com
 *.cccf-cloud.com
 *.ccchz.com
@@ -20367,6 +20365,7 @@
 *.eng24.com
 *.eng888.com
 *.engeniustec.com
+*.englishgoai.com
 *.englishtownpromotion.com
 *.engloncar.com
 *.engpx.com
@@ -24037,7 +24036,6 @@
 *.grirem.com
 *.grizcom.com
 *.grmxdy.com
-*.gro2004.com
 *.groad.net
 *.groovyfilmes.com
 *.grouk.com
@@ -30342,6 +30340,7 @@
 *.iwncomm.com
 *.iwopop.com
 *.iwordnet.com
+*.iwordshow.com
 *.iworm.net
 *.iwpai.com
 *.iwshang.com
@@ -31106,6 +31105,7 @@
 *.jiashuangkuaizi.com
 *.jiashule.com
 *.jiasn.com
+*.jiasu.work
 *.jiasuba.com
 *.jiasubook.com
 *.jiasudu666.com
@@ -31640,7 +31640,6 @@
 *.jiudianjiu.com
 *.jiudianyongpin.com
 *.jiudingcapital.com
-*.jiudingdalv.com
 *.jiufawang.com
 *.jiugang.com
 *.jiugangbid.com
@@ -33431,7 +33430,6 @@
 *.kiaic.com
 *.kibinggroup.com
 *.kibo.tech
-*.kickasssmp3.com
 *.kid17.com
 *.kidscoding8.com
 *.kidsdown.com
@@ -49013,7 +49011,6 @@
 *.stoyard.com
 *.str-mo.com
 *.straitchain.com
-*.strconv.com
 *.strcpy.me
 *.streamaxtech.com
 *.streamcomputing.com
@@ -49495,7 +49492,6 @@
 *.sxjh88.com
 *.sxjhzsgc.com
 *.sxjlzhifu.com
-*.sxjtzj.com
 *.sxjzxww.com
 *.sxkzxt.com
 *.sxlcdn.com
@@ -53690,6 +53686,7 @@
 *.vortexfun.com
 *.vote8.cc
 *.vote8.com
+*.voycn.com
 *.voyooo.com
 *.vp3u.com
 *.vpadn.com
@@ -61795,7 +61792,6 @@
 *.yxinbao.com
 *.yxit.net
 *.yxixy.com
-*.yxjcy.xyz
 *.yxjedu02.com
 *.yxjia.com
 *.yxkfw.com
@@ -63587,7 +63583,6 @@
 *.zishahuyu.com
 *.zishapot.com
 *.zishuo.com
-*.zishuogif.com
 *.zishuovideo.com
 *.zisia.org
 *.zisuo.com
