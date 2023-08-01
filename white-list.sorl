@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Mon Jul 31 10:22:22 2023
+; Update @ Tue Aug  1 10:21:53 2023
 
 ; cn域名都不走代理
 *.cn
@@ -1460,7 +1460,6 @@
 *.1768.com
 *.176878.com
 *.176quan.com
-*.1772.site
 *.1773.com
 *.1778.com
 *.178.com
@@ -5089,7 +5088,6 @@
 *.65688qp.com
 *.6571n.com
 *.65875.com
-*.65918.tw
 *.659595.com
 *.65house.com
 *.65mhxy.com
@@ -6144,7 +6142,6 @@
 *.8cheche.com
 *.8cname.com
 *.8cnet.com
-*.8da.com
 *.8ddao.com
 *.8dexpress.com
 *.8dn.com
@@ -7731,7 +7728,6 @@
 *.aikang.com
 *.aikcms.com
 *.aiketour.com
-*.aikeu.com
 *.aikexi.com
 *.aikf.com
 *.aikucun.com
@@ -8454,7 +8450,6 @@
 *.annuaire.plus
 *.anoah.com
 *.anonym-hi.com
-*.anorectal.net
 *.anosmcloud.com
 *.anoyi.com
 *.anqingonline.com
@@ -13285,7 +13280,6 @@
 *.chaofanaishangyu.com
 *.chaofanshuma.com
 *.chaofenxiang.vip
-*.chaogmp.com
 *.chaohuishou.com
 *.chaoji.com
 *.chaojibiaoge.com
@@ -15648,6 +15642,7 @@
 *.cnzhengmu.com
 *.cnzhibo.com
 *.cnzhiyuanhui.com
+*.cnzjj.com
 *.cnzjol.com
 *.cnzlapp.com
 *.cnzsqh.com
@@ -19085,6 +19080,7 @@
 *.dts007.com
 *.dtstack.com
 *.dtstatic.com
+*.dtston.com
 *.dttc-icp.com
 *.dttt.net
 *.dtuosh.com
@@ -19246,6 +19242,7 @@
 *.duotegame.com
 *.duoti181.shop
 *.duotoupiao.com
+*.duotuscdn.com
 *.duouoo.com
 *.duowan.com
 *.duowanns.com
@@ -19750,7 +19747,6 @@
 *.ebnew.com
 *.ebocert.com
 *.ebookbao.net
-*.ebookcn.com
 *.ebookmen.com
 *.ebopark.com
 *.eboxmaker.com
@@ -20037,7 +20033,6 @@
 *.eexiaoshuo.com
 *.eexing.com
 *.eeyaa.net
-*.eeybo.com
 *.eeyxs.com
 *.eeyy.com
 *.eeyys.com
@@ -20446,7 +20441,6 @@
 *.eplove.com
 *.epoos.com
 *.eprezi.com
-*.eps114.com
 *.epsonconnect.com
 *.epstsoft.com
 *.epub360.com
@@ -23983,7 +23977,6 @@
 *.gree.com
 *.greebox.com
 *.green12306.com
-*.greenbodhi.com
 *.greenchengjian.com
 *.greencompute.org
 *.greendh.com
@@ -24724,7 +24717,6 @@
 *.gzszgas.com
 *.gztaiyou.com
 *.gztcdj.com
-*.gztclwx.net
 *.gztfgame.com
 *.gzthrc.com
 *.gztime.cc
@@ -24851,7 +24843,6 @@
 *.haawking.com
 *.habadog.com
 *.habbygames.com
-*.haberbank.xyz
 *.hac-ker.net
 *.hack-cn.com
 *.hack-gov.com
@@ -27746,7 +27737,6 @@
 *.huim.com
 *.huimaiche.com
 *.huiman.net
-*.huimatong.com
 *.huimee.com
 *.huimee.net
 *.huimeisports.com
@@ -34204,7 +34194,6 @@
 *.kveww.com
 *.kvexx.com
 *.kvezz.com
-*.kvhcc.com
 *.kvhdd.com
 *.kvhee.com
 *.kvhmm.com
@@ -36092,7 +36081,6 @@
 *.locvps.net
 *.lodashjs.com
 *.loexu.com
-*.lofficielchina.net
 *.loftcn.com
 *.lofter.com
 *.loftshine.com
@@ -36860,7 +36848,6 @@
 *.lysteel.com
 *.lysy360.com
 *.lythw.com
-*.lytmgd.com
 *.lytning.xyz
 *.lytoufang.com
 *.lytpw.com
@@ -39033,7 +39020,6 @@
 *.mt4v4.com
 *.mt77.com
 *.mt888vip.com
-*.mtasia.net
 *.mtavip.com
 *.mtblj.com
 *.mtchome.com
@@ -39496,7 +39482,6 @@
 *.myyzd.com
 *.myzaker.com
 *.myzhiniu.com
-*.myzhongjin.com
 *.myzte.com
 *.mz-oneacg.com
 *.mz2225555.com
@@ -39628,7 +39613,6 @@
 *.nantong-hst.com
 *.nantonghua.net
 *.nanxueqx.com
-*.nanxunjob.com
 *.nanyangcable.com
 *.nanyinwealth.com
 *.nanyuetong.com
@@ -40574,7 +40558,6 @@
 *.nucc.com
 *.nucleisys.com
 *.nudpqt.com
-*.nuecidc.com
 *.nuedcchina.com
 *.nufans.net
 *.nullice.com
@@ -43735,7 +43718,6 @@
 *.qixingquan.com
 *.qixingtang.com
 *.qixoo.com
-*.qixuan520.com
 *.qixuny.com
 *.qiye.la
 *.qiye.net
@@ -43940,7 +43922,6 @@
 *.qqdiannao.com
 *.qqdiannaoguanjiadl.com
 *.qqdna.com
-*.qqdswl.com
 *.qqe2.com
 *.qqenglish.com
 *.qqeo.com
@@ -44225,6 +44206,7 @@
 *.queniuhy.com
 *.queniuiq.com
 *.queniukr.com
+*.queniukt.com
 *.queniukw.com
 *.queniupl.com
 *.queniuqy.com
@@ -47586,7 +47568,6 @@
 *.sigmastarsemi.com
 *.sigmoblive.com
 *.sigongzi.shop
-*.sigu.cc
 *.siguoya.name
 *.siguschool.com
 *.sihai-inc.com
@@ -48876,7 +48857,6 @@
 *.stat18.com
 *.static.cdnetworks.com
 *.static.eprintsw.com
-*.static.yangfd.com
 *.staticaa.com
 *.staticdn.net
 *.staticec.com
@@ -49181,7 +49161,6 @@
 *.suningestate.com
 *.suningholdings.com
 *.sunjs.com
-*.sunland.cc
 *.sunlands.com
 *.sunlandstudy.com
 *.sunlandvip.com
@@ -51010,7 +50989,6 @@
 *.time-weekly.com
 *.time-year.com
 *.time.izatcloud.net
-*.time2011.com
 *.timecoo.com
 *.timedg.com
 *.timenote.cc
@@ -52610,7 +52588,6 @@
 *.uhuitong.com
 *.uhuwang.com
 *.uhzcdn.com
-*.ui001.com
 *.ui100day.com
 *.ui63.com
 *.uibaba.com
@@ -52865,7 +52842,6 @@
 *.upin.com
 *.upkao.com
 *.uplinux.com
-*.upload.yangfd.com
 *.uplookedu.com
 *.uplooking.com
 *.upnb.com
@@ -55901,7 +55877,6 @@
 *.wping.org
 *.wpjam.com
 *.wpk8.com
-*.wplat.com
 *.wplizhi.com
 *.wpmtp.com
 *.wporder.com
@@ -57867,7 +57842,6 @@
 *.xinyou.com
 *.xinyour.com
 *.xinyu19.com
-*.xinyuechao.com
 *.xinyuefei.com
 *.xinyueseo.com
 *.xinyukj99.com
@@ -59096,7 +59070,6 @@
 *.yamibo.com
 *.yanbinghu.com
 *.yanbm.com
-*.yanboguoji.com
 *.yanboyuan.com
 *.yanchebang.com
 *.yanchengzx.com
@@ -59105,7 +59078,6 @@
 *.yandui.com
 *.yanedu.com
 *.yanfen.online
-*.yang16.com
 *.yangbing.club
 *.yangchenglianhe.com
 *.yangchunjian.com
@@ -63480,7 +63452,6 @@
 *.zikaoshu.net
 *.zikaoshu.vip
 *.zikaosw.com
-*.zike.com
 *.zikeys.com
 *.zikoo.com
 *.ziku123.com
