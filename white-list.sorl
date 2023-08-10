@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Wed Aug  9 10:22:18 2023
+; Update @ Thu Aug 10 10:22:27 2023
 
 ; cn域名都不走代理
 *.cn
@@ -872,7 +872,6 @@
 *.112233vip.com
 *.1122dh.com
 *.1124.cc
-*.1128.org
 *.1128job.com
 *.112book.com
 *.112seo.com
@@ -1126,6 +1125,7 @@
 *.1312.vip
 *.1314520sz.com
 *.131458.com
+*.1314gl.com
 *.1314study.com
 *.1314wallet.com
 *.1314zf.com
@@ -3500,7 +3500,6 @@
 *.500gm.com
 *.500hj.com
 *.500px.me
-*.500sucai.com
 *.500talk.com
 *.500tb.com
 *.500wan.com
@@ -3614,7 +3613,6 @@
 *.517mr.com
 *.517na.com
 *.517rcw.com
-*.517sc.com
 *.517tez.com
 *.517w.com
 *.517xc.com
@@ -4154,7 +4152,6 @@
 *.520mingmei.com
 *.520mojing.com
 *.520mwx.com
-*.520wawa.com
 *.520way.com
 *.520xiazai.com
 *.520xp.com
@@ -5816,7 +5813,6 @@
 *.818.com
 *.818it.com
 *.818ps.com
-*.818rmb.com
 *.818tu.com
 *.81999.org
 *.81book.com
@@ -6143,7 +6139,6 @@
 *.8jdns.net
 *.8jiaoye.com
 *.8jie8.com
-*.8jj.cc
 *.8jxn.com
 *.8jzw.cc
 *.8k7k.com
@@ -7258,6 +7253,7 @@
 *.adc-expo.com
 *.adccd.com
 *.adcdn.com
+*.adcomeon.com
 *.adconfer.com
 *.addaad.com
 *.addgog.com
@@ -7964,7 +7960,6 @@
 *.alai.net
 *.alameal.com
 *.alanyhq.com
-*.albltc.com
 *.aldcup.com
 *.aldeee.com
 *.aldnew.com
@@ -8876,6 +8871,7 @@
 *.arkread.com
 *.arkteam.net
 *.arliki.com
+*.arlmy.me
 *.arm9.net
 *.arm9home.net
 *.armbbs.net
@@ -9997,7 +9993,6 @@
 *.bcmeng.com
 *.bcpcn.com
 *.bcpgame.com
-*.bcrealm.com
 *.bcreat.com
 *.bcrjl.com
 *.bcsytv.com
@@ -12173,7 +12168,6 @@
 *.calibur.tv
 *.callda.com
 *.callmyfun.com
-*.calmaworx.com
 *.caloinfo.com
 *.calorietech.com
 *.calt.com
@@ -12559,7 +12553,6 @@
 *.ccpitlight.org
 *.ccpitln.org
 *.ccpitnb.org
-*.ccpitnmg.org
 *.ccpitqd.org
 *.ccpitsd.com
 *.ccpittex.com
@@ -15382,7 +15375,6 @@
 *.cnlso.com
 *.cnmanhua.com
 *.cnmattson.com
-*.cnmb.win
 *.cnmcom.com
 *.cnmdy.com
 *.cnmeishu.com
@@ -17420,7 +17412,6 @@
 *.dbs724.com
 *.dbscar.com
 *.dbshop.net
-*.dbsltsd.com
 *.dbt-coin.com
 *.dc-cn.com
 *.dc1103.com
@@ -18837,7 +18828,6 @@
 *.downk.cc
 *.downkr.com
 *.downkuai.com
-*.download-x.com
 *.download.microsoft.com
 *.download.visualstudio.microsoft.com
 *.download.windowsupdate.com
@@ -21263,7 +21253,6 @@
 *.fbxslw.com
 *.fc0531.com
 *.fc0633.com
-*.fc12319.com
 *.fc571.com
 *.fc811.com
 *.fcachinagsdp.com
@@ -24961,7 +24950,6 @@
 *.haiwenky.com
 *.haixiahao.com
 *.haixianlai.net
-*.haixice.com
 *.haixindichan.com
 *.haixinews.com
 *.haixingbangfu.com
@@ -27490,7 +27478,6 @@
 *.huaweicloudwaf.com
 *.huaweidevice.com
 *.huaweidun.com
-*.huaweielec.com
 *.huaweimall.com
 *.huaweimarine.com
 *.huaweimossel.com
@@ -34160,6 +34147,7 @@
 *.kxiaoshuo77.com
 *.kxinyk.com
 *.kxji.com
+*.kxll.com
 *.kxp7.xyz
 *.kxqo2ev.com
 *.kxscience.com
@@ -35083,6 +35071,7 @@
 *.lfungame.com
 *.lfwin.com
 *.lfwtc.com
+*.lfwx1.com
 *.lfx20.com
 *.lfyzjck.com
 *.lg1024.com
@@ -38077,7 +38066,6 @@
 *.mike-x.com
 *.mikechen.cc
 *.mikecrm.com
-*.mikenn.com
 *.mikesent-awareness-02.com
 *.mikesent.net
 *.mikewootc.com
@@ -39137,7 +39125,6 @@
 *.my2w.com
 *.my399.com
 *.my3w.com
-*.my419.com
 *.my4399.com
 *.my478.com
 *.my51a.com
@@ -39617,7 +39604,6 @@
 *.nbrlzy.com
 *.nbsason.com
 *.nbshuoxue.com
-*.nbsppm.com
 *.nbsqbank.com
 *.nbt.ren
 *.nbtarena.com
@@ -40402,6 +40388,7 @@
 *.nshen.net
 *.nshzpks.com
 *.nsini.com
+*.nslifang.com
 *.nsoad.com
 *.nsoft.vip
 *.nsrfww.com
@@ -40470,6 +40457,7 @@
 *.nudpqt.com
 *.nuedcchina.com
 *.nufans.net
+*.nufykysuam.com
 *.nullice.com
 *.nullno.com
 *.num1dns.com
@@ -41198,7 +41186,6 @@
 *.oupeng.com
 *.oupengcloud.net
 *.oupuzw.com
-*.our-sky.com
 *.our100.net
 *.our360vr.com
 *.ourail.com
@@ -44127,7 +44114,6 @@
 *.queniuwx.com
 *.queniuyk.com
 *.queqiaoba.com
-*.querylist.cc
 *.queshao.com
 *.queshu.com
 *.questyle.com
@@ -44228,7 +44214,6 @@
 *.ququabc.com
 *.ququyou.com
 *.ququzhu.com
-*.qusanxia.com
 *.qusem.com
 *.qushiw.com
 *.qushixi.net
@@ -45249,6 +45234,7 @@
 *.ruiscz.com
 *.ruisizt.com
 *.ruitairt.com
+*.ruitian.com
 *.ruitiancapital.com
 *.ruiwant.com
 *.ruiwen.com
@@ -46102,7 +46088,6 @@
 *.semiee.com
 *.semiinsights.com
 *.semiway.com
-*.semlinker.com
 *.sempk.com
 *.semplus.org
 *.semptian.com
@@ -46979,6 +46964,7 @@
 *.shkypump.com
 *.shl56.com
 *.shlawserve.com
+*.shlcxby.com
 *.shld.com
 *.shlgwy.com
 *.shlll.net
@@ -50437,6 +50423,7 @@
 *.tenlywu.com
 *.tenmh.com
 *.tennoo.com
+*.tenorshare.com
 *.tenpay.com
 *.tenqent.com
 *.tensafe.com
@@ -50925,7 +50912,6 @@
 *.tingmimi.net
 *.tingniukeji.com
 *.tingroom.com
-*.tingshuzw.com
 *.tingsonglaw.com
 *.tingtao.net
 *.tingtingfm.com
@@ -53144,7 +53130,6 @@
 *.veikei.com
 *.veilytech.com
 *.veinbase.com
-*.veivo.info
 *.veken.com
 *.velasx.com
 *.velep.com
@@ -58606,6 +58591,7 @@
 *.xunzhuang.net
 *.xunzi.cc
 *.xuooo.com
+*.xupea.com
 *.xupu.name
 *.xupu120.com
 *.xuqyfw.com
@@ -61473,7 +61459,6 @@
 *.yuudnn.com
 *.yuuwan.com
 *.yuwan-game.com
-*.yuwanshe.com
 *.yuweixian.com
 *.yuwell.com
 *.yuwellgroup.com
@@ -62657,7 +62642,6 @@
 *.zhibo8.cc
 *.zhibo8.com
 *.zhiboba.com
-*.zhiboba.org
 *.zhiboqiao.com
 *.zhiboyun.net
 *.zhibs.net
