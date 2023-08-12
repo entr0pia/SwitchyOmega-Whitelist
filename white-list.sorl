@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Fri Aug 11 10:20:45 2023
+; Update @ Sat Aug 12 10:18:48 2023
 
 ; cn域名都不走代理
 *.cn
@@ -1259,7 +1259,6 @@
 *.15hr.com
 *.15in.com
 *.15ms.com
-*.15pb.cc
 *.15shu.net
 *.15solo.com
 *.15str.com
@@ -1407,7 +1406,6 @@
 *.17178.com
 *.1717kf.com
 *.1717pk.com
-*.1717zy.com
 *.1718china.com
 *.1718world.com
 *.171tax.com
@@ -4249,6 +4247,7 @@
 *.52enku.com
 *.52erhu.com
 *.52fangzi.com
+*.52fanxing.com
 *.52flac.com
 *.52game.org
 *.52gg.com
@@ -5549,7 +5548,6 @@
 *.77vcd.com
 *.77xmd.com
 *.77xsw.la
-*.77y4.com
 *.77ys.com
 *.77zn.com
 *.782yx.com
@@ -8436,6 +8434,7 @@
 *.anroif.com
 *.anruichina.com
 *.ansgo.com
+*.anshuntech.ltd
 *.ansiding.com
 *.ansky.com
 *.ansteelgroup.com
@@ -8458,6 +8457,7 @@
 *.anticheatexpert.com
 *.antiy.com
 *.antiy.net
+*.antpcdn.com
 *.antpedia.com
 *.antriver.com
 *.antrol.com
@@ -13042,7 +13042,6 @@
 *.cfzghsc.com
 *.cfzq.com
 *.cg-orz.com
-*.cg-vipwebs.com
 *.cg-zwdb.com
 *.cg.am
 *.cg009.com
@@ -13113,7 +13112,6 @@
 *.ch.com
 *.ch028.net
 *.ch12333.com
-*.ch301.com
 *.ch999.com
 *.ch999img.com
 *.cha-tm.com
@@ -18395,6 +18393,7 @@
 *.dmjtxt.com
 *.dmlei.com
 *.dmm87d.xyz
+*.dmoe.cc
 *.dmozdir.org
 *.dmpans.com
 *.dmqst.com
@@ -18800,7 +18799,6 @@
 *.douyinvideo.net
 *.douyinvod.click
 *.douyinvod.com
-*.douyinxiaodian10.com
 *.douyou100.com
 *.douyu.com
 *.douyu.tv
@@ -18938,6 +18936,7 @@
 *.drgou.com
 *.drhcleanair.com
 *.drice.cc
+*.drinkmagazine.asia
 *.drip.im
 *.dripcar.com
 *.driverdevelop.com
@@ -26094,7 +26093,6 @@
 *.hfcyh.com
 *.hfdedu.com
 *.hffund.com
-*.hffxc.com
 *.hfgjj.com
 *.hfhouse.com
 *.hfhyw.com
@@ -26314,6 +26312,7 @@
 *.hioug.com
 *.hiparking.com
 *.hipcam.net
+*.hiphi.com
 *.hiphop8.com
 *.hipiao.com
 *.hippoanimation.com
@@ -29690,6 +29689,7 @@
 *.ipchaxun.com
 *.ipchaxun.net
 *.ipcmen.com
+*.ipcodm.com
 *.ipcorecatalog.com
 *.ipctest.com
 *.ipcwifi.com
@@ -30482,7 +30482,6 @@
 *.jcloudlb.com
 *.jcloudstatic.com
 *.jclps.com
-*.jcmeitan.com
 *.jcmob.net
 *.jcmtxs.com
 *.jcnano.com
@@ -30822,6 +30821,7 @@
 *.jianbihuadq.com
 *.jianbing.com
 *.jiancai.com
+*.jiancepaper.com
 *.jianchacha.com
 *.jianchihu.net
 *.jianchuangwang.com
@@ -30885,7 +30885,6 @@
 *.jianke.cc
 *.jianke.com
 *.jianke.net
-*.jiankeba.com
 *.jiankong.com
 *.jiankongbao.com
 *.jianlaixiaoshuo.com
@@ -32626,7 +32625,6 @@
 *.jy1991.com
 *.jyacht.com
 *.jyaochi.com
-*.jyb8.com
 *.jybase.net
 *.jyblife.com
 *.jyc99.com
@@ -32738,7 +32736,6 @@
 *.jzyx.com
 *.jzzhw.com
 *.jzzx.com
-*.k-day.com
 *.k-kbox.com
 *.k-res.net
 *.k-xian.com
@@ -34968,7 +34965,6 @@
 *.letaikeji.com
 *.letao.com
 *.letfind.com
-*.lethe521.com
 *.letinet.com
 *.leting.io
 *.letongjiaxiao.com
@@ -42543,7 +42539,6 @@
 *.precise-test.com
 *.precision-biz.com
 *.prefer-tyl.site
-*.prefershare.com
 *.preludeid.com
 *.premedglobal.com
 *.pressmine.com
@@ -45244,7 +45239,6 @@
 *.ruikesearch.com
 *.ruimao.xyz
 *.ruiqicanyin.com
-*.ruiruigeblog.com
 *.ruiscz.com
 *.ruisizt.com
 *.ruitairt.com
@@ -55866,7 +55860,6 @@
 *.wslmf.com
 *.wsloan.com
 *.wsltt.com
-*.wsmaoyi.com
 *.wsonh.com
 *.wsound.cc
 *.wsoversea.info
@@ -57737,7 +57730,6 @@
 *.xinzaoxing.com
 *.xinzengwj.net
 *.xinzheng.cc
-*.xinzhenkj.com
 *.xinzhi.space
 *.xinzuhe.com
 *.xinzzfsdfdslk333.com
@@ -58317,7 +58309,6 @@
 *.xsool.com
 *.xsp0311.com
 *.xspcf.com
-*.xspic.com
 *.xsrtvu.com
 *.xsshuku.com
 *.xsslyjt.com
@@ -60200,7 +60191,6 @@
 *.ylwt33.com
 *.ylwyw.com
 *.ylxdtww.com
-*.ylxk.net
 *.ylxw.net
 *.ylyk.com
 *.ylzbtech.com
