@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Mon Aug 14 10:20:52 2023
+; Update @ Tue Aug 15 10:20:16 2023
 
 ; cn域名都不走代理
 *.cn
@@ -6432,7 +6432,6 @@
 *.91yxl.com
 *.91zhiwang.com
 *.91zwk.com
-*.91zy.com
 *.92.net
 *.921.com
 *.9211.com
@@ -9722,6 +9721,7 @@
 *.banyunjuhe.com
 *.banzhe.xyz
 *.banzou.name
+*.banzouzhizuo.com
 *.bao-cun.com
 *.bao-fang.com
 *.bao-hulu.com
@@ -15185,7 +15185,6 @@
 *.cndoors.com
 *.cndsnet.com
 *.cndss.net
-*.cndtlab.com
 *.cndtour.com
 *.cndw.com
 *.cndy.org
@@ -18919,7 +18918,6 @@
 *.dreamad.mobi
 *.dreamcast.hk
 *.dreamchasercapital.com
-*.dreamersall.com
 *.dreamershop.com
 *.dreamine.com
 *.dreamkite.net
@@ -20453,7 +20451,6 @@
 *.ershenghuo.net
 *.ershicimi.com
 *.ershouhui.com
-*.ert123.com
 *.ert295.com
 *.ert7.com
 *.ertmineq.com
@@ -23952,7 +23949,6 @@
 *.grt-china.com
 *.grth.xyz
 *.gruntjs.net
-*.grvape.com
 *.gryu.net
 *.grzmz.com
 *.gs.ww.np.dl.playstation.net
@@ -26805,7 +26801,6 @@
 *.hongjiu66.com
 *.hongkang-life.com
 *.hongkongairlines.com
-*.hongkongbluebag.hk
 *.hongkou.net
 *.hongku.com
 *.hongkunjinfu.com
@@ -33551,7 +33546,6 @@
 *.knockdream.com
 *.knotesapp.com
 *.know88.com
-*.knowgive.com
 *.knowingclouds.com
 *.knowingcloudvip.com
 *.knowingyun.com
@@ -35112,6 +35106,7 @@
 *.li91.com
 *.liageren.com
 *.lialiu.com
+*.lian-ou.com
 *.lianaibashi.com
 *.lianaibiji.com
 *.lianaimh.com
@@ -35160,6 +35155,7 @@
 *.lianmeng.link
 *.lianmenhu.com
 *.lianmishu.com
+*.lianouyiyuan.com
 *.lianpingd.com
 *.lianpuie.com
 *.lianqi.net
@@ -38842,7 +38838,6 @@
 *.mrjeke.com
 *.mrjiang.com
 *.mrjjxw.com
-*.mrkevin.net
 *.mrlika.com
 *.mro9.com
 *.mross022.com
@@ -40277,7 +40272,6 @@
 *.nongxinyin.com
 *.nonobank.com
 *.nonozone.net
-*.noobcoder.club
 *.noobyard.com
 *.noobyy.com
 *.noodba.com
@@ -41917,7 +41911,6 @@
 *.phyy.com
 *.pi7.com
 *.pianhd.com
-*.pianke.me
 *.pianohl.com
 *.pianona.com
 *.pianoun.com
@@ -42411,7 +42404,6 @@
 *.powerxene.com
 *.powsir.com
 *.powzamedia.com
-*.poxiaotv.com
 *.pozou.com
 *.pp-xxgd.com
 *.pp.cc
@@ -45747,7 +45739,6 @@
 *.scommander.com
 *.scoregg.com
 *.scottfamilyadventures.com
-*.scottwhitelaw.com
 *.scpgroup.com
 *.scplt.com
 *.scqcp.com
@@ -47296,7 +47287,6 @@
 *.shuoba.org
 *.shuobao.com
 *.shuobofootball.xyz
-*.shuoboku.com
 *.shuocdn.com
 *.shuodedui.com
 *.shuomingshu.net
@@ -47374,7 +47364,6 @@
 *.shygc.net
 *.shyhhema.com
 *.shyihuoh.com
-*.shyjad.com
 *.shykx.com
 *.shykz123456.com
 *.shymte.com
@@ -47580,7 +47569,6 @@
 *.sinobaron.com
 *.sinobasalt.com
 *.sinobasedm.com
-*.sinoca.com
 *.sinocare.com
 *.sinocars.com
 *.sinocateringexpo.com
@@ -48611,7 +48599,6 @@
 *.ssdzg.com
 *.sseinfo.com
 *.ssf.cc
-*.ssfiction.com
 *.ssgabc.com
 *.ssgeek.com
 *.ssggg.com
@@ -49949,7 +49936,6 @@
 *.tangtang.org
 *.tanguan.net
 *.tangux.com
-*.tangwumo.com
 *.tangyingkang.com
 *.tangzhuan666.com
 *.tanhaibo.net
@@ -52201,7 +52187,6 @@
 *.tyymt.com
 *.tyzscl.com
 *.tz-dsp.com
-*.tz-wf.com
 *.tz.app
 *.tz121.com
 *.tz12306.com
@@ -61657,7 +61642,6 @@
 *.yygold.com
 *.yygrammar.com
 *.yygzs.com
-*.yyh.la
 *.yyhao.com
 *.yyhh.com
 *.yyhhaa.com
@@ -61708,7 +61692,6 @@
 *.yyy5414.com
 *.yyyeee.com
 *.yyyy.games
-*.yyyy8888.com
 *.yyyyy.run
 *.yyzai.com
 *.yyziyuan1.com
@@ -62420,7 +62403,6 @@
 *.zhaocait.com
 *.zhaocaiyan.com
 *.zhaochafa.com
-*.zhaocheyun.com
 *.zhaoda.net
 *.zhaodanji.com
 *.zhaodatu.com
