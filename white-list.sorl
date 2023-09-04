@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Sun Sep  3 10:19:32 2023
+; Update @ Mon Sep  4 10:21:48 2023
 
 ; cn域名都不走代理
 *.cn
@@ -1013,7 +1013,6 @@
 *.1234.cx
 *.1234001.com
 *.123456.la
-*.123456img.com
 *.12345good.com
 *.12345good.net
 *.12348.net
@@ -1239,7 +1238,6 @@
 *.1560177.cc
 *.15666.com
 *.156pay.com
-*.156tt.com
 *.15803.com
 *.1588.tv
 *.15880.com
@@ -1915,7 +1913,6 @@
 *.202wan.com
 *.2048sj.com
 *.2049baby.com
-*.205.com
 *.2080ly.com
 *.208xs.com
 *.20ju.com
@@ -4236,7 +4233,6 @@
 *.52hotel.net
 *.52hrtt.com
 *.52hrttpic.com
-*.52huoche.com
 *.52hxw.com
 *.52ig.net
 *.52im.net
@@ -4363,7 +4359,6 @@
 *.52zy.com
 *.531314.com
 *.5317wan.com
-*.531hr.com
 *.532106.com
 *.5321vip.com
 *.533.com
@@ -4428,7 +4423,6 @@
 *.54qs.com
 *.54traveler.com
 *.54tusi.com
-*.54up.net
 *.54xiaoshuo.com
 *.54yt.net
 *.54yuqing.com
@@ -8343,6 +8337,7 @@
 *.anjianghu.net
 *.anjimicro.com
 *.anjismart.com
+*.anjixiong.com
 *.anjuke.com
 *.anjukestatic.com
 *.ankang06.org
@@ -9206,7 +9201,6 @@
 *.aycav.com
 *.ayfdc.com
 *.ayfy.com
-*.ayginsporkompleksi.com
 *.ayguge.com
 *.ayhthc.com
 *.ayhuowan.com
@@ -12512,7 +12506,6 @@
 *.cctime.com
 *.cction.com
 *.cctlife.com
-*.cctmsy.com
 *.cctocloud.com
 *.cctpress.com
 *.cctry.com
@@ -13014,7 +13007,6 @@
 *.cguiw.com
 *.cgvoo.com
 *.cgwang.com
-*.cgwell.com
 *.cgwenjian.com
 *.cgwic.com
 *.cgws.com
@@ -14872,7 +14864,6 @@
 *.cmbs-soft.com
 *.cmbwinglungbank.com
 *.cmbyc.com
-*.cmcc-ecs.com
 *.cmcc.in
 *.cmcm.com
 *.cmcmcdn.com
@@ -15184,7 +15175,6 @@
 *.cnhan.com
 *.cnhanxing.com
 *.cnhaoshengyi.com
-*.cnhaskell.com
 *.cnhbstock.com
 *.cnhbtc.com
 *.cnhd.com
@@ -16279,6 +16269,7 @@
 *.cspxw.com
 *.csqc.cc
 *.csqnews.com
+*.csqqym.com
 *.csrcare.com
 *.csrcbank.com
 *.csrcsc.com
@@ -19095,6 +19086,7 @@
 *.duoziwang.com
 *.dup2.org
 *.dupan.ink
+*.durongjie.com
 *.dusays.com
 *.dushewang.com
 *.dushicn.com
@@ -19263,7 +19255,6 @@
 *.dytt7899.com
 *.dytt8.com
 *.dytt8.net
-*.dyxf365.com
 *.dyxldjy.com
 *.dyxsdwm.com
 *.dyxtw.com
@@ -19599,10 +19590,12 @@
 *.ecadi.com
 *.ecaidian.com
 *.ecaihr.com
+*.ecami.xyz
 *.ecamzone.cc
 *.ecaray.com
 *.ecare365.com
 *.ecartoon.net
+*.ecarxgroup.com
 *.ecbcamp.com
 *.ecboo.com
 *.eccang.com
@@ -20593,7 +20586,6 @@
 *.examebook.com
 *.examk.com
 *.exampx.com
-*.examw.com
 *.exands.com
 *.exaphotons.com
 *.exasic.com
@@ -23400,7 +23392,6 @@
 *.go108.com
 *.go24k.com
 *.go2aaron.com
-*.go2eu.com
 *.go2hn.com
 *.go2map.com
 *.go2tu.com
@@ -25056,7 +25047,6 @@
 *.haohiyou.com
 *.haohongfan.com
 *.haoht123.com
-*.haohtml.com
 *.haohuan.com
 *.haohuo.xin
 *.haohuoa.com
@@ -28106,7 +28096,6 @@
 *.hzwmw.com
 *.hzwsjyjt.com
 *.hzwtech.com
-*.hzwxq.com
 *.hzwyx.net
 *.hzxhymc.com
 *.hzxiaobao.com
@@ -31350,7 +31339,6 @@
 *.jiujiange.com
 *.jiujiuhuyu.com
 *.jiujiui.com
-*.jiujiukanpian.com
 *.jiujiunn.com
 *.jiujiups.com
 *.jiujiuwan.com
@@ -31534,7 +31522,6 @@
 *.jjzfgjj.com
 *.jk-px.com
 *.jk126.com
-*.jk130.com
 *.jk2h.com
 *.jk37du.com
 *.jk3a.com
@@ -31597,7 +31584,6 @@
 *.jltchina.com
 *.jltyjxzz.com
 *.jlusz.com
-*.jlwlyx.com
 *.jlwubi.com
 *.jlxfw.com
 *.jlzkb.com
@@ -36131,7 +36117,6 @@
 *.lsoos.com
 *.lsqpay.com
 *.lsrbs.net
-*.lssen.com
 *.lssggzy.com
 *.lstazl.com
 *.lstest.com
@@ -40854,7 +40839,6 @@
 *.originoo.com
 *.orihard.com
 *.oritive.com
-*.oriziomodelli.com
 *.orleto.com
 *.ornglad.com
 *.orsoon.com
@@ -43487,7 +43471,6 @@
 *.qmwyy.com
 *.qmyq.com
 *.qmz5.com
-*.qmzh100.com
 *.qmzs.com
 *.qnbar.com
 *.qncyw.com
@@ -44144,7 +44127,6 @@
 *.qzzn.com
 *.qzzres.com
 *.qzzsbx.com
-*.r-s-services.com
 *.r-tms.net
 *.r12345.com
 *.r147emh.com
@@ -44936,7 +44918,6 @@
 *.ruanyuan.net
 *.rubaoo.com
 *.ruby-china.com
-*.rubybrides.com
 *.rubyer.me
 *.ruchee.com
 *.ruchu.club
@@ -45178,7 +45159,6 @@
 *.saicmobility.com
 *.saicmotor.com
 *.saicyun.com
-*.saidawang.com
 *.saiday.com
 *.saifou.com
 *.saifutong.com
@@ -45210,7 +45190,6 @@
 *.salogs.com
 *.salonglong.com
 *.salongweb.com
-*.salonwith.com
 *.samanlehua.com
 *.same-tech.com
 *.samebar.com
@@ -46467,7 +46446,6 @@
 *.sheyingtg.com
 *.shezaixian.com
 *.shezhan88.com
-*.shfangquan.com
 *.shfangshui.com
 *.shfcw.com
 *.shfdyk.com
@@ -50867,6 +50845,7 @@
 *.tohuo.com
 *.toidea.com
 *.token-ad.com
+*.tokenet.site
 *.tokenglish.com
 *.tokensky.net
 *.tokimekiclub.org
@@ -51271,6 +51250,7 @@
 *.tronixin.com
 *.tropcdn.com
 *.trpcdn.net
+*.trqjrp.xyz
 *.trsoft.vip
 *.trsoft.xin
 *.trsol.com
@@ -54074,7 +54054,6 @@
 *.weijuju.com
 *.weikaowu.com
 *.weikasen.com
-*.weikd.com
 *.weike.fm
 *.weikebaba.net
 *.weikeimg.com
@@ -58119,7 +58098,6 @@
 *.xuermh.com
 *.xuesax.com
 *.xueseo.com
-*.xueshandai.com
 *.xueshanlinghu.com
 *.xueshen.net
 *.xueshiyun.com
@@ -58168,7 +58146,6 @@
 *.xuhai.press
 *.xuheen.com
 *.xuhehuan.com
-*.xuhot.com
 *.xujianhua.com
 *.xujingkj.com
 *.xujun.org
@@ -63849,6 +63826,7 @@
 *.zwwdm.com
 *.zwwltkl.com
 *.zwwx.com
+*.zwzdiy.cc
 *.zwzrent.com
 *.zwzsh.net
 *.zwzyzx.com
