@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Thu Sep 21 10:22:08 2023
+; Update @ Fri Sep 22 10:22:08 2023
 
 ; cn域名都不走代理
 *.cn
@@ -4548,7 +4548,6 @@
 *.57tuan.com
 *.57us.com
 *.57uu.com
-*.57wo.com
 *.57yy.site
 *.57zhe.com
 *.58.com
@@ -6989,7 +6988,6 @@
 *.abc360.com
 *.abc369.net
 *.abcache.com
-*.abcd5.com
 *.abcdao.com
 *.abcdocker.com
 *.abcdv.net
@@ -11589,7 +11587,6 @@
 *.bulaoge.net
 *.bulejie.com
 *.bullcome.com
-*.bullmind.com
 *.buluanmai.com
 *.buluo007.com
 *.bumimi.com
@@ -17785,7 +17782,6 @@
 *.dianmiaoshou.com
 *.diannaoban.com
 *.diannaodian.com
-*.diannaokepu.com
 *.diannaoxianka.com
 *.dianopen.com
 *.dianou.com
@@ -21392,7 +21388,6 @@
 *.fgo-teamup.com
 *.fgo.wiki
 *.fgowiki.com
-*.fgrgrw002.xyz
 *.fgtymk.com
 *.fgvisa.net
 *.fh1551.com
@@ -36671,7 +36666,6 @@
 *.maitianquan.com
 *.maitix.com
 *.maitix.net
-*.maitoufa.org
 *.maitu.cc
 *.maituan.com
 *.maitube.com
@@ -41817,7 +41811,6 @@
 *.plalzhang.com
 *.planckled.com
 *.planetmeican.com
-*.planetradioonline.com
 *.plantextra.com
 *.plantname.xyz
 *.plantower.com
