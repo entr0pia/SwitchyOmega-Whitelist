@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Wed Sep 27 10:21:49 2023
+; Update @ Thu Sep 28 10:21:31 2023
 
 ; cn域名都不走代理
 *.cn
@@ -1888,7 +1888,6 @@
 *.2022cdnpl.com
 *.2022pola.com
 *.2023game.com
-*.2029.cc
 *.202m.com
 *.202wan.com
 *.2048sj.com
@@ -2588,7 +2587,6 @@
 *.33aml.com
 *.33app.net
 *.33bus.com
-*.33hei.com
 *.33ip.com
 *.33iq.com
 *.33jianzhi.com
@@ -5462,7 +5460,6 @@
 *.77dushu.com
 *.77ebooks.com
 *.77hd.com
-*.77hei.com
 *.77l.com
 *.77mh.app
 *.77music.com
@@ -12139,6 +12136,7 @@
 *.capitalcloud.net
 *.capitalonline.net
 *.capjoy.com
+*.caplanking.com
 *.capsuleshanghai.com
 *.capvision.com
 *.capwhale.com
@@ -16291,6 +16289,7 @@
 *.ctfmall.com
 *.ctfo.com
 *.ctfund.com
+*.ctg75.com
 *.ctghealthy.com
 *.ctghr.com
 *.cthhmu.com
@@ -29131,7 +29130,6 @@
 *.indier.com
 *.indmi.com
 *.induta.com
-*.indvaan.com
 *.ineice.com
 *.inengyuan.com
 *.inesa-it.com
@@ -31766,7 +31764,6 @@
 *.jsdaima.com
 *.jsdcly.com
 *.jsdesign1.com
-*.jsdthx.com
 *.jseepub.com
 *.jseoptics.com
 *.jser.io
@@ -33602,7 +33599,6 @@
 *.kuguopush.com
 *.kugz.net
 *.kuhii.com
-*.kuhua.net
 *.kuicc.com
 *.kuihuakeji.com
 *.kuihuo.com
@@ -33872,7 +33868,6 @@
 *.lactec.net
 *.ladiyoga.com
 *.ladjzs.com
-*.ladouban.com
 *.lady177.com
 *.lady361.com
 *.lady8844.com
@@ -40008,7 +40003,6 @@
 *.ntrcb.com
 *.nttui.com
 *.ntuiw.com
-*.ntvalumium.com
 *.ntwikis.com
 *.ntwzy.com
 *.ntyswlkj.com
@@ -40910,7 +40904,6 @@
 *.pabulika.com
 *.pacdn.com
 *.pacgatelaw.com
-*.package-design.net
 *.packtom.com
 *.packty.com
 *.pactera.com
@@ -41236,7 +41229,6 @@
 *.pddcdn.com
 *.pddeu.com
 *.pddim.com
-*.pddjw.com
 *.pddpic.com
 *.pddugc.com
 *.pddzj.com
@@ -49417,7 +49409,6 @@
 *.tangrenjv.com
 *.tangruiqian.com
 *.tangsanshu.com
-*.tangshencs.com
 *.tangshijun.com
 *.tangshuang.net
 *.tangshui.net
@@ -52352,6 +52343,7 @@
 *.uuzham.com
 *.uuzhufu.com
 *.uuzo.net
+*.uuzone.com
 *.uuzu.com
 *.uuzuonline.com
 *.uuzuonline.net
@@ -53573,6 +53565,7 @@
 *.wboll.com
 *.wbolt.com
 *.wbpvc.com
+*.wbsdz.com
 *.wbsrf.com
 *.wbsz.com
 *.wbtech.com
