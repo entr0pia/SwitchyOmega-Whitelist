@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Mon Oct  2 10:22:13 2023
+; Update @ Tue Oct  3 10:22:06 2023
 
 ; cn域名都不走代理
 *.cn
@@ -1937,7 +1937,6 @@
 *.21cn.com
 *.21cn.net
 *.21cnev.com
-*.21cnimg.com
 *.21cnjy.com
 *.21cnjy.net
 *.21cnsungate.com
@@ -2125,7 +2124,6 @@
 *.23qb.net
 *.23qun.com
 *.23sk.com
-*.23tgo.com
 *.23txt.com
 *.23us.so
 *.23us.tv
@@ -3342,6 +3340,7 @@
 *.474b.com
 *.4765.com
 *.4779.com
+*.477zw.com
 *.47819.com
 *.47gs.com
 *.47test.com
@@ -7604,7 +7603,6 @@
 *.aimeicity.com
 *.aimeideni.com
 *.aimeike.tv
-*.aimeit.com
 *.aimingtai.com
 *.aimipay.net
 *.aimiplay.com
@@ -9819,7 +9817,6 @@
 *.bbsaso.com
 *.bbsds.com
 *.bbsheji.com
-*.bbshuwu.com
 *.bbsls.net
 *.bbsmax.com
 *.bbsnet.com
@@ -10433,7 +10430,6 @@
 *.bilibiligame.net
 *.bilibilihelper.com
 *.bilibilijj.com
-*.bilibilis0.one
 *.bilicdn1.com
 *.bilicdn2.com
 *.bilicomic.com
@@ -13111,7 +13107,6 @@
 *.chaoxing.com
 *.chaoyi996.com
 *.chaoyindj.com
-*.chaoyinfastcdnbestcdn.vip
 *.chaoyisy.com
 *.chaoyuesd.com
 *.chaoyuyun.com
@@ -15436,7 +15431,6 @@
 *.cocas.cc
 *.coccccc.cc
 *.cocimg.com
-*.cocinacieloverde.com
 *.coco413.com
 *.cocoachina.com
 *.cocodiy.com
@@ -22877,6 +22871,7 @@
 *.getmarkman.com
 *.getquicker.net
 *.getsurfboard.com
+*.getu.fun
 *.getui.com
 *.getui.net
 *.getui.vip
@@ -25113,7 +25108,6 @@
 *.hb-hengda.com
 *.hb-ly.com
 *.hb-ws.com
-*.hb-wtw.com
 *.hb10000.com
 *.hb10000sale.com
 *.hb110.cc
@@ -25586,7 +25580,6 @@
 *.helingqi.com
 *.helishun.com
 *.heliuyan.com
-*.hello-algo.com
 *.hello-inc.com
 *.hello1010.com
 *.hellobanma.com
@@ -31305,7 +31298,6 @@
 *.jjj.ee
 *.jjj802.com
 *.jjjaaa.com
-*.jjjg.co
 *.jjjoystudios.com
 *.jjjsgczbtb.com
 *.jjkeq.com
@@ -32368,7 +32360,6 @@
 *.k12zx.com
 *.k165.com
 *.k18.com
-*.k18882.com
 *.k1u.com
 *.k2ma.com
 *.k2os.com
@@ -34886,7 +34877,6 @@
 *.lifevc.com
 *.lifevccdn.com
 *.lifeweeker.com
-*.lifeweekly.cc
 *.lifeyk.com
 *.lifox.net
 *.lifushop.com
@@ -35774,7 +35764,6 @@
 *.louding.com
 *.louge.ltd
 *.louislivi.com
-*.louisvv.com
 *.loukee.com
 *.loukky.com
 *.loulansheji.com
@@ -37554,7 +37543,6 @@
 *.midway.run
 *.midwayjs.org
 *.miecod.com
-*.miejw.com
 *.miemie.la
 *.miercn.com
 *.mieseng.com
@@ -40052,7 +40040,6 @@
 *.nxist.com
 *.nxit.us
 *.nxly766.com
-*.nxnet.net
 *.nxnews.net
 *.nxnjw.com
 *.nxnresearch.com
@@ -40372,7 +40359,6 @@
 *.onceoa.com
 *.onche.net
 *.oncity.cc
-*.ondeals.net
 *.one-all.com
 *.one-netbook.com
 *.one918.com
@@ -42836,7 +42822,6 @@
 *.qiman6.com
 *.qimao.com
 *.qimaomh.com
-*.qimengshangwu.com
 *.qimhua.com
 *.qimi.com
 *.qimiaomh.com
@@ -48128,7 +48113,6 @@
 *.starduster.me
 *.starfivetech.com
 *.stargame.com
-*.staridc.net
 *.starlight-generator.com
 *.starlott.com
 *.starming.com
@@ -48955,7 +48939,6 @@
 *.szcp.com
 *.szcsot.com
 *.szcssx.com
-*.szcsw.com
 *.szcua.org
 *.szcwdz.com
 *.szcy99.com
@@ -50262,7 +50245,6 @@
 *.time.izatcloud.net
 *.timecoo.com
 *.timedg.com
-*.timenote.cc
 *.timeofdate.com
 *.timeoutbeijing.com
 *.timeoutcn.com
@@ -52982,6 +52964,7 @@
 *.vurl3.vip
 *.vutimes.com
 *.vux.li
+*.vuz.me
 *.vv8.com
 *.vv881.com
 *.vv8yx.com
@@ -53481,7 +53464,6 @@
 *.waynetechs.com
 *.wayos.com
 *.wayoulegal.com
-*.wayoutv.com
 *.wayoxi.com
 *.waytit.com
 *.wayzim.com
@@ -54973,7 +54955,6 @@
 *.wonpearl.com
 *.wonplug.net
 *.wonse.info
-*.wonxun.net
 *.woo.im
 *.wooaii.com
 *.woocg.com
@@ -57619,7 +57600,6 @@
 *.xslb.me
 *.xsm818.com
 *.xsmaofa.com
-*.xsmnews.com
 *.xsmore.com
 *.xsmy54s.com
 *.xsnsyh.com
@@ -61096,7 +61076,6 @@
 *.zailouxia.com
 *.zaiminglvsuo.com
 *.zainanjing365.com
-*.zaisd.com
 *.zaitong.net
 *.zaiwai.com
 *.zaixian-fanyi.com
