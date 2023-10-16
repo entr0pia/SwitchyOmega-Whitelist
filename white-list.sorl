@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Sun Oct 15 10:19:58 2023
+; Update @ Mon Oct 16 10:22:59 2023
 
 ; cn域名都不走代理
 *.cn
@@ -3765,7 +3765,6 @@
 *.51kik.com
 *.51kim.com
 *.51kt.com
-*.51ktbyte.com
 *.51kupai.com
 *.51kupin.com
 *.51kywang.com
@@ -7748,6 +7747,7 @@
 *.aiykj.com
 *.aiyou.com
 *.aiyoumi.com
+*.aiyouzj.com
 *.aiyoweia.com
 *.aiysm.com
 *.aiyuangong.com
@@ -17159,6 +17159,7 @@
 *.dbh123.net
 *.dbkan.com
 *.dblgf.com
+*.dbljj.com
 *.dbm-sh.com
 *.dbmailserver.com
 *.dbmall.com
@@ -18200,7 +18201,6 @@
 *.dnse0.com
 *.dnse1.com
 *.dnsfamily.com
-*.dnsfang.com
 *.dnsff.com
 *.dnsfwq.com
 *.dnsgtm.com
@@ -18985,7 +18985,6 @@
 *.dwntme.com
 *.dwnxy.com
 *.dwq.com
-*.dwqcw.com
 *.dwrh.net
 *.dwsedu.com
 *.dwstatic.com
@@ -24232,6 +24231,7 @@
 *.gzhotelgroup.com
 *.gzhphb.com
 *.gzhtinfo.com
+*.gzhttp.com
 *.gzhuake.cc
 *.gzhuojia.com
 *.gzhxpw.com
@@ -24696,7 +24696,6 @@
 *.hanjie.biz
 *.hanjjl.com
 *.hanju-tv.org
-*.hanjutiantang.com
 *.hanjutv.com
 *.hanjutv.me
 *.hanjutvaa.com
@@ -31409,7 +31408,6 @@
 *.jnyestar.com
 *.jnzcsyj.com
 *.jnzfwz.com
-*.jnzixun.com
 *.jnzycw.com
 *.jo43.com
 *.joaquinchou.com
@@ -32358,7 +32356,6 @@
 *.kailing.pub
 *.kaimanhua.com
 *.kaimg.com
-*.kaimigou.com
 *.kaipan88.com
 *.kaipanla.com
 *.kaiqiancq.com
@@ -35790,7 +35787,6 @@
 *.ls.link
 *.ls0513.com
 *.ls1018.com
-*.ls12.me
 *.ls666.com
 *.lsbankchina.com
 *.lsbchina.com
@@ -36693,6 +36689,7 @@
 *.maplef.net
 *.mapmapping.com
 *.mappn.com
+*.maqingbo.com
 *.maqingxi.com
 *.maqinnews.com
 *.mararun.com
@@ -37577,7 +37574,6 @@
 *.mindmapper.cc
 *.mindmeters.com
 *.mindmm.com
-*.mindopu.com
 *.mindpin.com
 *.mindray.com
 *.minecraftxz.com
@@ -37876,6 +37872,7 @@
 *.mmybt.com
 *.mmycdn.com
 *.mmyfilm.com
+*.mmzcn.com
 *.mmzh.com
 *.mn-soft.com
 *.mnancheng.com
@@ -39022,7 +39019,6 @@
 *.nbhky.com
 *.nbimer.com
 *.nbimg.com
-*.nbjhawl.com
 *.nbjlw.com
 *.nbjnw.com
 *.nbjzjn.com
@@ -39767,7 +39763,6 @@
 *.nowscore.com
 *.nowshipin.com
 *.nowxz.com
-*.nowyingshi.com
 *.noxgroup.com
 *.noxue.com
 *.noxxxx.com
@@ -39980,7 +39975,6 @@
 *.nzbdw.com
 *.nzchina.com
 *.nzsiteres.com
-*.nzw-china.com
 *.nzwgs.com
 *.o--o.win
 *.o-netcom.com
@@ -40102,7 +40096,6 @@
 *.officesoftcn.com
 *.officeweb365.com
 *.officewj.com
-*.officexr.com
 *.officezhushou.com
 *.officezu.com
 *.offodd.com
@@ -41310,7 +41303,6 @@
 *.phpv.net
 *.phpvar.com
 *.phpvod.com
-*.phpweb.net
 *.phpweblog.net
 *.phpxs.com
 *.phpyun.com
@@ -42134,7 +42126,6 @@
 *.py1314.com
 *.py168.com
 *.py3study.com
-*.py6.com
 *.py94.com
 *.pyadx.com
 *.pyasfunds.com
@@ -42505,7 +42496,6 @@
 *.qianjiayue.com
 *.qianjin5.com
 *.qianjing.com
-*.qianjins.com
 *.qianju.org
 *.qianka.com
 *.qianliao.net
@@ -42588,7 +42578,6 @@
 *.qiaqa.com
 *.qiaqiafood.com
 *.qiawei.com
-*.qibaodx.com
 *.qibazaixian.com
 *.qibingdaojia.com
 *.qibo168.com
@@ -45528,7 +45517,6 @@
 *.sfccn.com
 *.sfcdn.org
 *.sfddj.com
-*.sfdkj.com
 *.sfefqwq3.com
 *.sfgj.org
 *.sfgy.org
@@ -46348,6 +46336,7 @@
 *.shoudian.org
 *.shouduit.com
 *.shoudurc.com
+*.shoufaw.com
 *.shoufm.com
 *.shougongke.com
 *.shouhoubang.com
@@ -46795,7 +46784,6 @@
 *.silkroadtechnologies.com
 *.silksong.me
 *.sillydong.com
-*.silu020.com
 *.silucar.com
 *.silucg.com
 *.siludao.com
@@ -48082,7 +48070,6 @@
 *.sthifi.com
 *.sthke.com
 *.sticksgame.com
-*.stjfw.net
 *.stkey.win
 *.stklt.com
 *.stlswm.com
@@ -48227,7 +48214,6 @@
 *.sudusite.com
 *.sueflower.com
 *.sueon.com
-*.sufa168.com
 *.sufangxu.com
 *.sufeinet.com
 *.sufont.com
@@ -51793,7 +51779,6 @@
 *.umilu.com
 *.umindex.com
 *.uminehotel.com
-*.umineiot.com
 *.uminsky.com
 *.umiwi.com
 *.umjicanvas.com
@@ -52910,7 +52895,6 @@
 *.vzhushou.com
 *.vzidc.com
 *.vzkoo.com
-*.vzmapp.com
 *.vzuu.com
 *.w-e.cc
 *.w-w-j-d.com
@@ -54253,7 +54237,6 @@
 *.whsqsoft.com
 *.whsrc.com
 *.whssxpx.com
-*.whsunmap.com
 *.whsw.net
 *.whsy.org
 *.whsyy.net
@@ -57414,7 +57397,6 @@
 *.xqsbw.com
 *.xqship.com
 *.xqtesting.com
-*.xqwww.com
 *.xqyk024.com
 *.xqypay.com
 *.xrcch.com
@@ -58846,7 +58828,6 @@
 *.yilongtv.com
 *.yilule.com
 *.yilumh.com
-*.yiluzhuanqian.com
 *.yiluzouhao.com
 *.yilvcheng.com
 *.yimaoip.com
@@ -58866,7 +58847,6 @@
 *.yimihaodi.com
 *.yimin.biz
 *.yimin168.com
-*.yimincaifu.com
 *.yiminchaoshi.com
 *.yimingkeji.net
 *.yimingzhi.net
@@ -58894,7 +58874,6 @@
 *.yineitong.com
 *.yinfeiy.com
 *.ying-ji.com
-*.yingbar.com
 *.yingbei365.com
 *.yingbio.com
 *.yingbishufa.com
@@ -62279,7 +62258,6 @@
 *.zhulong.com
 *.zhulongjiang.com
 *.zhulu86.com
-*.zhume.com
 *.zhumengwl.com
 *.zhumu.me
 *.zhuna.net
