@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Wed Oct 18 10:22:10 2023
+; Update @ Thu Oct 19 10:22:06 2023
 
 ; cn域名都不走代理
 *.cn
@@ -3293,7 +3293,6 @@
 *.44485.com
 *.444888qq.com
 *.4480.cc
-*.44800.cc
 *.4484.win
 *.4492.com
 *.4493.com
@@ -4740,7 +4739,6 @@
 *.5ip9.com
 *.5ipatent.com
 *.5ipkwan.com
-*.5iqiqu.com
 *.5isanguo.com
 *.5isohu.com
 *.5iucn.com
@@ -5474,7 +5472,6 @@
 *.79432.com
 *.7979u.com
 *.797sun.com
-*.79856.gs
 *.7988wan.com
 *.798com.com
 *.798edu.com
@@ -7645,6 +7642,7 @@
 *.airmobyte.com
 *.airnut.com
 *.airoha.com.tw
+*.airportcip.com
 *.airsavvi.com
 *.airspa.net
 *.airstar.com
@@ -7856,6 +7854,7 @@
 *.alibabadns.com
 *.alibabadoctor.com
 *.alibabafapiao.com
+*.alibabafoundation.com
 *.alibabagroup.com
 *.alibabaonline.com
 *.alibabapictures.com
@@ -8115,7 +8114,6 @@
 *.amberbj.com
 *.amberedu.com
 *.ambereduwh.com
-*.ambienweb.com
 *.ambition-soft.com
 *.ambkct.com
 *.ambow.com
@@ -8519,6 +8517,7 @@
 *.apicloud.com
 *.apigwtencent.com
 *.apispace.com
+*.apitd.net
 *.apiview.com
 *.apixj.xyz
 *.apizb.com
@@ -9105,7 +9104,6 @@
 *.axmro.com
 *.axnsc.com
 *.axshuyuan.com
-*.axtmy.com
 *.axuer.com
 *.axure.us
 *.axureshop.com
@@ -9181,7 +9179,6 @@
 *.b3logfile.com
 *.b5200.net
 *.b555b.com
-*.b58qp.com
 *.b5b6.com
 *.b5csgo.plus
 *.b5esports.me
@@ -10787,7 +10784,6 @@
 *.bjmantis.net
 *.bjmcdh.com
 *.bjmeikao.com
-*.bjmingdi.com
 *.bjmjm.com
 *.bjmslp.com
 *.bjmti.com
@@ -11164,7 +11160,6 @@
 *.bolehu.net
 *.boleihg.com
 *.bolejiang.com
-*.bolejobs.co
 *.bolelink.com
 *.bolepeixun.com
 *.bolexiaozhao.com
@@ -11990,7 +11985,6 @@
 *.cali-light.com
 *.calibur.tv
 *.callda.com
-*.callmyfun.com
 *.callmysoft.com
 *.caloinfo.com
 *.calorietech.com
@@ -29255,6 +29249,7 @@
 *.ip518.com
 *.ip669.com
 *.ip87.com
+*.ipaddr.host
 *.ipadown.com
 *.ipadview.com
 *.ipaiban.com
@@ -32231,7 +32226,6 @@
 *.jzchou.com
 *.jzclassroom.com
 *.jzcxptm.com
-*.jzdhyl.com
 *.jzedu24.com
 *.jzerp.com
 *.jzgcjsysjzz.com
@@ -33593,13 +33587,10 @@
 *.kuzhazha.com
 *.kuzhengame.com
 *.kvegg.com
-*.kveii.com
-*.kvemm.com
 *.kvenjoy.com
 *.kvevv.com
 *.kveww.com
 *.kvexx.com
-*.kvezz.com
 *.kvhmm.com
 *.kviso.com
 *.kvkaa.com
@@ -33708,7 +33699,6 @@
 *.kzeoo.com
 *.kzepp.com
 *.kzerr.com
-*.kzett.com
 *.kzqs.com
 *.kzread.com
 *.kzt.cc
@@ -35858,6 +35848,7 @@
 *.luaninfo.com
 *.luanren.com
 *.luastudio.net
+*.luatos.com
 *.lubandata.com
 *.lubangd.com
 *.lubanjianye.com
@@ -36830,9 +36821,11 @@
 *.mbb0760.com
 *.mbcloud.com
 *.mbgo.com
+*.mbian.com
 *.mbinary.xyz
 *.mbldbb.com
 *.mbokee.com
+*.mbsifu.com
 *.mbsky.com
 *.mbxt.net
 *.mc-ccpit.com
@@ -37402,6 +37395,7 @@
 *.micrenzheng.com
 *.micro-bee.com
 *.micro-servs.com
+*.micro-x.net
 *.microad-cn.com
 *.microad.jp
 *.microadinc.com
@@ -41600,7 +41594,6 @@
 *.playtai.net
 *.playuav.com
 *.playwonderful.com
-*.playwx.com
 *.playwxgame.com
 *.playyx.com
 *.plcdn.net
@@ -42411,6 +42404,8 @@
 *.qhm123.com
 *.qhmed.com
 *.qhmsg.com
+*.qhnet.club
+*.qhnet.site
 *.qhnews.com
 *.qhong.net
 *.qhpcc.com
@@ -43034,6 +43029,7 @@
 *.qlbg.net
 *.qlchat.com
 *.qldzj.com
+*.qlelectrons.com
 *.qlgpy.com
 *.qlidc.com
 *.qlivecdn.com
@@ -43925,7 +43921,6 @@
 *.reasonclub.com
 *.rebatesme.com
 *.rebo5566.com
-*.rebooo.com
 *.rechaos.com
 *.recolighting.com
 *.recordpharm.com
@@ -45018,6 +45013,7 @@
 *.scichina.com
 *.scicn.net
 *.scidict.org
+*.sciengine.com
 *.scientrans.com
 *.scies.org
 *.scievent.com
@@ -46781,7 +46777,6 @@
 *.siluke.cc
 *.siluke.tw
 *.silukeke.com
-*.silusheji.com
 *.siluwu.com
 *.silverlight.dlservice.microsoft.com
 *.sim.djicdn.com
@@ -47935,7 +47930,6 @@
 *.ssrcdn.com
 *.ssrcr.com
 *.ssreader.com
-*.ssrtys.com
 *.ssscdn.com
 *.ssso.com
 *.sst-ic.com
@@ -48452,7 +48446,6 @@
 *.suxieban.com
 *.suxiege.com
 *.suxing.me
-*.suxuewang.com
 *.suyuening.com
 *.suyugame.com
 *.suyujoy.com
@@ -48509,6 +48502,7 @@
 *.swiftlet.net
 *.swiftstar.net
 *.swijoy.com
+*.swirebev.com
 *.switchxiazai.com
 *.switzerland-visacenter.com
 *.swjoy.com
@@ -48918,7 +48912,6 @@
 *.sznews.com
 *.szniego.com
 *.szniushi.com
-*.sznlgg.com
 *.szns-marathon.com
 *.szol.net
 *.szolxd.com
@@ -50760,7 +50753,6 @@
 *.tratao.com
 *.travel-x.cc
 *.travel6.co.uk
-*.traveller2.com
 *.travellingwithhotel.com
 *.travellinkdaily.com
 *.travelsky.com
@@ -50837,6 +50829,7 @@
 *.trustocean.com
 *.trustsoc.com
 *.trustutn.org
+*.trvok.com
 *.trwl.net
 *.tryenough.com
 *.tryfun.com
@@ -52478,7 +52471,6 @@
 *.vinjn.com
 *.vinkdong.com
 *.vinnywang.com
-*.vinoyang.com
 *.vinsondata.com
 *.violetgo.com
 *.violinerhu.com
@@ -55539,7 +55531,6 @@
 *.x-mol.com
 *.x-plans.com
 *.x-ui.com
-*.x00785.com
 *.x0769.com
 *.x11263.com
 *.x11296.com
@@ -56267,7 +56258,6 @@
 *.xiaolizhuli.com
 *.xiaolu123.com
 *.xiaoluboke.com
-*.xiaoluyouxuan.com
 *.xiaoluyy.com
 *.xiaoma.com
 *.xiaoma.net
@@ -57165,7 +57155,6 @@
 *.xlzhao.com
 *.xlzx.com
 *.xlzx123.com
-*.xlzxdc.com
 *.xlzyyw.com
 *.xm-ad.com
 *.xm-ais.net
@@ -57849,6 +57838,7 @@
 *.xxyhzd.com
 *.xxyo.com
 *.xxyw.com
+*.xxyy.co
 *.xxzfgjj.com
 *.xxzhushou.com
 *.xxzsgame.com
@@ -59448,7 +59438,6 @@
 *.yokacdn.com
 *.yokagames.com
 *.yokmob.com
-*.yoko66.com
 *.yokong.com
 *.yolanda.hk
 *.yolewa.com
@@ -61010,6 +60999,7 @@
 *.zbrushcn.com
 *.zbstatic1.com
 *.zbt.com
+*.zbt.net
 *.zbuhe.com
 *.zbusa.com
 *.zbwbbs.com
@@ -62060,6 +62050,7 @@
 *.zhongwucan.com
 *.zhongxiangdichan.net
 *.zhongxiaole.net
+*.zhongxinwei.net
 *.zhongxunrunda.com
 *.zhongxuntv.com
 *.zhongyao1.com
@@ -63074,7 +63065,6 @@
 *.ztfssc.com
 *.ztgame.com
 *.ztgy.org
-*.zthg168.com
 *.zthsqx.com
 *.zthxcf.com
 *.ztinfoga.com
