@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Mon Nov  6 10:23:49 2023
+; Update @ Tue Nov  7 10:22:01 2023
 
 ; cn域名都不走代理
 *.cn
@@ -8682,7 +8682,6 @@
 *.arinchina.com
 *.arisastar.com
 *.arkfeng.xyz
-*.arkn81.com
 *.arkoo.com
 *.arkrdigital.com
 *.arkread.com
@@ -15300,7 +15299,6 @@
 *.cnxuntu.com
 *.cnxzm.com
 *.cnyanglao.com
-*.cnyicheng.com
 *.cnyings.com
 *.cnyipu.com
 *.cnyouhao.com
@@ -16288,7 +16286,6 @@
 *.cuour-edu.com
 *.cuour.com
 *.cuour.org
-*.cupaaki.cyou
 *.cupdapp.com
 *.cupdata.com
 *.cupdns.com
@@ -19069,7 +19066,6 @@
 *.dzsrcw.com
 *.dzssy.com
 *.dztcbj.com
-*.dztdkt.com
 *.dztv.tv
 *.dzty365.com
 *.dzvv.com
@@ -24065,6 +24061,7 @@
 *.gyguohua.com
 *.gyhj.org
 *.gyip.net
+*.gylcxo.xyz
 *.gyljc.com
 *.gymama.com
 *.gymbo-online.com
@@ -25711,7 +25708,6 @@
 *.hhf2008.com
 *.hhfbqzgs.com
 *.hhfxw.com
-*.hhgslb.com
 *.hhh233.net
 *.hhh885.com
 *.hhhoo.com
@@ -28629,7 +28625,6 @@
 *.ikepu.com
 *.ikjtao.com
 *.ikjzd.com
-*.ikmhua.com
 *.ikmt.net
 *.ikmz.cc
 *.iknowbooks.com
@@ -30929,7 +30924,6 @@
 *.jishux.com
 *.jisi17.com
 *.jisu-cnd.com
-*.jisu.xin
 *.jisuacg.com
 *.jisuanke.com
 *.jisuanqinet.com
@@ -33499,7 +33493,6 @@
 *.kwaixiaodian.com
 *.kwaiying.com
 *.kwaizt.com
-*.kweaake.cyou
 *.kwenku.com
 *.kwfser.com
 *.kwimgs.com
@@ -33527,7 +33520,6 @@
 *.kxinyk.com
 *.kxji.com
 *.kxll.com
-*.kxp7.xyz
 *.kxqo2ev.com
 *.kxscience.com
 *.kxt.com
@@ -36983,6 +36975,7 @@
 *.meixie.com
 *.meixiong5.com
 *.meiyaapp.com
+*.meiyacup.com
 *.meiyan.com
 *.meiyedana.com
 *.meiyi.ai
@@ -37052,7 +37045,6 @@
 *.mengxiangeka.com
 *.mengxintianxia.com
 *.mengyou.org
-*.mengyuangu.com
 *.mengyuanshucheng.com
 *.mengyuzhe.com
 *.mengzhou.com
@@ -38171,7 +38163,6 @@
 *.msits.com
 *.mskjf.com
 *.mslzz.com
-*.msm.moe
 *.msmartlife.com
 *.msmbjp.com
 *.mspharm.com
@@ -38581,7 +38572,6 @@
 *.myprad.com
 *.mypscloud.com
 *.mypsy365.com
-*.myptpt.com
 *.myqcloud.com
 *.myqcloud.net
 *.myqee.com
@@ -38596,7 +38586,6 @@
 *.myroome.com
 *.myrtb.net
 *.myrunners.com
-*.myruru.com
 *.myscore.org
 *.mysemlife.com
 *.myshow800.com
@@ -40169,6 +40158,7 @@
 *.onlyling.com
 *.onlyliuxue.com
 *.onlyou.com
+*.onlypat.com
 *.onlyred.net
 *.onlyrubberparts.com
 *.onlystem.com
@@ -40197,7 +40187,6 @@
 *.ooooai.com
 *.oooooooooo213.com
 *.ooopic.com
-*.ooopn.com
 *.ooppoo.com
 *.ootu.cc
 *.oouee.com
@@ -40784,7 +40773,6 @@
 *.partinchina.com
 *.partner.cdnetworks.com
 *.pass7.cc
-*.passby.me
 *.passer-by.com
 *.passport.lenovo.com
 *.passwordkeyboard.com
@@ -40915,7 +40903,6 @@
 *.pdfdowell.com
 *.pdfexpert.cc
 *.pdffsy.com
-*.pdffx.com
 *.pdfjia.com
 *.pdflibr.com
 *.pdfwang.com
@@ -41516,7 +41503,6 @@
 *.pocomagnetic.com
 *.pocosite.com
 *.pocsuite.org
-*.podaaec.cyou
 *.podinns.com
 *.podjiasu.org
 *.poem88.com
@@ -42041,6 +42027,7 @@
 *.qbb6.com
 *.qbdgame.com
 *.qbeenslee.com
+*.qbewux.xyz
 *.qbitai.com
 *.qbjrxs.com
 *.qbox.me
@@ -42131,7 +42118,6 @@
 *.qdjimo.com
 *.qdjjwsjf.com
 *.qdjxhz.com
-*.qdkebang.com
 *.qdkingst.com
 *.qdkmjc.com
 *.qdkongtiao.com
@@ -43809,7 +43795,6 @@
 *.redsun-rp.com
 *.redyue.com
 *.redyue.org
-*.reebbwi.cyou
 *.reedoun.com
 *.reeidc.com
 *.reeiss.com
@@ -45309,7 +45294,6 @@
 *.seseacg.com
 *.sesier.com
 *.seta5252.com
-*.setbbts.cyou
 *.seteuid0.com
 *.seuic.com
 *.sevdot.com
@@ -48934,7 +48918,6 @@
 *.taikr.com
 *.taimi100.com
 *.taipingyang.hk
-*.taipingyangyinshua.com
 *.taiqigame.com
 *.tairan.com
 *.taisantech.com
@@ -49587,6 +49570,7 @@
 *.tgshiguan.com
 *.tgslsst.com
 *.tgyoo.com
+*.tgzwmk.xyz
 *.th.app
 *.th38.com
 *.thamco.com
@@ -49782,7 +49766,6 @@
 *.tianqikb.com
 *.tianqistatic.com
 *.tianrow.com
-*.tianruixinxi.com
 *.tianruiyun.com
 *.tianruo.net
 *.tiansenjituan.com
@@ -51471,7 +51454,6 @@
 *.ugainian.com
 *.ugapi.com
 *.ugbb.com
-*.ugcar.com
 *.ugdtimg.com
 *.uggd.com
 *.ugirls.tv
@@ -54326,7 +54308,6 @@
 *.witspring.com
 *.wiwide.com
 *.wiz03.com
-*.wizarcan.com
 *.wj-hospital.com
 *.wj001.com
 *.wj166.com
@@ -57391,7 +57372,6 @@
 *.xuepaijie.com
 *.xueqiu.com
 *.xueqiu360.com
-*.xuermh.com
 *.xuesax.com
 *.xueseo.com
 *.xueshanlinghu.com
@@ -59620,7 +59600,6 @@
 *.yovocloud.com
 *.yovole.com
 *.yovyuan.com
-*.yowbbxi.cyou
 *.yowooa.com
 *.yoxiha.com
 *.yoximi.com
@@ -59787,7 +59766,6 @@
 *.yt698.com
 *.yta-tech.com
 *.ytaotao.net
-*.ytb.io
 *.ytbbs.com
 *.ytbfilm.com
 *.ytcbh.com
@@ -61726,6 +61704,7 @@
 *.zhld88.com
 *.zhlhh.com
 *.zhliqi.com
+*.zhltech.net
 *.zhlzw.com
 *.zhmeiwen.com
 *.zhmf.com
@@ -61987,7 +61966,6 @@
 *.zhuishuyun.com
 *.zhuiwan.org
 *.zhuixin.cc
-*.zhuixinfan.com
 *.zhuiyi.ai
 *.zhuizhuiimg.com
 *.zhuizhuiyoyo.com
