@@ -11,7 +11,15 @@
     ```
     https://raw.githubusercontent.com/entr0pia/SwitchyOmega-Whitelist/master/white-list.sorl
     ```
-    > 代理加速: [https://ghproxy.com/https://raw.githubusercontent.com/entr0pia/SwitchyOmega-Whitelist/master/white-list.sorl](https://ghproxy.com/https://raw.githubusercontent.com/entr0pia/SwitchyOmega-Whitelist/master/white-list.sorl)
+    > 代理加速 (一个一个试):
+    > 1. https://ghproxy.com/https://raw.githubusercontent.com/entr0pia/SwitchyOmega-Whitelist/master/white-list.sorl
+    > 2. https://mirror.ghproxy.com/https://raw.githubusercontent.com/entr0pia/SwitchyOmega-Whitelist/master/white-list.sorl
+    > 3. https://ghproxy.net/https://raw.githubusercontent.com/entr0pia/SwitchyOmega-Whitelist/master/white-list.sorl
+    > 4. https://fastly.jsdelivr.net/gh/entr0pia/SwitchyOmega-Whitelist@master/white-list.sorl
+    > 5. https://gcore.jsdelivr.net/gh/entr0pia/SwitchyOmega-Whitelist@master/white-list.sorl
+    > 6. https://jsdelivr.b-cdn.net/gh/entr0pia/SwitchyOmega-Whitelist@master/white-list.sorl
+    > 7. https://raw.fgit.cf/entr0pia/SwitchyOmega-Whitelist/master/white-list.sorl
+    > 8. https://gh-proxy.com/https://raw.githubusercontent.com/entr0pia/SwitchyOmega-Whitelist/master/white-list.sorl
 
 8. 点击「立即更新情景模式」；
 9. 点击左上角「界面」，将初始情景模式改为「自动切换」。
