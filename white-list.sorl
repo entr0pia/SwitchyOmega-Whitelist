@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Fri Dec  1 10:23:35 2023
+; Update @ Sat Dec  2 10:20:09 2023
 
 ; cn域名都不走代理
 *.cn
@@ -166,6 +166,7 @@
 *.021fenglei.com
 *.021fx.com
 *.021gjhb.com
+*.021hunbohui.com
 *.021ja.com
 *.021jingwei.com
 *.021jingwu.com
@@ -887,7 +888,6 @@
 *.114zpw.com
 *.114zw.org
 *.115.com
-*.11544.com
 *.1155871.com
 *.1156.com
 *.1156dns.com
@@ -7061,7 +7061,6 @@
 *.admaimai.com
 *.admama.com
 *.admamax.com
-*.admasterto.com
 *.admile.xyz
 *.admin.edu.pl
 *.admin10000.com
@@ -10273,6 +10272,7 @@
 *.bihu.com
 *.bihubao.com
 *.biikan.com
+*.biioii.com
 *.biji13.com
 *.bijiago.com
 *.bijiagou.com
@@ -11654,7 +11654,6 @@
 *.c-119.com
 *.c-3.moe
 *.c-canyin.com
-*.c-cnc.com
 *.c-cpp.com
 *.c-ctrip.com
 *.c-estbon.com
@@ -13926,6 +13925,7 @@
 *.chipcoo.com
 *.chipcreation.com
 *.chipdance.com
+*.chipdebug.com
 *.chiphell.com
 *.chiphometek.com
 *.chiplayout.net
@@ -26586,7 +26586,6 @@
 *.htback.com
 *.htbenet.net
 *.htc-media.com
-*.htcbbs.net
 *.htcis.net
 *.htcxfund.com
 *.htd2000.com
@@ -29398,7 +29397,6 @@
 *.itmastergame.com
 *.itmind.net
 *.itmoocs.com
-*.itmop.com
 *.itmsm.com
 *.itmuch.com
 *.itmuke.com
@@ -38381,6 +38379,7 @@
 *.myoldtime.com
 *.myopenwrt.org
 *.myoppo.com
+*.myorbita.net
 *.myottad.com
 *.myouth.net
 *.myp2pch.net
@@ -41387,7 +41386,6 @@
 *.poppur.com
 *.popqiu.com
 *.popsoft.com
-*.popu.org
 *.popumed.com
 *.poputar.com
 *.popziti.com
@@ -41470,7 +41468,6 @@
 *.ppkao.com
 *.pplib.net
 *.pplive.com
-*.ppliwu.com
 *.pplock.com
 *.ppm2.com
 *.ppmake.com
@@ -45238,7 +45235,6 @@
 *.shafa.com
 *.shafaguanjia.com
 *.shaftgd.com
-*.shahaizi.com
 *.shahupark.com
 *.shaidc.com
 *.shailema.com
@@ -49853,7 +49849,6 @@
 *.tjyz.org
 *.tjzb.com
 *.tjzcsj.com
-*.tjzekun.com
 *.tjzfcg.com
 *.tjzhongyiyao.com
 *.tjzyec.com
@@ -51616,6 +51611,7 @@
 *.utepo.com
 *.utermux.dev
 *.utfinancing.com
+*.utgd.net
 *.uthinks.com
 *.utiankong.com
 *.utogame.com
@@ -52794,7 +52790,6 @@
 *.wantouzi.net
 *.wantowan.com
 *.wantquotes.net
-*.wantshopping.ltd
 *.wantumusic.com
 *.wantwords.net
 *.wanwang.space
@@ -54768,6 +54763,7 @@
 *.wumii.com
 *.wumii.tv
 *.wuming.com
+*.wupfrl.com
 *.wuqing.cc
 *.wuqiong.info
 *.wuqishike.com
@@ -55603,7 +55599,6 @@
 *.xiangqianpos.com
 *.xiangqin7.com
 *.xiangqu.com
-*.xiangrikui.co
 *.xiangrikui.com
 *.xiangrikuijianzhan.com
 *.xiangruizulin.com
@@ -60276,7 +60271,6 @@
 *.yytek.com
 *.yytingli.com
 *.yyuap.com
-*.yyuasa.com
 *.yywlsj.com
 *.yywords.com
 *.yywt.online
