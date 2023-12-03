@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Sat Dec  2 10:20:09 2023
+; Update @ Sun Dec  3 10:20:47 2023
 
 ; cn域名都不走代理
 *.cn
@@ -4292,7 +4292,6 @@
 *.545c.com
 *.5460.net
 *.54674479.com
-*.5490146.cc
 *.5490196.cc
 *.5499.com
 *.54benniao.com
@@ -9075,7 +9074,6 @@
 *.b5b6.com
 *.b5csgo.plus
 *.b5esports.me
-*.b5m.com
 *.b612.me
 *.b612kaji.com
 *.b7l.cc
@@ -13267,7 +13265,6 @@
 *.china-core.com
 *.china-cpu.co
 *.china-cpu.com
-*.china-csdz.com
 *.china-csm.org
 *.china-d.com
 *.china-designer.com
@@ -14543,6 +14540,7 @@
 *.cloudglb.com
 *.cloudgoing.com
 *.cloudguarding.com
+*.cloudhin.com
 *.cloudhosts.xyz
 *.cloudhua.com
 *.cloudhvacr.com
@@ -17453,6 +17451,7 @@
 *.dhimavision.com
 *.dhjt.com
 *.dhkipdsc.xyz
+*.dhkk.cc
 *.dhkq120.com
 *.dhkqmz.com
 *.dhkqyy.com
@@ -24490,7 +24489,6 @@
 *.hanlei.org
 *.hanlin.press
 *.hanlinzhijia.net
-*.hanmadiancan.com
 *.hanmaker.com
 *.hanmeilin.com
 *.hannor.com
@@ -31637,6 +31635,7 @@
 *.juming-xz.com
 *.juming.com
 *.jumore.com
+*.jump-center.com
 *.jump-game.com
 *.jumpjumpcat.com
 *.jumple.com
@@ -33172,6 +33171,7 @@
 *.kuakao.com
 *.kuakao.net
 *.kuaming.com
+*.kuanfans.com
 *.kuanfutong.com
 *.kuang-chi.com
 *.kuang-chi.org
@@ -35772,7 +35772,6 @@
 *.lvtu.com
 *.lvtu8.com
 *.lvtudiandian.com
-*.lvwan365.com
 *.lvwang.com
 *.lvwenhan.com
 *.lvwmb.com
@@ -36277,7 +36276,6 @@
 *.mangzitian.com
 *.manhua1.com
 *.manhua166.com
-*.manhua188.com
 *.manhua365.com
 *.manhua456.com
 *.manhuacheng.com
@@ -40433,6 +40431,7 @@
 *.paizhe.com
 *.paizi.com
 *.paizi.net
+*.paizi10.com
 *.pajkb.com
 *.pajkdc.com
 *.palace-international.com
@@ -41213,7 +41212,6 @@
 *.pkusp.com
 *.pkuszh.com
 *.pkvs.com
-*.pkzx.com
 *.plaidc.com
 *.plalzhang.com
 *.planckled.com
@@ -43222,6 +43220,7 @@
 *.qvlz.com
 *.qvpublish.com
 *.qw5599.com
+*.qwbk.cc
 *.qweather.com
 *.qweather.net
 *.qwfync.com
@@ -44321,7 +44320,6 @@
 *.s-reader.com
 *.s-sgames.com
 *.s-ts.net
-*.s06661.com
 *.s135.com
 *.s163.com
 *.s1979.com
@@ -46660,7 +46658,6 @@
 *.sjwyx.com
 *.sjxinxiwang.com
 *.sjxs.la
-*.sjybsc.com
 *.sjycbl.com
 *.sjytech.com
 *.sjyx.com
@@ -47144,7 +47141,6 @@
 *.songliguo.com
 *.songma.com
 *.songqili.net
-*.songqinedu.com
 *.songqinnet.com
 *.songshitang.com
 *.songshizhao.com
@@ -52698,7 +52694,6 @@
 *.wangtongtong.com
 *.wangtu.com
 *.wanguan.com
-*.wangukcn.com
 *.wanguoschool.com
 *.wanguoschool.net
 *.wanguotong.com
@@ -57949,7 +57944,6 @@
 *.yegame.com
 *.yegenyou.com
 *.yegoo.com
-*.yehetang.cc
 *.yeidc.com
 *.yeidc.net
 *.yejienet.com
@@ -61372,6 +61366,7 @@
 *.zhiyicx.com
 *.zhiyiedu.vip
 *.zhiyinghui.com
+*.zhiyingyang.com
 *.zhiyinhao.com
 *.zhiyinlou.com
 *.zhiyinmedia.com
