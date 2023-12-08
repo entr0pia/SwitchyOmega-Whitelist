@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Thu Dec  7 10:23:29 2023
+; Update @ Fri Dec  8 10:22:35 2023
 
 ; cn域名都不走代理
 *.cn
@@ -10881,6 +10881,7 @@
 *.blszhifa.com
 *.blue-city.com
 *.blue-zero.com
+*.bluearchive-cn.com
 *.bluebeebox.com
 *.bluecatyun.com
 *.bluecefa.com
@@ -14016,7 +14017,6 @@
 *.chongyitang.org
 *.chonka.com
 *.choqi.com
-*.chotee.com
 *.chouchou.club
 *.chouchoujiang.com
 *.choujue.net
@@ -17469,7 +17469,6 @@
 *.dian.so
 *.dian123.com
 *.dian234.com
-*.dian321.com
 *.dian5.com
 *.dianapp.com
 *.dianbo.org
@@ -18753,7 +18752,6 @@
 *.dushu369.com
 *.dushudaren.com
 *.dushuge.net
-*.dushw.com
 *.dustess.com
 *.dustglobal.com
 *.dustit.me
@@ -32691,7 +32689,6 @@
 *.kklishi.com
 *.kklxj.com
 *.kkmh.com
-*.kkminer.com
 *.kkmop.com
 *.kknn.com
 *.kknss.com
@@ -38714,7 +38711,6 @@
 *.ncyunqi.com
 *.nczfgjj.com
 *.nd-ydsdfq-sdfqw.com
-*.nd090.com
 *.nd15.com
 *.nd56.com
 *.ndcpp.com
@@ -39094,7 +39090,6 @@
 *.ningxingxing.com
 *.ninjacn.com
 *.ninjadq.com
-*.ninjamustdie.com
 *.ninthpalace360.com
 *.nio.com
 *.nioapis.com
@@ -43749,7 +43744,6 @@
 *.ribencun.com
 *.ribenshi.com
 *.ricebook.com
-*.ricefish.io
 *.ricequant.com
 *.rich-chang.com
 *.rich-futures.com
@@ -46360,7 +46354,6 @@
 *.siluke.tw
 *.silukeke.com
 *.siluwu.com
-*.silverlight.dlservice.microsoft.com
 *.sim.djicdn.com
 *.sim800.com
 *.simagic.com
@@ -46754,6 +46747,7 @@
 *.slertness.com
 *.slfwq.com
 *.slgfjzz.com
+*.slicejobs.com
 *.slicercn.com
 *.slimtheme.com
 *.slink8.com
@@ -47787,6 +47781,7 @@
 *.suirui.com
 *.suishenyun.net
 *.suishouji.com
+*.suishouzj.com
 *.suisuihu.com
 *.suisuijiang.com
 *.suixinzulin.com
@@ -52266,7 +52261,6 @@
 *.vpscang.com
 *.vpser.net
 *.vpsjxw.com
-*.vpsmm.com
 *.vpsno.com
 *.vpsoff.net
 *.vpsor.com
@@ -61116,6 +61110,7 @@
 *.zhenwu.com
 *.zhenxiad.com
 *.zhenxian.fm
+*.zhenxiliangshi.com
 *.zhenxinfu.com
 *.zhenxingkuangchanpin.com
 *.zhenyouliao.com
@@ -62471,6 +62466,7 @@
 *.zslyyn12.com
 *.zslyzjj11.com
 *.zsmama.com
+*.zsnxapp.com
 *.zsppsj.com
 *.zsr.cc
 *.zssl.net
