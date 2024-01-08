@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Sun Jan  7 10:21:28 2024
+; Update @ Mon Jan  8 10:23:44 2024
 
 ; cn域名都不走代理
 *.cn
@@ -343,7 +343,6 @@
 *.0523zp.com
 *.0523zz.com
 *.05273.com
-*.0527ys.com
 *.0527zz.com
 *.052yx.com
 *.0531.com
@@ -3692,7 +3691,6 @@
 *.51lifes.com
 *.51lingji.com
 *.51liucheng.com
-*.51ljms.com
 *.51lucy.com
 *.51lunwenwang.com
 *.51luying.com
@@ -32698,7 +32696,6 @@
 *.koto.com
 *.kotoo.com
 *.koubei.com
-*.koubeiblog.com
 *.koubeikc.com
 *.koucai365.com
 *.koudai.com
@@ -33194,6 +33191,7 @@
 *.kye-erp.com
 *.kyemall.com
 *.kygf1.com
+*.kygf3.com
 *.kyhtech.com
 *.kyjxy.com
 *.kylc.com
@@ -34052,6 +34050,7 @@
 *.lezi.com
 *.lezuan.net
 *.lezuan9.com
+*.lezuocai.com
 *.lf127.net
 *.lfan.net
 *.lfang.com
@@ -44277,6 +44276,7 @@
 *.sayabear.com
 *.sayll.com
 *.sayloving.com
+*.sayodevice.com
 *.saywash.com
 *.sbanzu.com
 *.sbc-mcc.com
@@ -44995,7 +44995,6 @@
 *.shandongsannong.com
 *.shandongyunpin.com
 *.shandw.com
-*.shane-nanyang.com
 *.shang-chain.com
 *.shang-ma.com
 *.shang0898.com
@@ -49074,7 +49073,6 @@
 *.th.app
 *.th38.com
 *.thamco.com
-*.thanhong.me
 *.thankbabe.com
 *.thatinterpreter.net
 *.thatsmags.com
@@ -58489,7 +58487,6 @@
 *.ymd88.com
 *.ymexf.com
 *.ymfile.com
-*.ymgmno.com
 *.ymhudong.com
 *.ymiot.net
 *.ymkuzhan.com
