@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Fri Jan 12 10:23:19 2024
+; Update @ Sat Jan 13 10:21:37 2024
 
 ; cn域名都不走代理
 *.cn
@@ -2814,7 +2814,6 @@
 *.3699wan.com
 *.369wenku.com
 *.369xxw.com
-*.36cao.live
 *.36dianping.com
 *.36dj.com
 *.36hjob.com
@@ -8585,7 +8584,6 @@
 *.armsword.com
 *.armystar.com
 *.arocmag.com
-*.aromalong.com
 *.arongsoft.com
 *.arp.cc
 *.arpg2.com
@@ -15989,7 +15987,6 @@
 *.cszzjc.com
 *.ct-cdm.com
 *.ct-laser.com
-*.ct10000.com
 *.ct108.com
 *.ct52.com
 *.ctaca.com
@@ -16491,7 +16488,6 @@
 *.dahepiao.com
 *.dahongba.net
 *.dahouduan.com
-*.dahua8.com
 *.dahuaab.com
 *.dahuaddns.com
 *.dahuatech.com
@@ -17638,6 +17634,7 @@
 *.dinggou.org
 *.dinghaiec.com
 *.dinghuaren.com
+*.dinghui.org
 *.dinghuihuojia.com
 *.dinghuo123.com
 *.dinghuo365.com
@@ -18435,6 +18432,7 @@
 *.drm-x.com
 *.drm-x.net
 *.drmaml.com
+*.drockart.com
 *.droi.com
 *.droibaas.com
 *.dropsec.xyz
@@ -19321,7 +19319,6 @@
 *.edt2018.com
 *.edtsoft.com
 *.edu-book.com
-*.edu-chineseembassy-uk.org
 *.edu-cj.com
 *.edu-nw.com
 *.edu-shanghai.net
@@ -24629,6 +24626,7 @@
 *.haosix.com
 *.haosou.com
 *.haostay.com
+*.haotgame.com
 *.haotianhuyu.com
 *.haotihui.com
 *.haotijin.com
@@ -30654,7 +30652,6 @@
 *.jinzheled.com
 *.jinzhidagl.com
 *.jinzhoubank.com
-*.jinzhouwp.com
 *.jinzhucaifu.com
 *.jinzhuguo.com
 *.jinzjy.com
@@ -35560,7 +35557,6 @@
 *.lumin.tech
 *.lumingtec.com
 *.lumiunited.com
-*.lumyhouse.com
 *.lunar2013.com
 *.lunchong.com
 *.lundao.pub
@@ -36180,7 +36176,6 @@
 *.manewvr.com
 *.manfen.net
 *.mangafuna.xyz
-*.mangafunc.fun
 *.mangg.com
 *.mangg.net
 *.mangguo.com
@@ -37281,7 +37276,6 @@
 *.miot-spec.org
 *.mipa.fun
 *.mipacc.com
-*.mipang.com
 *.mipangwang.com
 *.mipay.com
 *.mipcdn.com
@@ -40497,7 +40491,6 @@
 *.parkbees.com
 *.parkblop.com
 *.parkchina.net
-*.parkdaily.com
 *.parkicloud.com
 *.parkingjet.com
 *.parkingos.club
@@ -40799,7 +40792,6 @@
 *.phnixpool.com
 *.pho.so
 *.phodal.com
-*.phodin.com
 *.phoemix.net
 *.phoenix-ea.com
 *.phoenixtea.org
@@ -41991,7 +41983,6 @@
 *.qhtycp.com
 *.qhtyzx.com
 *.qhupdate.com
-*.qhwh.com
 *.qhwmw.com
 *.qhwww.com
 *.qhxmlyts.com
@@ -44896,6 +44887,7 @@
 *.seekfunbook.com
 *.seekhill.com
 *.seekonly.net
+*.seekswan.com
 *.seelvyou.com
 *.seemmo.com
 *.seemoread.com
@@ -53391,6 +53383,7 @@
 *.wenxuetiandi.com
 *.wenyijcc.com
 *.wenyoutai.com
+*.wenytao.com
 *.wenyu6.com
 *.wenyw.com
 *.wenzaizhibo.com
@@ -54961,6 +54954,7 @@
 *.wz132.com
 *.wz16.net
 *.wz5.com
+*.wzbks.com
 *.wzciming.com
 *.wzdjy.com
 *.wzdlqj.com
@@ -58962,7 +58956,6 @@
 *.youcaizhushou.com
 *.youcash.com
 *.youcha.net
-*.youchedaren.net
 *.youchedi.com
 *.youchejiuxing.com
 *.youchent.com
@@ -59906,7 +59899,6 @@
 *.yunyingmiao.com
 *.yunyingpai.com
 *.yunyingxuetang.com
-*.yunyingzhe.com
 *.yunyis.com
 *.yunyize.com
 *.yunyoufeitian.com
@@ -61252,7 +61244,6 @@
 *.zhishengbang.com
 *.zhishi.com
 *.zhishi.tech
-*.zhishibo.com
 *.zhishifenzi.com
 *.zhishilin.com
 *.zhishisoft.com
@@ -61918,7 +61909,6 @@
 *.zjfdc.net
 *.zjft.com
 *.zjgas.net
-*.zjgctwh.com
 *.zjgf88.com
 *.zjghep.com
 *.zjgjj.com
