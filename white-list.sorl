@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Sat Jan 13 10:21:37 2024
+; Update @ Sun Jan 14 10:21:29 2024
 
 ; cn域名都不走代理
 *.cn
@@ -4229,7 +4229,6 @@
 *.5317wan.com
 *.531pool.com
 *.532106.com
-*.5321vip.com
 *.533.com
 *.533.net
 *.5334.com
@@ -4280,6 +4279,7 @@
 *.54job.com
 *.54kefu.net
 *.54lol.com
+*.54maimai.com
 *.54md.com
 *.54op.com
 *.54pictu.com
@@ -7672,7 +7672,6 @@
 *.alexhaohao.com
 *.alexyan.cc
 *.alfeng.com
-*.alfheim.cc
 *.algorithmart.com
 *.ali-health.com
 *.ali-star.com
@@ -8926,7 +8925,6 @@
 *.awspal.com
 *.awstar.net
 *.awtmt.com
-*.awu3.net
 *.awuming.com
 *.awx1.com
 *.ax2nc4.ren
@@ -10955,7 +10953,6 @@
 *.bojianger.com
 *.bojoy.net
 *.bojun-import.com
-*.bojuwang.com
 *.bokanghui.net
 *.bokao2o.com
 *.boke.com
@@ -17028,7 +17025,6 @@
 *.dduwork.com
 *.ddweilai.com
 *.ddwhm.com
-*.ddwzh.com
 *.ddxq.mobi
 *.ddxstxt8.com
 *.ddyqh.com
@@ -17487,7 +17483,6 @@
 *.dianxin.net
 *.dianxinnews.com
 *.dianxinos.com
-*.dianyikongjie.com
 *.dianyingjie.com
 *.dianyingshow.com
 *.dianyingwenxue.com
@@ -19966,7 +19961,6 @@
 *.eswin.com
 *.eswxj.com
 *.eswzx.com
-*.esycd.com
 *.eszmall.com
 *.esztsg.org
 *.esztyg.com
@@ -21453,7 +21447,6 @@
 *.fovmy.com
 *.fox-studio.net
 *.fox008.com
-*.fox800.xyz
 *.foxconn.com
 *.foxera.com
 *.foxmail.com
@@ -26986,7 +26979,6 @@
 *.huisky.com
 *.huisou.com
 *.huisuoping.com
-*.huitangwenquan.com
 *.huitao.net
 *.huitaodang.com
 *.huitaoyouhui.com
@@ -27651,6 +27643,7 @@
 *.iadmore.com
 *.iaeac.org
 *.iaikx.com
+*.iaixue.com
 *.ialicdn.com
 *.ialloc.com
 *.iambanban.com
@@ -35044,7 +35037,6 @@
 *.lnamphp.com
 *.lncldapi.com
 *.lncnw.com
-*.lndao.com
 *.lndhdx.com
 *.lndwkj.com
 *.lnemci.com
@@ -35350,7 +35342,6 @@
 *.lovev.com
 *.lovewith.me
 *.lovewj.info
-*.lovezhuoyou.com
 *.lovfp.com
 *.lovgiin.com
 *.lovology.com
@@ -38764,7 +38755,6 @@
 *.netsun.com
 *.nettvl.net
 *.networkbench.com
-*.networkbrand.com
 *.netzonesoft.com
 *.neu-reality.com
 *.neucrack.com
@@ -40763,6 +40753,7 @@
 *.pfwx.com
 *.pg-leak.com
 *.pg114.net
+*.pg8090.com
 *.pg9997.com
 *.pgbee.com
 *.pgc.tv
@@ -43719,7 +43710,6 @@
 *.rinlink.com
 *.rinvay.cc
 *.ripic.xyz
-*.rippleos.com
 *.rippletek.com
 *.risc-v1.com
 *.riscv-mcu.com
@@ -45038,7 +45028,6 @@
 *.sfccn.com
 *.sfcdn.org
 *.sfddj.com
-*.sfefqwq3.com
 *.sfgj.org
 *.sfgy.org
 *.sfht.com
@@ -45811,7 +45800,6 @@
 *.shmylike.com
 *.shnaer.com
 *.shnb12315.com
-*.shnczq.org
 *.shneweye.com
 *.shnsyh.com
 *.shnti.com
@@ -49590,7 +49578,6 @@
 *.tiexing.net
 *.tiexiuyugudao.com
 *.tiexue.net
-*.tieyi.tm
 *.tieyou.com
 *.tiezhima.com
 *.tiezis.com
@@ -49809,6 +49796,7 @@
 *.tlightsky.com
 *.tlinx.com
 *.tlivecdn.com
+*.tlivecdnv2.com
 *.tlivemcdn.com
 *.tliveplay.com
 *.tlivepush.com
@@ -52323,7 +52311,6 @@
 *.vvmeiju.com
 *.vvo2o.com
 *.vvpgwg.xyz
-*.vvpingtai.com
 *.vvpncdn.com
 *.vvstc.com
 *.vvtor.com
@@ -52533,7 +52520,6 @@
 *.wanfangtech.com
 *.wanfangtech.net
 *.wanfantian.com
-*.wanfumei.net
 *.wanfuqianqiu.com
 *.wang
 *.wang-li.com
@@ -52626,6 +52612,7 @@
 *.wangxiaobao.cc
 *.wangxiaobao.com
 *.wangxingcs.com
+*.wangxingrenhb.com
 *.wangxinhao.com
 *.wangxinlicai.com
 *.wangyanpiano.com
@@ -59571,7 +59558,6 @@
 *.yueqi.com
 *.yueqiquan.com
 *.yueqiweixiu.com
-*.yueqiziliao.com
 *.yueque.com
 *.yuer.com
 *.yuerbao.com
