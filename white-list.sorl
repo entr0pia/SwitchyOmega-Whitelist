@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Sat Jan 27 10:19:44 2024
+; Update @ Sun Jan 28 10:20:12 2024
 
 ; cn域名都不走代理
 *.cn
@@ -1184,6 +1184,7 @@
 *.155.com
 *.155175.com
 *.155idc.com
+*.156669.com
 *.156pay.com
 *.15803.com
 *.1588.tv
@@ -5029,7 +5030,6 @@
 *.6a.com
 *.6aas.com
 *.6abc.net
-*.6acm.com
 *.6an8.com
 *.6api.net
 *.6apt.com
@@ -5495,7 +5495,6 @@
 *.80.com
 *.80.hk
 *.80000.cc
-*.800020308.com
 *.800423.com
 *.800535.com
 *.8006506.com
@@ -5939,7 +5938,6 @@
 *.90576.com
 *.906you.com
 *.90907.com
-*.90bola.cc
 *.90bola.me
 *.90ckm.com
 *.90e.com
@@ -6510,6 +6508,7 @@
 *.99997aaa.com
 *.99998aaa.com
 *.999ask.com
+*.999bb222ww.com
 *.999bj.com
 *.999brain.com
 *.999inandon.com
@@ -7955,6 +7954,7 @@
 *.ambition-soft.com
 *.ambkct.com
 *.ambow.com
+*.amcfortune.com
 *.amchamchina.org
 *.amdotibet.com
 *.amec-inc.com
@@ -9938,6 +9938,7 @@
 *.bertadata.com
 *.berui.com
 *.bes.ren
+*.beschannels.com
 *.besclouds.com
 *.besg-bee.com
 *.besget.com
@@ -12070,6 +12071,7 @@
 *.ccbpension.com
 *.ccbride.com
 *.cccbs.net
+*.cccccccccccccccccccccccccccccccccccccccccccccc.cc
 *.cccdun.com
 *.cccf-cloud.com
 *.ccchz.com
@@ -12304,6 +12306,7 @@
 *.cddgg.net
 *.cddscj.com
 *.cddsgk.com
+*.cddys.me
 *.cde-os.com
 *.cdedu.com
 *.cdeledu.com
@@ -12736,6 +12739,7 @@
 *.cgyou.com
 *.cgyouxi.com
 *.cgyu.com
+*.cgyx.tv
 *.cgzair.com
 *.cgzy.net
 *.cgzyw.com
@@ -16589,6 +16593,7 @@
 *.dakayi.cc
 *.dakele.com
 *.dalaba.com
+*.dalao.net
 *.dalaosz.com
 *.dalianair-china.com
 *.dalianiso.com
@@ -17311,7 +17316,6 @@
 *.dfysw.net
 *.dfyuan.com
 *.dfyxs.com
-*.dfyydl.com
 *.dfyzx.com
 *.dfzmzyc.com
 *.dfzxvip.com
@@ -17977,6 +17981,7 @@
 *.dnsdizhi.com
 *.dnse0.com
 *.dnse1.com
+*.dnse2.com
 *.dnsfamily.com
 *.dnsfast.online
 *.dnsff.com
@@ -19135,6 +19140,7 @@
 *.eayou.com
 *.eayuan.com
 *.eayyou.com
+*.eazhm.com
 *.eazytec-cloud.com
 *.eb80.com
 *.ebadu.net
@@ -19174,6 +19180,7 @@
 *.ebtrust.com
 *.ebuckler.com
 *.ebways.com
+*.ebyte.com
 *.ec-ae.com
 *.ec-cloudtech.com
 *.ec-founder.com
@@ -20061,6 +20068,7 @@
 *.eugnnn.com
 *.eui.cc
 *.euibe.com
+*.euino.com
 *.eulike.com
 *.eulixos.com
 *.eureka.name
@@ -21865,7 +21873,6 @@
 *.fyapi.net
 *.fybiji.com
 *.fybxw.com
-*.fychinago.com
 *.fycpu.com
 *.fydeos.com
 *.fydns360.net
@@ -36236,6 +36243,7 @@
 *.manibnb.com
 *.maninmusic.com
 *.manjiwang.com
+*.manlaxy.com
 *.manlinggame.com
 *.manlongye.com
 *.manluoni.com
@@ -37400,6 +37408,7 @@
 *.mkstone.club
 *.mktcreator.com
 *.mktdatatech.com
+*.mktzb.com
 *.mktzr.com
 *.mkvcn.com
 *.mkwhat.com
@@ -41262,6 +41271,7 @@
 *.pocomagnetic.com
 *.pocosite.com
 *.pocsuite.org
+*.podcast.xyz
 *.podfest.tech
 *.podinns.com
 *.podjiasu.org
@@ -43227,7 +43237,6 @@
 *.qycn.org
 *.qycname.com
 *.qydimg.com
-*.qyec.com
 *.qyer.com
 *.qyerstatic.com
 *.qyestar.com
@@ -44795,6 +44804,7 @@
 *.sdqoi2d.com
 *.sdrcu.com
 *.sdrsks.org
+*.sdsf8.com
 *.sdsgwy.com
 *.sdshshb.com
 *.sdsmefina.com
@@ -51100,6 +51110,7 @@
 *.uchangdi.com
 *.uchiha.ltd
 *.uchis.com
+*.uchoice.cc
 *.uchuanbo.com
 *.ucicq.com
 *.ucjoy.com
@@ -52227,6 +52238,7 @@
 *.voole.com
 *.voole.net
 *.voopoo.com
+*.vootoo.net
 *.voovlive.com
 *.voovmeeting.com
 *.vortexfun.com
@@ -55474,7 +55486,6 @@
 *.xhnews.net
 *.xhostserver.com
 *.xhpfw.com
-*.xhpiano.com
 *.xhqqt.com
 *.xhscdn.com
 *.xhscdn.net
@@ -60342,6 +60353,8 @@
 *.za-doctor.com
 *.zabaow.com
 *.zabeiy.com
+*.zabiuq.com
+*.zabiur.com
 *.zablog.me
 *.zac1993.com
 *.zacaog.com
@@ -62223,6 +62236,7 @@
 *.zmndjm.com
 *.zmnds.com
 *.zmnedu.com
+*.zmneysz.com
 *.zmnoa.com
 *.zmnrz.com
 *.zmobuy.com
