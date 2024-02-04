@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Sat Feb  3 10:19:03 2024
+; Update @ Sun Feb  4 10:20:13 2024
 
 ; cn域名都不走代理
 *.cn
@@ -5613,7 +5613,6 @@
 *.8289880.com
 *.828g.com
 *.82987977.com
-*.82ip.com
 *.82ky.com
 *.82pk.com
 *.83084.com
@@ -7361,6 +7360,7 @@
 *.aifu360.com
 *.aigame100.com
 *.aiganggu.com
+*.aigc369.com
 *.aige010.com
 *.aigei.com
 *.aigewc.com
@@ -14013,7 +14013,6 @@
 *.chshcms.com
 *.chshouyu.com
 *.chspu.com
-*.chsqh.com
 *.chste.com
 *.chtf.com
 *.chtfund.com
@@ -16941,7 +16940,6 @@
 *.dazhuanlan.com
 *.dazibo.com
 *.dazidazi.com
-*.dazidian.net
 *.dazijia.com
 *.dazoread.com
 *.dazpin.com
@@ -20414,7 +20412,6 @@
 *.fageka.com
 *.fagua.net
 *.fahai.com
-*.fahao8.com
 *.faidev.cc
 *.faidns.com
 *.faimallusr.com
@@ -23981,7 +23978,6 @@
 *.gzenxx.com
 *.gzexpo.com
 *.gzfc.net
-*.gzfilm.com
 *.gzfsnet.com
 *.gzgdwl.com
 *.gzhakj.com
@@ -25439,7 +25435,6 @@
 *.heycan.com
 *.heycode.com
 *.heydayinfo.com
-*.heyguo.com
 *.heyi.com
 *.heyinguanli.com
 *.heymeo.net
@@ -28261,6 +28256,7 @@
 *.ifiretech.com
 *.ifitbox.com
 *.ifjing.com
+*.iflow.work
 *.iflyhealth.com
 *.iflying.com
 *.iflyink.com
@@ -29275,6 +29271,7 @@
 *.isobar.tech
 *.isoftstone.com
 *.isoo.cc
+*.isoqh.com
 *.isorange.com
 *.isotoo.com
 *.isoucai.com
@@ -34077,7 +34074,6 @@
 *.leigod.com
 *.leihuo.net
 *.leikeji.com
-*.leikw.com
 *.leileiluoluo.com
 *.leilong158.com
 *.leimi.com
@@ -35840,7 +35836,6 @@
 *.lwfjmj.com
 *.lwgsw.com
 *.lwguitar.com
-*.lwgzc.com
 *.lwhouse.com
 *.lwinl.com
 *.lwinst.com
@@ -35873,7 +35868,6 @@
 *.lxin007.com
 *.lxjep.com
 *.lxkj.site
-*.lxlggo.com
 *.lxlinux.net
 *.lxs123.com
 *.lxsales.com
@@ -37050,7 +37044,6 @@
 *.mi.com
 *.mi1.cc
 *.mia.com
-*.miaibox.com
 *.mian520.com
 *.mianbao.com
 *.mianbaoimg.com
@@ -38438,6 +38431,7 @@
 *.myroome.com
 *.myrtb.net
 *.myrunners.com
+*.mys028.com
 *.mysemlife.com
 *.myshow800.com
 *.myshown.com
@@ -38538,7 +38532,6 @@
 *.n-bros.net
 *.n0808.com
 *.n12345.com
-*.n127.com
 *.n21.cc
 *.n3293.com
 *.n3762.com
@@ -41330,7 +41323,6 @@
 *.pmsmzyy.com
 *.pmsra.com
 *.pmtalk.club
-*.pmtoo.com
 *.pmtown.com
 *.pmway.com
 *.pmxprecision.com
@@ -42374,7 +42366,6 @@
 *.qiman5.com
 *.qiman6.com
 *.qimao.com
-*.qimaomh.com
 *.qimhua.com
 *.qimi.com
 *.qimiaomh.com
@@ -42872,7 +42863,6 @@
 *.qqqiyeyouxiang.com
 *.qqqnm.com
 *.qqqooo.com
-*.qqqqqqqqqqqqq.com
 *.qqrain.com
 *.qqread.com
 *.qqride.com
@@ -44759,7 +44749,6 @@
 *.scufida.com
 *.scujj.com
 *.scusec.org
-*.scutde.net
 *.scutsee.com
 *.scuvc.com
 *.scw98.com
@@ -49888,7 +49877,6 @@
 *.tjhyzyxy.com
 *.tjinsuo.com
 *.tjj.com
-*.tjjapp.com
 *.tjjt360.com
 *.tjjwt.com
 *.tjkx.com
@@ -50206,7 +50194,6 @@
 *.tophr.net
 *.tophub.fun
 *.tophub.today
-*.topitme.com
 *.topjoy.com
 *.topjoycloud.com
 *.topksw.com
@@ -50518,6 +50505,7 @@
 *.ts95.com
 *.tscf8.com
 *.tsddu.com
+*.tsdm.net
 *.tsdxb.com
 *.tsg-online.net
 *.tsggwl.com
@@ -51049,7 +51037,6 @@
 *.tymcdn.com
 *.tyn.cc
 *.tyouai.com
-*.tyouquan.com
 *.typany.com
 *.type.so
 *.typecho.work
@@ -57519,7 +57506,6 @@
 *.xyfcw.com
 *.xyffsb.com
 *.xyffvip.com
-*.xyfw.org
 *.xygmed.com
 *.xygwh.cc
 *.xyh2021.com
@@ -57663,7 +57649,6 @@
 *.ya247.com
 *.yaahe.com
 *.yabo.com
-*.yabokzl.com
 *.yabolive.com
 *.yac8.com
 *.yac8.net
