@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Sat Feb 24 10:22:03 2024
+; Update @ Sun Feb 25 10:19:30 2024
 
 ; cn域名都不走代理
 *.cn
@@ -1873,6 +1873,7 @@
 *.1d9z.com
 *.1daiyun.com
 *.1dao99.com
+*.1der-ad.com
 *.1diaocha.com
 *.1diary.me
 *.1domedia.com
@@ -9707,7 +9708,6 @@
 *.auromcs.com
 *.ausaview.com
 *.ausbio.com
-*.auscoo.com
 *.ausdn.com
 *.aushinelyn.com
 *.aushy.com
@@ -13914,7 +13914,6 @@
 *.cdworking.com
 *.cdwulian.com
 *.cdxrdz.com
-*.cdxsbdz.com
 *.cdxwcx.com
 *.cdydlx.com
 *.cdyee.com
@@ -19601,7 +19600,6 @@
 *.diaoding.biz
 *.diaojiang.com
 *.diaokeji.net
-*.diaolongke.com
 *.diaosaas.com
 *.diaosi.net
 *.diaosiweb.net
@@ -20490,7 +20488,6 @@
 *.dovesky.com
 *.dovov.com
 *.dowater.com
-*.doweb8.com
 *.dowebok.com
 *.dowei.com
 *.doweidu.com
@@ -23517,7 +23514,6 @@
 *.fhyx.com
 *.fhyx.hk
 *.fi-play.com
-*.fi11tv129.com
 *.fi1818.com
 *.fi94.com
 *.fibercrops.com
@@ -29548,7 +29544,6 @@
 *.hosane.com
 *.hosizoraworks.org
 *.hosory.com
-*.hospmall.com
 *.host1dns.com
 *.host888.net
 *.hostadm.net
@@ -33879,6 +33874,7 @@
 *.jiangshi99.com
 *.jiangsugqt.org
 *.jiangsugwy.org
+*.jiangsumobile.com
 *.jianguo.tv
 *.jianguoyun.com
 *.jiangwang.net
@@ -35790,7 +35786,6 @@
 *.jxgdw.com
 *.jxgtzxc.com
 *.jxgxlc.com
-*.jxhyshiye.com
 *.jxiaolan.com
 *.jxicloud.com
 *.jximage.com
@@ -46394,7 +46389,6 @@
 *.piqs.com
 *.piscesys.com
 *.pisx.com
-*.pix73.com
 *.pixelauth.com
 *.pixepf.sbs
 *.pixhey.com
@@ -49540,7 +49534,6 @@
 *.romjd.com
 *.romleyuan.com
 *.romney-lighting.com
-*.romphone.net
 *.romzhijia.net
 *.romzj.com
 *.roncoo.com
@@ -51699,6 +51692,7 @@
 *.shimano-fishchina.com
 *.shimaowy.com
 *.shimengzhanghao.com
+*.shimiduanju.com
 *.shiminjia.com
 *.shiminjiaju.com
 *.shimo.im
@@ -58785,7 +58779,6 @@
 *.videojj.com
 *.videoyi.com
 *.videoyx.com
-*.videozhishi.com
 *.vidmate.mobi
 *.vienblog.com
 *.viewones.com
