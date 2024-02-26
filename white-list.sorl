@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Sun Feb 25 10:19:30 2024
+; Update @ Mon Feb 26 10:22:23 2024
 
 ; cn域名都不走代理
 *.cn
@@ -3513,7 +3513,6 @@
 *.407wan.com
 *.4080517.com
 *.4080so.com
-*.40fenzhong.com
 *.40manhua.com
 *.40maoaa.com
 *.40mdd.com
@@ -5265,7 +5264,6 @@
 *.610213.net
 *.61029.com
 *.612.com
-*.6120aa.com
 *.612345.com
 *.612459.com
 *.6137.net
@@ -6623,7 +6621,6 @@
 *.91dada.com
 *.91daizhang.com
 *.91danji.com
-*.91data.com
 *.91datong.com
 *.91dba.com
 *.91dbb.com
@@ -6777,7 +6774,6 @@
 *.9211.com
 *.921716.com
 *.9217web.com
-*.921lu.com
 *.92220668.com
 *.92220701.com
 *.922835.com
@@ -9839,6 +9835,7 @@
 *.awsdns-cn-07.biz
 *.awsdns-cn-10.com
 *.awsdns-cn-11.biz
+*.awsdns-cn-11.com
 *.awsdns-cn-12.biz
 *.awsdns-cn-14.biz
 *.awsdns-cn-14.com
@@ -11433,6 +11430,7 @@
 *.bingdian001.com
 *.bingdian01.com
 *.bingdoc.com
+*.bingdou.site
 *.bingfan.com
 *.bingganqy.com
 *.bingguner.com
@@ -13154,6 +13152,7 @@
 *.calterah.com
 *.calveyee.store
 *.calvinneo.com
+*.camartsphotography.com
 *.cambm.com
 *.cambodiafang.com
 *.cambricon.com
@@ -13845,10 +13844,12 @@
 *.cdnhwcoph123.com
 *.cdnhwcprh113.com
 *.cdnhwcpsd13.com
+*.cdnhwcqwg14.com
 *.cdnhwctnm107.com
 *.cdnhwcupf06.com
 *.cdnhwcvix16.com
 *.cdnhwcxcy07.com
+*.cdnhwczmn114.com
 *.cdnhwczth23.com
 *.cdnhwczxh101.com
 *.cdnidc.net
@@ -15592,7 +15593,6 @@
 *.chouti.com
 *.choyri.com
 *.chplayer.com
-*.chqgwy.org
 *.chr.fan
 *.chrent.com
 *.chrice.net
@@ -15732,6 +15732,7 @@
 *.chunhingplasticbags.com
 *.chunhui12.com
 *.chunjingtech.com
+*.chunliangpai.com
 *.chunmen.com
 *.chunmi.com
 *.chunmiaosh.com
@@ -18105,8 +18106,8 @@
 *.cxhl365.net
 *.cxhr.com
 *.cximg.com
-*.cxjd2012.com
 *.cxkjjy.com
+*.cxlyzj.com
 *.cxmld.com
 *.cxmt.com
 *.cxmtc.net
@@ -18986,6 +18987,7 @@
 *.ddbiu.com
 *.ddcdn.com
 *.ddcheshi.com
+*.ddcits.com
 *.ddcsjw.com
 *.ddd-china.com
 *.dddazhe.com
@@ -23082,7 +23084,6 @@
 *.fateskins.com
 *.fatiao.pro
 *.fatjio.xyz
-*.fatjiong.com
 *.fatvg.com
 *.faussefrance.com
 *.faussemontrerolex.com
@@ -23470,6 +23471,7 @@
 *.ffns.ru
 *.ffpedia.com
 *.ffpk-cdn.xyz
+*.ffpw1688.com
 *.ffquan.com
 *.ffsgame.com
 *.ffsky.com
@@ -27176,6 +27178,7 @@
 *.haier.net
 *.haiercash.com
 *.haiershequ.com
+*.haiersmarthomes.com
 *.haierubic.com
 *.haieruplus.com
 *.haifangbao.com
@@ -38067,6 +38070,7 @@
 *.lbys.cc
 *.lbzuo.com
 *.lc-cn-e1-shared.com
+*.lc-cn-n1-ayaqc.com
 *.lc-cn-n1-npxfk.com
 *.lc-cn-n1-shared.com
 *.lc-cn-n1-thovg.com
@@ -41862,6 +41866,7 @@
 *.mikechen.cc
 *.mikecrm.com
 *.mikesent-awareness-02.com
+*.mikesent-awareness-04.com
 *.mikesent.net
 *.mikeyouxi.com
 *.mikger.com
@@ -42042,6 +42047,7 @@
 *.minxing365.com
 *.minxue.net
 *.minyunit.cool
+*.minz.press
 *.minzu56.net
 *.miospay.com
 *.miot-spec.org
@@ -43219,7 +43225,6 @@
 *.myqiantu.com
 *.myqqjd.com
 *.myra2.com
-*.myravendb.com
 *.myrb.net
 *.myreadme.com
 *.myrice.com
@@ -47641,7 +47646,6 @@
 *.qidic.com
 *.qidimjg.com
 *.qidisheng.com
-*.qidisheng.net
 *.qidiwang.com
 *.qidong.name
 *.qidongyx.com
@@ -48410,7 +48414,6 @@
 *.qtvcd.com
 *.qtx.com
 *.qtyd.com
-*.qu.la
 *.qu02.com
 *.qu247.com
 *.qua.com
@@ -58780,6 +58783,7 @@
 *.videoyi.com
 *.videoyx.com
 *.vidmate.mobi
+*.vidmatefilm.org
 *.vienblog.com
 *.viewones.com
 *.viewstock.com
@@ -60225,6 +60229,7 @@
 *.weixinquanzi.com
 *.weixinrensheng.com
 *.weixinsxy.com
+*.weixinyanxuan.com
 *.weixinyidu.com
 *.weixinyunduan.com
 *.weixistyle.com
@@ -62645,7 +62650,6 @@
 *.xgcsyg.com
 *.xgd.com
 *.xgd666.com
-*.xgdfhw.com
 *.xgdfz.com
 *.xgdown.com
 *.xgdq.com
@@ -63737,6 +63741,7 @@
 *.xiqianyangyi.com
 *.xiqihe.com
 *.xiqinrc.com
+*.xiquebo.com
 *.xiqueqingjian.com
 *.xirang.com
 *.xirenxuan.com
@@ -65748,6 +65753,7 @@
 *.yicheshi.com
 *.yichezhi.com
 *.yichuyifan.com
+*.yickd.com
 *.yiclear.com
 *.yicongfound.org
 *.yicuba.com
@@ -66715,6 +66721,7 @@
 *.yooojie.monster
 *.yoooooooooo.com
 *.yoopu.me
+*.yooquma.com
 *.yootou.com
 *.yooxun.com
 *.yoozhe.com
@@ -68198,6 +68205,7 @@
 *.yzfbgjj.com
 *.yzfc8.com
 *.yzfcdn.com
+*.yzfchat.com
 *.yzfjy.com
 *.yzgjgs.com
 *.yzgnet.com
