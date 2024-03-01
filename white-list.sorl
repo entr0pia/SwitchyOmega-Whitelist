@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Thu Feb 29 10:23:37 2024
+; Update @ Fri Mar  1 10:21:23 2024
 
 ; cn域名都不走代理
 *.cn
@@ -1021,7 +1021,6 @@
 *.118cy.com
 *.118jm.com
 *.118pan.com
-*.118qikan.com
 *.118study.com
 *.118wa.com
 *.1190119.com
@@ -6651,7 +6650,6 @@
 *.91ctc.com
 *.91cy.cc
 *.91czxs.com
-*.91dada.com
 *.91daizhang.com
 *.91danji.com
 *.91datong.com
@@ -10218,7 +10216,6 @@
 *.baifendian.com
 *.baifubao.com
 *.baifum.com
-*.baifumeiba.com
 *.baigebao.com
 *.baigepo.com
 *.baigeseo.com
@@ -10904,7 +10901,6 @@
 *.bearychat.com
 *.beasure.com
 *.beats-digital.com
-*.beatu.net
 *.beautifulism.com
 *.beautifullinux.com
 *.beautifulzzzz.com
@@ -13688,7 +13684,6 @@
 *.ccsnpower.com
 *.ccssmm.com
 *.cct-solar.com
-*.cct08.com
 *.cct365.net
 *.cctalk.com
 *.cctalk.net
@@ -19901,7 +19896,6 @@
 *.dipont.com
 *.diqi.net
 *.diqi.sh
-*.diqishu.com
 *.diqiujiayuan.com
 *.diqiuw.com
 *.diqua.com
@@ -21296,7 +21290,6 @@
 *.dzwtjsj.com
 *.dzwww.com
 *.dzwww.net
-*.dzxljs.com
 *.dzxw.net
 *.dzxwnews.com
 *.dzxxzy.com
@@ -30729,7 +30722,6 @@
 *.hunuo.com
 *.hunyinyiyuan.com
 *.huo-cun.com
-*.huo119.com
 *.huoban.com
 *.huobanhuyu.com
 *.huobanjs.com
@@ -33310,7 +33302,6 @@
 *.ivocaloid.com
 *.ivrwan.com
 *.ivsky.com
-*.ivtsoft.com
 *.ivu4e.com
 *.ivvajob.com
 *.ivwen.com
@@ -34799,7 +34790,6 @@
 *.jiudianjiu.com
 *.jiudianyongpin.com
 *.jiudingcapital.com
-*.jiufawang.com
 *.jiugang.com
 *.jiugangbid.com
 *.jiuhewj.com
@@ -40307,7 +40297,6 @@
 *.luluju.com
 *.lum114.com
 *.lumai.net
-*.lumajia.com
 *.lumanman1688.com
 *.lumen-chip.com
 *.lumiai.com
@@ -43826,7 +43815,6 @@
 *.nbmedicalsystem.com
 *.nbmpzs.com
 *.nbmyy.com
-*.nboxnas.com
 *.nbpolytheatre.com
 *.nbqixing.com
 *.nbren.net
@@ -50840,7 +50828,6 @@
 *.sdfcxw.com
 *.sdfhyl.com
 *.sdfll.com
-*.sdfmgg.com
 *.sdfon.com
 *.sdg-china.com
 *.sdgaoxing.com
@@ -62383,7 +62370,6 @@
 *.www.volvocars.com
 *.www1.djicdn.com
 *.www2.djicdn.com
-*.www21420.com
 *.www3.djicdn.com
 *.www4.djicdn.com
 *.www48-365365.com
@@ -62751,7 +62737,6 @@
 *.xbase.cloud
 *.xbatu.com
 *.xbauto.com
-*.xbbei.net
 *.xbceo.com
 *.xbds.cc
 *.xbdym.com
@@ -64930,7 +64915,6 @@
 *.xuejingguan.com
 *.xuejiqiao.com
 *.xuekeedu.com
-*.xuekuaiji.com
 *.xuekubao.com
 *.xuekuibang.shop
 *.xuelecn.com
@@ -65679,7 +65663,6 @@
 *.yatiwang.com
 *.yatsenglobal.com
 *.yatsoft.com
-*.yaucxrt.com
 *.yauuy.com
 *.yawancaiwu.com
 *.yawbbs.com
