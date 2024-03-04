@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Sun Mar  3 10:23:11 2024
+; Update @ Mon Mar  4 11:32:10 2024
 
 ; cn域名都不走代理
 *.cn
@@ -1766,6 +1766,7 @@
 *.188lanxi.com
 *.188mb.com
 *.188naicha.com
+*.188pi.com
 *.188soft.com
 *.188wan.com
 *.188yd.com
@@ -3470,7 +3471,6 @@
 *.4001961200.com
 *.400301.com
 *.40046aa.com
-*.400516.com
 *.4006026717.com
 *.4006055885.com
 *.4006216888.com
@@ -3859,7 +3859,6 @@
 *.517na.com
 *.517rcw.com
 *.517tez.com
-*.517w.com
 *.517xc.com
 *.5184.com
 *.51845.com
@@ -5961,7 +5960,6 @@
 *.7cxk.com
 *.7dah8.com
 *.7didc.com
-*.7do.net
 *.7down.net
 *.7dtest.com
 *.7dugo.com
@@ -6259,7 +6257,6 @@
 *.860527.com
 *.860598.com
 *.860816.com
-*.861522.com
 *.861718.com
 *.86175.com
 *.861817.com
@@ -6777,7 +6774,6 @@
 *.91xfw.com
 *.91xhg.com
 *.91xiake.com
-*.91xiazai.com
 *.91xinshang.com
 *.91xsj.com
 *.91xueshu.com
@@ -7692,7 +7688,6 @@
 *.adbkwai.com
 *.adbxb.com
 *.adc-expo.com
-*.adccd.com
 *.adcdn.com
 *.adcomeon.com
 *.adconfer.com
@@ -8879,6 +8874,7 @@
 *.amzndns-cn.biz
 *.amzndns-cn.com
 *.amzndns-cn.net
+*.an1health.com
 *.analysysdata.com
 *.analytics-china.com
 *.analyticskey.com
@@ -10704,6 +10700,7 @@
 *.bazhuay.com
 *.bazhuayu.cc
 *.bazhuayu.com
+*.bazhuayukeji.com
 *.bazi.cloud
 *.bazi.xin
 *.bazi5.com
@@ -10941,7 +10938,6 @@
 *.behrenswatches.shop
 *.bei1688.com
 *.beianidc.com
-*.beianw.net
 *.beibaozq.com
 *.beibei.com
 *.beibeicdn.com
@@ -11305,7 +11301,6 @@
 *.bianzhile.com
 *.bianzhirensheng.com
 *.biao12.com
-*.biao6688.com
 *.biao689.com
 *.biaoceo.com
 *.biaodan.info
@@ -14565,7 +14560,6 @@
 *.cheerupmail.com
 *.cheetahfun.com
 *.chefafa.com
-*.chefans.com
 *.chefugao.com
 *.chegud.com
 *.cheguo.com
@@ -15185,7 +15179,6 @@
 *.chinaidaa.org
 *.chinaidcnet.com
 *.chinaidcnet.net
-*.chinaidns.com
 *.chinaido.com
 *.chinaidr.com
 *.chinaielts.org
@@ -16375,7 +16368,6 @@
 *.cmidc.net
 *.cming.com
 *.cmjz.net
-*.cmljs.org
 *.cmlong.com
 *.cmmim.com
 *.cmnxt.com
@@ -17622,7 +17614,6 @@
 *.cqnews.net
 *.cqnhn.com
 *.cqnkhz4j8nmhqp.com
-*.cqpa.org
 *.cqpbx.com
 *.cqph.com
 *.cqpinjian.com
@@ -18129,6 +18120,7 @@
 *.cuour.org
 *.cupdapp.com
 *.cupdata.com
+*.cupddns.com
 *.cupddns.net
 *.cupdns.com
 *.cupfox.com
@@ -18142,7 +18134,6 @@
 *.custeel.com
 *.customsapp.com
 *.cut35.com
-*.cutecomm.com
 *.cutefishos.com
 *.cuteng.com
 *.cutercounter.com
@@ -18663,7 +18654,6 @@
 *.daliansky.net
 *.dalianxianting.com
 *.daliapp.net
-*.daling.com
 *.dalipan.com
 *.dalongkeji.com
 *.dalongyun.com
@@ -23827,6 +23817,7 @@
 *.fjnet.com
 *.fjotic.com
 *.fjpta.com
+*.fjptzyt.com
 *.fjreading.com
 *.fjsdn.com
 *.fjsen.com
@@ -23983,6 +23974,7 @@
 *.fn-tech.com
 *.fn.com
 *.fn01.vip
+*.fn02.vip
 *.fn03.vip
 *.fnconn.com
 *.fnetlink.com
@@ -29403,6 +29395,7 @@
 *.hnpfw.com
 *.hnpic.com
 *.hnpolice.com
+*.hnpwholesale.com.au
 *.hnqbb.com
 *.hnqfseed.com
 *.hnqingnuo.com
@@ -30051,6 +30044,7 @@
 *.ht73mm.xyz
 *.ht88.com
 *.ht9.com
+*.ht97hh.xyz
 *.htanwang.com
 *.htaocloud.com
 *.htbaba.com
@@ -30931,6 +30925,7 @@
 *.hwehs.com
 *.hweimall.com
 *.hwfcw.com
+*.hwhidc.com
 *.hwht.com
 *.hwjnf12.com
 *.hwjyw.com
@@ -32623,6 +32618,7 @@
 *.inrugao.com
 *.insarticle.com
 *.inshiqi.com
+*.inshotapp.com
 *.insidelinuxdev.net
 *.insightblog.ca
 *.insnail.com
@@ -34113,6 +34109,7 @@
 *.jiankanghebei.com
 *.jiankangju.com
 *.jiankangsn.com
+*.jiankangyouyi.com
 *.jianke.cc
 *.jianke.com
 *.jianke.net
@@ -37905,7 +37902,6 @@
 *.laihema.com
 *.laihua.com
 *.laijiawen.com
-*.laijiuye.com
 *.laikan.com
 *.laikanxing.com
 *.laikanxs.com
@@ -44245,7 +44241,6 @@
 *.niceisp.com
 *.nicekid.com
 *.nicelabel.cc
-*.nicelinks.site
 *.niceloo.com
 *.nicemme.com
 *.nicesnow.com
@@ -44885,7 +44880,6 @@
 *.nwdlink.com
 *.nweon.com
 *.nwnthevast.net
-*.nwtongcheng.com
 *.nx.cm
 *.nx5.com
 *.nxadmin.com
@@ -46380,7 +46374,6 @@
 *.phonecoolgame.com
 *.phonegap.me
 *.phonegap100.com
-*.phonekr.com
 *.phonelinksoft.com
 *.phonertech.com
 *.phopic.com
@@ -49216,7 +49209,6 @@
 *.ramboplay.com
 *.ramostear.com
 *.rancat.im
-*.random-online.com
 *.ranfenghd.com
 *.rangercd.com
 *.rangnihaokan.com
@@ -49580,6 +49572,7 @@
 *.return.net
 *.returnc.com
 *.reverselove.com
+*.revy.asia
 *.rew65.com
 *.rewnat.xyz
 *.reworlder.com
@@ -55888,7 +55881,6 @@
 *.tdgod.com
 *.tdict.com
 *.tdimg.com
-*.tdldz.com
 *.tdlegg.com
 *.tdmall.cc
 *.tdmoli2.com
@@ -56980,6 +56972,7 @@
 *.tongliangrc.com
 *.tongliaowang.com
 *.tonglu-tour.com
+*.tongmengge.com
 *.tongniguoji.com
 *.tongren.jp
 *.tongshanbank.com
@@ -61240,6 +61233,7 @@
 *.whzph.com
 *.whzsrc.com
 *.whzu.net
+*.whzww.com
 *.whzwzk.com
 *.whzwzs.com
 *.whzxht.com
@@ -62579,6 +62573,7 @@
 *.wzime.com
 *.wzits.com
 *.wzj9.com
+*.wzjbbus.com
 *.wzjxyq.com
 *.wzkex.com
 *.wzksw.com
@@ -64265,6 +64260,8 @@
 *.xiyouchat.com
 *.xiyouence.com
 *.xiyouji.com
+*.xiyoulink.net
+*.xiyoumao.com
 *.xiyouquan.com
 *.xiyousdk.com
 *.xiyouwebgame.com
@@ -65753,6 +65750,7 @@
 *.ycbright.com
 *.yccar.com
 *.yccdn.com
+*.yccr.net
 *.ycdongxu.com
 *.ycduile.com
 *.ycdz.shop
@@ -70511,7 +70509,6 @@
 *.zizhuauto.com
 *.zizhupark.com
 *.zizhuyuangongyuan.com
-*.zizisi.com
 *.zizizizizi.com
 *.zizzs.com
 *.zj-art.com
