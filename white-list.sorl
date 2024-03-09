@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Fri Mar  8 10:23:59 2024
+; Update @ Sat Mar  9 10:22:20 2024
 
 ; cn域名都不走代理
 *.cn
@@ -4126,6 +4126,7 @@
 *.51kupai.com
 *.51kupin.com
 *.51kywang.com
+*.51la.ink
 *.51la.net
 *.51labour.com
 *.51laizhe.com
@@ -8060,7 +8061,6 @@
 *.ahxwkj.com
 *.ahydnet.com
 *.ahyessoft.com
-*.ahyouan.com
 *.ahyouth.com
 *.ahysxh.com
 *.ahyx.cc
@@ -12869,7 +12869,6 @@
 *.bxgtd.com
 *.bxgycfsb.com
 *.bxhaibao.com
-*.bxiangui.com
 *.bxjob.net
 *.bxkejian.com
 *.bxkxw.com
@@ -24255,7 +24254,6 @@
 *.founderstruth.org
 *.foundertech.com
 *.foundertype.com
-*.foundpdf.com
 *.founpad.com
 *.fountask.com
 *.four-faith.com
@@ -34167,7 +34165,6 @@
 *.jiaji28.net
 *.jiajia-china.com
 *.jiajia.tv
-*.jiajia0752.com
 *.jiajiakt.com
 *.jiajianhudong.com
 *.jiajiao114.com
@@ -35532,7 +35529,6 @@
 *.jpthome.com
 *.jpush.io
 *.jpushoa.com
-*.jpuyy.com
 *.jpwb.cc
 *.jpwb.net
 *.jpwind.com
@@ -43173,7 +43169,6 @@
 *.mpos.ren
 *.mpweixin.net
 *.mpxiaomi.net
-*.mpxiaoshuo.com
 *.mpxx.net
 *.mqant.com
 *.mqc168.com
@@ -43322,7 +43317,6 @@
 *.mtsm12.com
 *.mttsq.com
 *.mtty.com
-*.mtuacg.com
 *.mtuo.com
 *.mtv123.com
 *.mtw.so
@@ -48318,7 +48312,6 @@
 *.qingliange.com
 *.qingliangkeji.com
 *.qinglin.net
-*.qinglinong.com
 *.qinglm.com
 *.qinglue.net
 *.qingly.ink
@@ -58153,7 +58146,6 @@
 *.tvnwang.com
 *.tvoao.com
 *.tvos.com
-*.tvsou.com
 *.tvt.im
 *.tvtsg.com
 *.tvxio.com
@@ -58508,7 +58500,6 @@
 *.udamall.com
 *.udangjia.com
 *.udashi.com
-*.udaxia.com
 *.udbac.com
 *.uddtrip.com
 *.udecig.com
@@ -62220,7 +62211,6 @@
 *.wping.org
 *.wpjam.com
 *.wpk8.com
-*.wplizhi.com
 *.wpmtp.com
 *.wporder.com
 *.wproedu.com
@@ -62354,7 +62344,6 @@
 *.wsy.com
 *.wsy7.com
 *.wsyhn.com
-*.wsyyxz.com
 *.wszjj.com
 *.wszkf.com
 *.wszkjs.com
