@@ -9,9 +9,9 @@ on:
     
 jobs:
   bot:
-    runs-on: debian-latest
+    runs-on: ubuntu-latest
     steps:
-      - name: 'Checkout Debian'
+      - name: 'Checkout Ubuntu'
         uses: actions/checkout@v1
       - name: 'Set up Python'
         uses: actions/setup-python@v1
