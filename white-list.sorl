@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Wed Apr 17 15:51:29 2024
+; Update @ Fri Apr 19 10:24:49 2024
 
 ; cn域名都不走代理
 *.cn
@@ -533,7 +533,6 @@
 *.0731cfw.com
 *.0731fdc.com
 *.0731i.com
-*.0731jiaju.com
 *.0731job.com
 *.0731pgy.com
 *.0731tg.com
@@ -1715,7 +1714,6 @@
 *.17xxl.com
 *.17ya.com
 *.17yaoqu.com
-*.17yc.com
 *.17ym.org
 *.17you.com
 *.17yucai.com
@@ -11340,7 +11338,6 @@
 *.bgxu.com
 *.bgyfhyx.com
 *.bgypsc.com
-*.bh-hocom.com.tw
 *.bh.sb
 *.bh1t.com
 *.bh3.com
@@ -13528,6 +13525,7 @@
 *.casdoor.org
 *.case91.com
 *.casece.org
+*.casemic.com
 *.cashtoutiao.com
 *.cashwaytech.com
 *.casic-addsino.com
@@ -20668,7 +20666,6 @@
 *.dongua.com
 *.dongwm.com
 *.dongxi.net
-*.dongxicha.com
 *.dongxingkonggu.com
 *.dongxuyitai.com
 *.dongyaods.com
@@ -31518,6 +31515,7 @@
 *.hzcnc.com
 *.hzcopyright.com
 *.hzcourse.com
+*.hzctxh.com
 *.hzdajiangdong.com
 *.hzdjr.com
 *.hzdjy.com
@@ -32672,7 +32670,6 @@
 *.imagelol.com
 *.imagepy.org
 *.images-cache.com
-*.images-huoshan.com
 *.images.samsung.com
 *.imagestoryai.com
 *.imageter.com
@@ -40499,7 +40496,6 @@
 *.loubobooo.com
 *.louding.com
 *.louge.ltd
-*.louguazi.com
 *.louislivi.com
 *.loukee.com
 *.loukky.com
@@ -42519,7 +42515,6 @@
 *.mibokids.com
 *.mibugs.com
 *.mic-s.com
-*.micad.org
 *.micai.com
 *.micai315.com
 *.micaihu.net
@@ -42877,6 +42872,7 @@
 *.miteno.com
 *.mitiplus.com
 *.mittrchina.com
+*.mitvos.com
 *.miued.com
 *.miui.com
 *.miuiver.com
@@ -43270,7 +43266,6 @@
 *.molerose.com
 *.molesdn.com
 *.molibaike.com
-*.molibiancheng.com
 *.molie.com
 *.molihe.cc
 *.molihua.net
@@ -45491,7 +45486,6 @@
 *.nyxr-home.com
 *.nyxx365.com
 *.nyxz166.com
-*.nyyuze.com
 *.nyzdjj.com
 *.nyzy.com
 *.nz86.com
@@ -48384,6 +48378,7 @@
 *.qianju.org
 *.qianka.com
 *.qiankunxin.com
+*.qianlht.com
 *.qianliao.net
 *.qianliao.tv
 *.qianliaowang.com
@@ -54997,7 +54992,6 @@
 *.stuq.com
 *.stutimes.com
 *.stvgame.com
-*.stw77.com
 *.stweiwang.com
 *.stxsw.com
 *.stxsw.org
@@ -56082,6 +56076,7 @@
 *.szzhaodaxin.com
 *.szzs360.com
 *.szzunbao.com
+*.szzuting.com
 *.szzxks.net
 *.szzyqc.net
 *.szzyqy.com
@@ -59280,6 +59275,7 @@
 *.univ-bio.com
 *.uniview.com
 *.univsport.com
+*.uniwaf.com
 *.unixhot.com
 *.unixidc.com
 *.unixs.org
@@ -61270,7 +61266,6 @@
 *.weilt.net
 *.weimai.com
 *.weimaqi.net
-*.weimeiba.com
 *.weimeifan.net
 *.weimeigu.net
 *.weimiaocaishang.com
@@ -61408,7 +61403,6 @@
 *.weiyes.com
 *.weiyi.com
 *.weiyi.link
-*.weiyianws.com
 *.weiyichina.org
 *.weiyiqibj.com
 *.weiyitec.com
@@ -65422,7 +65416,6 @@
 *.xn--jvrp4x1zyfta.net
 *.xn--jvrr72kgma408a.com
 *.xn--mnqs00c24c2pw0ii.com
-*.xn--nqvxwikn87h.com
 *.xn--ntsp37j.net
 *.xn--nyqx2gbsm8u0b.com
 *.xn--pbt1sj69ag8b.com
@@ -68208,7 +68201,6 @@
 *.youshop04.com
 *.youshop10.com
 *.youshu.cc
-*.youshuba.cc
 *.youshuge.com
 *.yousuu.com
 *.youtaidoors.com
@@ -72586,7 +72578,6 @@
 *.zzliot.com
 *.zzlirui.com
 *.zzllq.com
-*.zzloop.com
 *.zzmama.net
 *.zzmetro.com
 *.zzmscg.com
