@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Thu Oct  3 10:29:38 2024
+; Update @ Sat Oct  5 10:26:57 2024
 
 ; cn域名都不走代理
 *.cn
@@ -3604,7 +3604,6 @@
 *.3dwwwgame.com
 *.3dxt.com
 *.3dxuan.com
-*.3dxy.com
 *.3dxy.net
 *.3dzyw.com
 *.3e.net
@@ -3810,7 +3809,6 @@
 *.40407.com
 *.404600.com
 *.404886.com
-*.404forest.com
 *.404mzk.com
 *.404wan.com
 *.404youxi.com
@@ -6382,7 +6380,6 @@
 *.76963.com
 *.769car.com
 *.76ab.com
-*.76al.com
 *.76baobao.com
 *.76bb.com
 *.76dongdong.com
@@ -10481,6 +10478,7 @@
 *.aqniu.com
 *.aqqcx.com
 *.aqrsblg.com
+*.aqsc.org
 *.aqsiqauto.com
 *.aqtd.com
 *.aquacity-tj.com
@@ -11458,7 +11456,6 @@
 *.baijiayun.com
 *.baijiayuncdn.com
 *.baijiegroup.com
-*.baijiekj.com
 *.baijiexiu.com
 *.baijincdn.com
 *.baijindai.com
@@ -15524,7 +15521,6 @@
 *.cccmat.com
 *.cccmtf.com
 *.cccnec.com
-*.cccollector.com
 *.cccovvv.com
 *.cccp.online
 *.cccpan.com
@@ -35868,7 +35864,6 @@
 *.heyingcn.com
 *.heyinguanli.com
 *.heyinshiliu.com
-*.heyiwangluokeji.com
 *.heymeo.net
 *.heymeowfm.com
 *.heymore.com
@@ -39757,7 +39752,6 @@
 *.ieasy123.com
 *.ieasytech.com
 *.ieayoio.com
-*.iebuycar.com
 *.iecdn.com
 *.iecidc.com
 *.iecity.com
@@ -42247,7 +42241,6 @@
 *.jiafang168.com
 *.jiafenqi.com
 *.jiagedan.com
-*.jiageip.vip
 *.jiagle.com
 *.jiagouyun.com
 *.jiaguhome.com
@@ -42366,7 +42359,6 @@
 *.jiangqiaomuye.com
 *.jiangqimeixue.com
 *.jiangque.com
-*.jiangqx.com
 *.jiangruyi.com
 *.jiangshancpa.com
 *.jiangshanlihong.com
@@ -45024,7 +45016,6 @@
 *.jzsxinyudianqi.com
 *.jzsyishu.com
 *.jzszdq.com
-*.jztdc.com
 *.jztey.com
 *.jztmgy.com
 *.jztsjx.com
@@ -49824,7 +49815,6 @@
 *.lsxz.org
 *.lsyart.com
 *.lsyhh.com
-*.lsywtc.com
 *.lszj.com
 *.lszjyj.com
 *.lsznkyy.com
@@ -54887,10 +54877,8 @@
 *.nitaitag.com
 *.nittoseiki-cn.com
 *.nitutu.com
-*.niu-ba.com
 *.niu.com
 *.niua.com
-*.niuaa1688.com
 *.niuacc.com
 *.niuaniua.com
 *.niuap.com
@@ -55022,6 +55010,7 @@
 *.njodu.com
 *.njqxrc.com
 *.njrx.cc
+*.njsech.net
 *.njsenwo.com
 *.njsjz.com
 *.njsujing.com
@@ -55498,7 +55487,6 @@
 *.nnysart.com
 *.nnytty.com
 *.nnyunying.com
-*.nnyxqy.net
 *.nnyy17.com
 *.nnyypc.com
 *.nnyyq.com
@@ -56691,7 +56679,6 @@
 *.orihard.com
 *.oritive.com
 *.orleto.com
-*.ornglad.com
 *.orologiomgitaly.com
 *.oromaster.com
 *.orsoon.com
@@ -59283,6 +59270,7 @@
 *.qiancha.cc
 *.qianchengriben.com
 *.qianchiyun.com
+*.qianchuan.ltd
 *.qiancipai.com
 *.qiandao.com
 *.qiandaoapp.com
@@ -61787,7 +61775,6 @@
 *.risesoft.net
 *.riseyears.com
 *.risfond.com
-*.rishao.com
 *.rishiqing.com
 *.rishuncn.com
 *.rising-eo.com
@@ -63923,6 +63910,7 @@
 *.shangame.com
 *.shanganzixun.com
 *.shangate.com
+*.shangbanzugroup.com
 *.shangbaolai.com
 *.shangbaowood.com
 *.shangbiao.com
@@ -65904,7 +65892,6 @@
 *.sjzbyzjb.com
 *.sjzcfjd.com
 *.sjzcmw.com
-*.sjzcsw.com
 *.sjzdongya.com
 *.sjzdt56.com
 *.sjzfeitai.com
@@ -66823,7 +66810,6 @@
 *.spischolar.com
 *.spjxcn.com
 *.splaybow.com
-*.splayer.org
 *.splayer.work
 *.spldlkj.com
 *.splmcn.com
@@ -73423,6 +73409,7 @@
 *.vpimg3.com
 *.vpimg4.com
 *.vplayer.net
+*.vpmagic.com
 *.vpn39.com
 *.vpnsoft.net
 *.vpquc9rn.com
@@ -73850,7 +73837,6 @@
 *.wang0214.com
 *.wang1314.com
 *.wang1314.net
-*.wanga.me
 *.wangaiche.com
 *.wangamela.com
 *.wangan.com
@@ -74927,7 +74913,6 @@
 *.wenlvnews.com
 *.wenlvpai.com
 *.wenmeng.com
-*.wenmi.com
 *.wenneart.com
 *.wenpie.com
 *.wenrouge.com
@@ -74956,7 +74941,6 @@
 *.wenwenren.com
 *.wenwo.com
 *.wenwu8.com
-*.wenxi777.com
 *.wenxiang.org
 *.wenxiaoyou.com
 *.wenxiaozhan.com
@@ -80653,7 +80637,6 @@
 *.y5663.com
 *.y5kfpt.com
 *.y77.cc
-*.y7q8.com
 *.y80s.com
 *.y8comgames.com
 *.y8cyx6fvyxk3hs.com
@@ -80771,7 +80754,6 @@
 *.yangkeduo.com
 *.yangki.net
 *.yangkun.net
-*.yanglajiao.com
 *.yanglaocn.com
 *.yanglaofuwu365.com
 *.yanglaotiandi.com
@@ -86318,7 +86300,6 @@
 *.zhongshengxinyun.com
 *.zhongshucan.com
 *.zhongshuopg.com
-*.zhongshutang.net
 *.zhongso.com
 *.zhongsou.com
 *.zhongsou.net
