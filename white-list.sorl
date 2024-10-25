@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Wed Oct 23 10:29:16 2024
+; Update @ Fri Oct 25 10:29:36 2024
 
 ; cn域名都不走代理
 *.cn
@@ -2472,6 +2472,7 @@
 *.2345download.com
 *.2345ff.com
 *.2345ii.com
+*.2345li.com
 *.2345mbrowser.com
 *.2345soso.com
 *.234du.com
@@ -5345,6 +5346,7 @@
 *.588art.com
 *.588ku.com
 *.589398.com
+*.589465113.com
 *.5898yun.com
 *.58abb.com
 *.58auv.com
@@ -8567,7 +8569,6 @@
 *.adssap.com
 *.adsspr.com
 *.adstarcharm.com
-*.adsunflower.com
 *.adt100.com
 *.adtaipo.com
 *.adtchrome.com
@@ -8993,7 +8994,6 @@
 *.aifangke.com
 *.aifanyi.net
 *.aifcdn.com
-*.aifei8.net
 *.aifengjie.com
 *.aifenlei.com
 *.aifont.com
@@ -11821,6 +11821,7 @@
 *.baocdn.com
 *.baochaojianghu.com
 *.baochenykk.com
+*.baochunyiran.com
 *.baodan100.com
 *.baodan360.com
 *.baodaohealth.com
@@ -12222,6 +12223,7 @@
 *.bdqn666.com
 *.bdqnwh.com
 *.bds-cn.com
+*.bds666.com
 *.bdsana.com
 *.bdsd.design
 *.bdsgx.com
@@ -12940,6 +12942,7 @@
 *.bigma.cc
 *.bigniu.com
 *.bignox.com
+*.bigolive.tv
 *.bigops.com
 *.bigplayers.com
 *.bigpt8.com
@@ -14537,7 +14540,6 @@
 *.bugucn.com
 *.bugukj.com
 *.bugutime.com
-*.bugxia.com
 *.buhuangziben.com
 *.buhuixiao.com
 *.buhuyo.com
@@ -18669,6 +18671,7 @@
 *.clouddream.net
 *.cloudencent.com
 *.cloudflare-cn.com
+*.cloudflare.fun
 *.cloudflarecn.net
 *.cloudgap.net
 *.cloudgfw.com
@@ -25627,6 +25630,7 @@
 *.emoji6.com
 *.emojimobile.com
 *.emots.cc
+*.emqx.cloud
 *.emqx.com
 *.emqx.net
 *.ems-audio.com
@@ -37665,7 +37669,6 @@
 *.hshw.com
 *.hshy.net
 *.hsigus.com
-*.hsiuyang.net
 *.hsjk.com
 *.hsjkaoyan.com
 *.hsjlrhy.com
@@ -43059,6 +43062,7 @@
 *.jingcaipaint.com
 *.jingchang.tv
 *.jingchengwl.com
+*.jingchi.net
 *.jingchuhao.com
 *.jingchurc.com
 *.jingdajiance.com
@@ -48564,7 +48568,6 @@
 *.liaoyuanchats.com
 *.liaoyuanedu.org
 *.liaozhai.tv
-*.lib4d.com
 *.lib520.com
 *.liba.com
 *.liba88.com
@@ -52165,6 +52168,7 @@
 *.metstr.com
 *.metword.co
 *.meuicat.com
+*.meutu.com
 *.mew.fun
 *.mewednesday.shop
 *.mewx.art
@@ -55083,6 +55087,7 @@
 *.nikanpian.com
 *.nike-inc.com.tw
 *.nikebiji.com
+*.nikke-global.com
 *.nikkisoft.com
 *.nikkiup2u2.com
 *.nilai.com
@@ -56362,6 +56367,7 @@
 *.oceanplayable.com
 *.ocent.net
 *.ocetest.com
+*.ocic-static.com
 *.ocici.com
 *.ocideal.com
 *.ocimg.com
@@ -56679,6 +56685,7 @@
 *.onein.com
 *.oneinf.com
 *.oneinstack.com
+*.oneitfarm.com
 *.oneiwff.com
 *.onekey.cc
 *.onekeyghost.com
@@ -70639,6 +70646,7 @@
 *.tkgame.com
 *.tkhealthcare.com
 *.tkoubei.com
+*.tkpension.com
 *.tkplusemi.com
 *.tkrlab.com
 *.tkw.cc
@@ -70831,6 +70839,7 @@
 *.tomonline-inc.com
 *.tomotoes.com
 *.tompda.com
+*.tomson-riviera.com
 *.tomujiang.com
 *.tomwx.net
 *.tonbao.com
@@ -71506,6 +71515,7 @@
 *.tt787.com
 *.tt96596.com
 *.ttaidu.com
+*.ttalkai.com
 *.ttbba.com
 *.ttbbss.com
 *.ttcad.com
@@ -73886,7 +73896,6 @@
 *.vurl.link
 *.vurl3.vip
 *.vutimes.com
-*.vux.li
 *.vuz.me
 *.vv-tool.com
 *.vv.cc
@@ -77872,6 +77881,7 @@
 *.xf5z.com
 *.xfabs.com
 *.xfannix.com
+*.xfap.cc
 *.xfaqwlw.com
 *.xfb315.com
 *.xfc888.com
@@ -78216,6 +78226,7 @@
 *.xianruan.com
 *.xianshangzixun.net
 *.xianshiqiba.com
+*.xianshishangmao.com
 *.xianshu.com
 *.xianshua.net
 *.xianshuabao.com
@@ -86312,6 +86323,7 @@
 *.zhicall.com
 *.zhichanli.com
 *.zhichaoxt.com
+*.zhichepai.com
 *.zhichepin.com
 *.zhichi.com
 *.zhichidata.com
@@ -88135,6 +88147,7 @@
 *.ztbeijixing.com
 *.ztbest.com
 *.ztcadx.com
+*.ztcdata.com
 *.ztch.ltd
 *.ztcia.com
 *.ztcnwy.com
