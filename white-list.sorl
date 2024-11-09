@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Thu Nov  7 10:28:46 2024
+; Update @ Sat Nov  9 10:26:08 2024
 
 ; cn域名都不走代理
 *.cn
