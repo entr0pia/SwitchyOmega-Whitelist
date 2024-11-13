@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Mon Nov 11 10:29:46 2024
+; Update @ Wed Nov 13 10:29:34 2024
 
 ; cn域名都不走代理
 *.cn
@@ -607,9 +607,7 @@
 *.0755rc.com
 *.0755sszx.net
 *.0755yf.net
-*.0755zb.com
 *.0756fang.com
-*.0756fy.com
 *.0756hhr.com
 *.0756idc.com
 *.0756tong.com
@@ -881,7 +879,6 @@
 *.100market.net
 *.100md.com
 *.100mian.com
-*.100msh.net
 *.100nets.com
 *.100niangudu.com
 *.100njz.com
@@ -1474,7 +1471,6 @@
 *.161580.com
 *.1616.net
 *.16163.com
-*.1616dh.com
 *.1616n.com
 *.1618.com
 *.161gg.com
@@ -3258,7 +3254,6 @@
 *.360zhyx.com
 *.360zimeiti.com
 *.360zmr.com
-*.361.cm
 *.361757.com
 *.3618med.com
 *.361a.com
@@ -4766,7 +4761,6 @@
 *.520ok.net
 *.520qr.net
 *.520touxiang.com
-*.520wajueji.com
 *.520way.com
 *.520xiazai.com
 *.520xp.com
@@ -5317,6 +5311,7 @@
 *.587tuchuang.com
 *.5884.com
 *.5888.tv
+*.588988.net
 *.588991.com
 *.588art.com
 *.588ku.com
@@ -6356,7 +6351,6 @@
 *.76pay.com
 *.76pf.com
 *.76s.co
-*.76ty.com
 *.76wu.com
 *.76y.com
 *.76zu.com
@@ -6478,7 +6472,6 @@
 *.7988wan.com
 *.798com.com
 *.798edu.com
-*.798lu.com
 *.798tiyu.com
 *.798ydh.com
 *.798zb.tv
@@ -11295,7 +11288,6 @@
 *.baguilingyun.com
 *.bagxs.com
 *.bahens.com
-*.bai.com
 *.bai68.com
 *.baibaipei.com
 *.baibaoyun.com
@@ -11833,7 +11825,6 @@
 *.baolizx.com
 *.baoltx.com
 *.baolu.store
-*.baomalove.com
 *.baomei.tv
 *.baomi.com
 *.baomi365.com
@@ -12980,7 +12971,6 @@
 *.binaryai.net
 *.binaryai.tech
 *.binbinyl.com
-*.binbla.com
 *.bincailiuxue.com
 *.binfen.tv
 *.binfenniao.com
@@ -13859,7 +13849,6 @@
 *.bnzone.com
 *.bnzt88.com
 *.bo-blog.com
-*.bo-yi.com
 *.bo56.com
 *.boai.com
 *.boaigx.com
@@ -16104,7 +16093,6 @@
 *.ceepsp.com
 *.cef114.com
 *.cefc.co
-*.cefv0f8o7.sbs
 *.ceggd.com
 *.cehca.com
 *.cehome.com
@@ -24846,7 +24834,6 @@
 *.eayuan.com
 *.eayyou.com
 *.eazytec-cloud.com
-*.eb111.net
 *.eb80.com
 *.ebadu.net
 *.ebaifo.com
@@ -25209,7 +25196,6 @@
 *.eeskill.com
 *.eeso.net
 *.eestar.com
-*.eet.cc
 *.eetoday.com
 *.eetop.com
 *.eetopic.com
@@ -25822,7 +25808,6 @@
 *.ert295.com
 *.ert7.com
 *.ertmineq.com
-*.ertonggushi.com
 *.ertongkongjian.com
 *.ertongtuku.com
 *.ertoutiao.com
@@ -27227,7 +27212,6 @@
 *.fenxi.org
 *.fenxiangdashi.com
 *.fenxianglife.com
-*.fenxiyi.com
 *.fenxm.com
 *.fenxmi.com
 *.fenxuekeji.com
@@ -30724,7 +30708,6 @@
 *.greenjk.com
 *.greenlandsc.com
 *.greensince.com
-*.greenspiritstudio.com
 *.greenswolf.com
 *.greentomail.com
 *.greenwaychina.org
@@ -33208,7 +33191,6 @@
 *.gxweite.com
 *.gxwellsun.com
 *.gxwenlian.com
-*.gxwenzhong.com
 *.gxwffdc.com
 *.gxwgdq.com
 *.gxwgjf.com
@@ -33744,7 +33726,6 @@
 *.gyyuli.com
 *.gyzfbz.net
 *.gyzsgd.com
-*.gyzy.com
 *.gz-begreen.com
 *.gz-cmc.com
 *.gz-cube.com
@@ -34345,6 +34326,7 @@
 *.haixin5.com
 *.haixindichan.com
 *.haixinews.com
+*.haixing6.com
 *.haixingbangfu.com
 *.haixingcloud.com
 *.haixinhui.com
@@ -36755,6 +36737,7 @@
 *.hnmgjr.com
 *.hnming.com
 *.hnmjjt.net
+*.hnmks.com
 *.hnmlqianpan.com
 *.hnmrffm888.com
 *.hnmsg.com
@@ -37806,7 +37789,6 @@
 *.huajifen.com
 *.huajin100.com
 *.huajing-inf.com
-*.huajuan.net
 *.huajuanma.com
 *.huajuanyun.com
 *.huajx.com
@@ -37870,7 +37852,6 @@
 *.huanghaicollege.com
 *.huanghaiting.com
 *.huanghanlian.com
-*.huanghedz.com
 *.huanghelou.cc
 *.huanghepiao.com
 *.huangjiemin.com
@@ -39268,6 +39249,7 @@
 *.iamle.com
 *.iamlintao.com
 *.iamshuaidi.com
+*.iamsjy.com
 *.iamsujie.com
 *.iamtxt.com
 *.iamwr.com
@@ -39393,6 +39375,7 @@
 *.ic-king.com
 *.ic-ldo.com
 *.ic-valley.com
+*.ic.work
 *.ic2china.com
 *.ic37.com
 *.ic72.com
@@ -39711,6 +39694,7 @@
 *.ideng.com
 *.idesktopcal.com
 *.idevbase.com
+*.idevkit.com
 *.idevz.org
 *.idgvc.com
 *.idianchou.com
@@ -48062,7 +48046,6 @@
 *.leting.io
 *.letotur.com
 *.letou8.com
-*.letouba.com
 *.letoursport.com
 *.lets-study.com
 *.letsebuy.com
@@ -50137,6 +50120,7 @@
 *.lutongda.com
 *.luv66.com
 *.luwei.me
+*.luweiteng.xyz
 *.luweiwater.com
 *.lux315.com
 *.luxe.cc
@@ -51111,7 +51095,6 @@
 *.manhua1.com
 *.manhua166.com
 *.manhua365.com
-*.manhua456.com
 *.manhuacheng.com
 *.manhuadaohang.com
 *.manhualang.com
@@ -52080,7 +52063,6 @@
 *.mhpdf.com
 *.mhpin.com
 *.mhrooz.xyz
-*.mhsf.com
 *.mht.la
 *.mhtclub.com
 *.mhtes.com
@@ -52608,6 +52590,7 @@
 *.miuss.icu
 *.miutour.com
 *.miutrip.com
+*.miwap.com
 *.miwifi.com
 *.mix-planet.com
 *.mix.moe
@@ -54807,6 +54790,7 @@
 *.ni8.com
 *.ni93.com
 *.nianbin.com
+*.nianchu.net
 *.nianhua.plus
 *.niankawang.com
 *.nianlia.com
@@ -55258,7 +55242,6 @@
 *.nnfsw.com
 *.nnfwwb.com
 *.nnfwzl.com
-*.nnfx72.cc
 *.nngadt.com
 *.nngddz.com
 *.nngdjt.com
@@ -56376,7 +56359,6 @@
 *.okwuyou.com
 *.okxr.com
 *.okyueche.com
-*.okz.com
 *.ol-cdn.com
 *.ol-img.com
 *.olabo.net
@@ -56484,6 +56466,7 @@
 *.oneniceapp.com
 *.onenoter.com
 *.onephper.com
+*.oneplus.com
 *.oneplus.pub
 *.oneplus6666.com
 *.oneplusbbs.com
@@ -57396,6 +57379,7 @@
 *.pc5210.com
 *.pc528.net
 *.pc55.com
+*.pc6.com
 *.pc699.com
 *.pc6a.com
 *.pc89.com
@@ -60157,7 +60141,6 @@
 *.qngygf.com
 *.qnhdkj.com
 *.qnhuifu.com
-*.qnjsj.com
 *.qnjslm.com
 *.qnl1.com
 *.qnmlgb.tech
@@ -64131,7 +64114,6 @@
 *.shangyuer.com
 *.shangzhang.com
 *.shangzhibo.tv
-*.shangzhushan.com
 *.shanhainengyuan.com
 *.shanhaizhanji.com
 *.shanhe.com
@@ -69225,6 +69207,7 @@
 *.tbt-tuning.com
 *.tbt.cc
 *.tbt168.com
+*.tbtopc.com
 *.tburl.in
 *.tburl.net
 *.tbuser.com
@@ -72072,7 +72055,6 @@
 *.uchuanbo.com
 *.ucicq.com
 *.ucigl.com
-*.ucigroup.org
 *.ucjoy.com
 *.ucl0ud.com
 *.ucloudgda.com
@@ -75330,7 +75312,6 @@
 *.whhdmt.com
 *.whhengchang.com
 *.whhexin.com
-*.whhk520.com
 *.whhkbyg.com
 *.whhmmbl.com
 *.whhouse.com
@@ -76021,7 +76002,6 @@
 *.wo-voyage.com
 *.wo-xa.com
 *.wo.cc
-*.wo.gs
 *.wo113.net
 *.wo116114.com
 *.wo186.tv
@@ -77482,7 +77462,6 @@
 *.xcxyw.com
 *.xcy8.com
 *.xcyg.net
-*.xcyo.com
 *.xczhmzb.com
 *.xczzs.com
 *.xd-game.com
@@ -78760,7 +78739,6 @@
 *.xingzhang.com
 *.xingzhige.com
 *.xingzhilan.com
-*.xingzhiyue.com
 *.xingzi-vision.com
 *.xingzoushu.com
 *.xingzuo.com
@@ -78963,7 +78941,6 @@
 *.xinxing.org
 *.xinxing001.com
 *.xinxing100.com
-*.xinxingkj668.com
 *.xinxingly.com
 *.xinxinhot.net
 *.xinxinhotel.com
