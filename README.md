@@ -1,8 +1,10 @@
 # SwitchyOmega-Whitelist
 适用于 SwitchyOmega 的中国网站白名单，主要内容来自 [felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list)，纯列表，自动更新。
 
+**建议使用 [ZeroOmega](https://github.com/zero-peak/ZeroOmega) 插件，原版插件已遭到攻击。参考阅读 [When Chrome Extensions Turn Against Us: The Cyberhaven Breach and Beyond](https://medium.com/extensiontotal/when-chrome-extensions-turn-against-us-the-cyberhaven-breach-and-beyond-9e35e59e1bff)**
+
 ## 使用步骤
-1. 在 Chrome/Edge 中安装 [SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) 插件；
+1. 安装 [ZeroOmega](https://github.com/zero-peak/ZeroOmega) 插件；
 2. 在插件的设置中，点击「新增情景模式」-「代理服务器」，名字自己设置；
 3. 点击「新增情景模式」-「自动切换」，名字自己设置；
 4. 规则列表设置为直连；
