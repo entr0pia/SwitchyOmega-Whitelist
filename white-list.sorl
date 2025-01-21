@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Sun Jan 19 10:26:28 2025
+; Update @ Tue Jan 21 10:28:43 2025
 
 ; cn域名都不走代理
 *.cn
@@ -1328,7 +1328,6 @@
 *.126doc.com
 *.126g.com
 *.126qiye.com
-*.126z.net
 *.127.net
 *.1278721.com
 *.127xx.com
@@ -1423,7 +1422,6 @@
 *.13800.net
 *.13800100.co
 *.13800100.com
-*.13820.vip
 *.13826414468.com
 *.138379.com
 *.138gzs.com
@@ -2394,7 +2392,6 @@
 *.2133.com
 *.21335.club
 *.21373.com
-*.213810.com
 *.2144.com
 *.2144gy.com
 *.2155.com
@@ -6076,7 +6073,6 @@
 *.65656564.com
 *.656gate.com
 *.6571n.com
-*.65807.net
 *.65875.com
 *.659595.com
 *.65993zubo26633.com
@@ -6142,9 +6138,6 @@
 *.6686com1042.app
 *.6686com740.app
 *.6686com747.app
-*.6686vip15.app
-*.6686vip16.app
-*.6686vip26.app
 *.6688.com
 *.668app.com
 *.668cdn.cc
@@ -11635,7 +11628,6 @@
 *.axyxt.com
 *.axzchou.com
 *.axzhaofang.com
-*.axzy1688.site
 *.ay-china.com
 *.ay-health.com
 *.ay57.com
@@ -16969,7 +16961,6 @@
 *.ceyice.net
 *.ceyige.com
 *.cezhu.net
-*.cf-china.info
 *.cf-ns.com
 *.cf-ns.net
 *.cf115.com
@@ -17731,7 +17722,6 @@
 *.chidaotv.com
 *.chidd.net
 *.chidowl.com
-*.chidown.com
 *.chidudata.com
 *.chiefmore.com
 *.chieftin.org
@@ -30415,7 +30405,6 @@
 *.gdhfny.com
 *.gdhjzs.com
 *.gdhwater.com
-*.gdhy0668.com
 *.gdie.com
 *.gdinfo.net
 *.gdinin.com
@@ -31703,7 +31692,6 @@
 *.gong-xin.com
 *.gong123.com
 *.gongbaike.com
-*.gongboedu.com
 *.gongboshi.com
 *.gongcdn.com
 *.gongchang.com
@@ -40070,6 +40058,7 @@
 *.humaiyouxi.com
 *.humanplustech.com
 *.humanrights-china.org
+*.humanwellcaps.com
 *.humbletg.com
 *.humengyun.com
 *.humensec.com
@@ -42390,6 +42379,7 @@
 *.innity.com
 *.innity.net
 *.innnnnn.com
+*.inno3d.cc
 *.innocn.com
 *.innocomn.com
 *.innodealing.com
@@ -45024,7 +45014,6 @@
 *.jinshuschool.com
 *.jinshutuan.com
 *.jinsiwei.com
-*.jinsuizhongye.com
 *.jintaimall.com
 *.jintajx.com
 *.jintelisi.com
@@ -47696,7 +47685,6 @@
 *.keleqiu.com
 *.kelete.com
 *.kelibiao.com
-*.kelijs.com
 *.kelilens.com
 *.kelimenedir.com
 *.kelinsoft.com
@@ -48205,7 +48193,6 @@
 *.kmw.cc
 *.kmw.com
 *.kmway.com
-*.kmwclt.xyz
 *.kmxg.net
 *.kmxkh.com
 *.kmxqt.com
@@ -52897,7 +52884,6 @@
 *.lzqjjx.com
 *.lzqjsm.com
 *.lzqnlw.com
-*.lzqpwh.com
 *.lzqqpcts.com
 *.lzqxjx.com
 *.lzranqi.com
@@ -61486,7 +61472,6 @@
 *.pvc-diban.net
 *.pvc123.com
 *.pvcliping.com
-*.pvcpanel-mzq.com
 *.pvkj.com
 *.pvpin.com
 *.pvxmqp.xyz
@@ -69001,7 +68986,6 @@
 *.sjzhu.com
 *.sjzhushou.com
 *.sjzhxhg.com
-*.sjzjiuyuan.com
 *.sjzjkqgs.com
 *.sjzkz.com
 *.sjzlg.com
@@ -71204,7 +71188,6 @@
 *.syberos.com
 *.sybj.com
 *.sybkxx.com
-*.sybxjn.com
 *.sybygx.com
 *.sycaijing.com
 *.sycbq.pet
@@ -72206,7 +72189,6 @@
 *.taobao.org
 *.taobao.tw
 *.taobao1111.com
-*.taobao123.me
 *.taobao2136.com
 *.taobao92.com
 *.taobaocdn.com
@@ -74736,7 +74718,6 @@
 *.tuchong.com
 *.tuchong.net
 *.tuchuangs.com
-*.tuchuanhuwai.com
 *.tuchuiwang.com
 *.tuchuiwang.net
 *.tucia.net
@@ -77662,7 +77643,6 @@
 *.waptt.com
 *.warchina.com
 *.warcraftchina.com
-*.warestage.com
 *.warhammertech.com
 *.warriortechgear.com
 *.warsk.com
@@ -77729,7 +77709,6 @@
 *.wavideo.tv
 *.wavpub.com
 *.wawacm.com
-*.wawadns.com
 *.wawayaya.net
 *.wawlhld.com
 *.waxiaoxia.com
@@ -77890,7 +77869,6 @@
 *.weaversoftware.com
 *.weavi.com
 *.weaview.com
-*.web-07.com
 *.web-tinker.com
 *.web0518.com
 *.web0898.net
@@ -82329,7 +82307,6 @@
 *.xingshangnet.com
 *.xingshu.com
 *.xingshulin.com
-*.xingshuo.net
 *.xingsteel.com
 *.xingsuyun58.com
 *.xingtai0319.com
@@ -84120,7 +84097,6 @@
 *.xushunda.com
 *.xusplastic.com
 *.xussb.com
-*.xusseo.com
 *.xusss.com
 *.xutsk.com
 *.xuvol.com
@@ -89019,7 +88995,6 @@
 *.zbytb.com
 *.zbyz.net
 *.zbz.com
-*.zbzaixian.com
 *.zbzb.org
 *.zbzdm.com
 *.zbzffj.com
@@ -90961,7 +90936,6 @@
 *.zigonggroup.com
 *.zigongyinuo.com
 *.ziguhonglan.com
-*.zigzagdeal.com
 *.zihai0351.com
 *.zihai0535.com
 *.zihai24.com
@@ -91533,7 +91507,6 @@
 *.zlwl.vip
 *.zlwlhse.com
 *.zlxiang.com
-*.zlxisheng.com
 *.zly169.com
 *.zlygjzx.com
 *.zlygu.com
