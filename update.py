@@ -10,7 +10,8 @@ import re
 import os
 import time
 
-# 默认来源 git@github.com:felixonmars/dnsmasq-china-list.git, 可能需要代理
+# 来源 https://github.com/felixonmars/dnsmasq-china-list
+# 本地运行可能需要代理
 confurl = 'https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf'
 
 if __name__ == "__main__":
@@ -24,6 +25,7 @@ if __name__ == "__main__":
                 '\n',
                 '; cn域名都不走代理\n',
                 '*.cn\n',
+                '*.wang\n',
                 '\n',
                 '; 局域网IP不走代理\n',
                 '10.*.*.*\n',
@@ -79,7 +81,10 @@ if __name__ == "__main__":
         for line in f.readlines():
             if line[0] == '#':
                 continue
-            rules.add(re.sub(r'server=/(\S+)/\d+\.\d+\.\d+\.\d+', r'*.\1', line))
+            rule = re.sub(r'server=/(\S+)/\d+\.\d+\.\d+\.\d+', r'*.\1', line)
+            if re.match(r'^\*\.\w+$', rule):
+                continue
+            rules.add(rule)
 
     rules = list(rules)
     rules.sort()
