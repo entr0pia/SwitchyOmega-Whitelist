@@ -108,6 +108,11 @@ def mini():
     with open(conf_file, 'wb') as f:
         f.write(r.content)
 
+    conf_url = 'https://raw.githubusercontent.com/entr0pia/CN-IPX/refs/heads/master/GithubProxy.list'
+    r = requests.get(conf_url)
+    with open(conf_file, 'ab') as f:
+        f.write(r.content)
+
     with open(conf_file, 'r') as f:
         for line in f.readlines():
             if line[0] == '#':
