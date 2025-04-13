@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: https://github.com/zero-peak/ZeroOmega
-; Update @ Fri Apr 11 10:31:07 2025
+; Update @ Sun Apr 13 10:30:35 2025
 
 ; cn域名都不走代理
 *.cn
@@ -213,6 +213,22 @@
 *.cctv.com
 *.cctvpic.com
 *.livechina.com
+auth.wosms.cn
+config.cmpassport.com
+enrichgw.10010.com
+hmrz.wo.cn
+id.mail.wo.cn
+log.cmpassport.com
+log1.cmpassport.com
+mdn.open.wo.cn
+nishub1.10010.com
+opencloud.wostore.cn
+ye.dun.163yun.com
+*.auth.wo.cn
+*.cmpassport.com
+*.id6.me
+*.mob.com
+*.open.e.189.cn
 *.21cn.com
 *.didialift.com
 *.didiglobal.com
@@ -221,6 +237,7 @@
 *.edgesrv.com
 *.douyu.com
 *.douyu.tv
+*.douyucdn.cn
 *.douyuscdn.com
 *.douyutv.com
 *.epicgames.com
