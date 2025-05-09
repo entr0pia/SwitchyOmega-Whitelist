@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: https://github.com/zero-peak/ZeroOmega
-; Update @ Wed May  7 10:33:23 2025
+; Update @ Fri May  9 10:31:58 2025
 
 ; cn域名都不走代理
 *.cn
@@ -26436,6 +26436,7 @@
 *.cosinedu.com
 *.cosineg.com
 *.cosize.com
+*.cosjiang.com
 *.coslinic.com
 *.cosmileonly.com
 *.cosmo-lady.com
@@ -46169,6 +46170,7 @@
 *.haizhikj.com
 *.haizhlink.com
 *.haizhoumo.com
+*.haizhu.vip
 *.haizhuyx.com
 *.haizitong.com
 *.haiziwang.com
@@ -80031,6 +80033,7 @@
 *.ptc-asia.com
 *.ptcxmy.com
 *.ptdsh.com
+*.pteman.com
 *.ptfdc.com
 *.ptfe-rod.com
 *.ptfish.com
@@ -80520,6 +80523,7 @@
 *.qcloudmarket.com
 *.qcloudns.com
 *.qcloudtcic.com
+*.qcloudteo.com
 *.qcloudtiw.com
 *.qcloudtt.com
 *.qcloudwaf.com
@@ -95838,6 +95842,7 @@
 *.tenxapp.com
 *.tenxcloud.com
 *.tenxcloud.net
+*.teo-rum.com
 *.teown.com
 *.tepcb.com
 *.tepin.hk
@@ -100066,6 +100071,7 @@
 *.uupei.com
 *.uupoop.com
 *.uupt.com
+*.uupython.com
 *.uus8.com
 *.uusama.com
 *.uusee.com
@@ -109060,6 +109066,7 @@
 *.xmayitxt.com
 *.xmbankonline.com
 *.xmbhw.com
+*.xmbie.com
 *.xmbike.com
 *.xmbus.com
 *.xmbyhksjhzx.com
