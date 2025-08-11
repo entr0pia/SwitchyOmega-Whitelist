@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: https://github.com/zero-peak/ZeroOmega
-; Update @ Sat Aug  9 10:32:21 2025
+; Update @ Mon Aug 11 10:36:07 2025
 
 ; cn域名都不走代理
 *.cn
@@ -137,6 +137,7 @@
 *.xiami.net
 *.ykimg.com
 *.youku.com
+*.qwen.ai
 *.baidu.com
 *.baidubcr.com
 *.baidupcs.com
