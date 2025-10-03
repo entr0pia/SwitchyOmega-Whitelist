@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: https://github.com/zero-peak/ZeroOmega
-; Update @ Wed Oct  1 10:31:10 2025
+; Update @ Fri Oct  3 10:29:37 2025
 
 ; cn域名都不走代理
 *.cn
@@ -2744,6 +2744,7 @@
 *.20planet.com
 *.20qu.com
 *.20wx.com
+*.20xs.org
 *.20xue.com
 *.20xy.cc
 *.20yy.com
@@ -6158,6 +6159,7 @@
 *.55tour.com
 *.55tuan.com
 *.55xw.net
+*.55y.cc
 *.55y5.com
 *.55zhoucheng.com
 *.55zs.com
@@ -10931,6 +10933,7 @@
 *.aitutu.cc
 *.aitype.net
 *.aiufida.com
+*.aiutdns.com
 *.aiuxdesign.com
 *.aiuxian.com
 *.aiuxstudio.com
@@ -16425,6 +16428,7 @@
 *.bjjinsong.com
 *.bjjiuhe.com
 *.bjjizhun.com
+*.bjjjst.com
 *.bjjk66.com
 *.bjjkglxh.org
 *.bjjkw.net
@@ -17705,6 +17709,7 @@
 *.bsydns.net
 *.bsyjrb.com
 *.bsyjt.com
+*.bsyrimw.xyz
 *.bsyxx.com
 *.bsyyjt.com
 *.bsz666.com
@@ -20652,6 +20657,7 @@
 *.chapaofan.com
 *.chaping.tv
 *.chappell1811.com
+*.char123.com
 *.charcaius.com
 *.charge-mobile.com
 *.chargedot.com
@@ -29776,6 +29782,7 @@
 *.dj193.com
 *.dj63.com
 *.dj89.com
+*.dj92.cc
 *.dj92cc.com
 *.dj96.com
 *.dj97.com
@@ -35912,9 +35919,14 @@
 *.fonsview.com
 *.font.im
 *.font6.com
+*.fontgoods.com
 *.fontke.com
 *.fontong.com
 *.fontoohotels.com
+*.fontowns.com
+*.fontsfile.com
+*.fontvip.com
+*.fontyi.com
 *.fonye.com
 *.food5.net
 *.foodaily.com
@@ -39796,6 +39808,7 @@
 *.gppapp.com
 *.gpqnrc.com
 *.gps009.net
+*.gps010.net
 *.gps123.org
 *.gps16888.com
 *.gps8.com
@@ -45507,6 +45520,7 @@
 *.hdhui.com
 *.hditec.com
 *.hdj.me
+*.hdjad.com
 *.hdjingwei.com
 *.hdjt.net
 *.hdjwj.com
@@ -65209,6 +65223,7 @@
 *.lufaxcdn.com
 *.lufengwuliu.net
 *.lufengzhe.com
+*.lufff.com
 *.luffy.cc
 *.luffycity.com
 *.lufunds.com
@@ -73910,6 +73925,7 @@
 *.oocheoo.com
 *.ooclab.com
 *.oodii.com
+*.oofont.com
 *.oogcw.com
 *.oogps.com
 *.oogsy.com
@@ -75919,6 +75935,7 @@
 *.play-cdn14.com
 *.play-cdn16.com
 *.play-cdn20.com
+*.play-cdn7.com
 *.play.craft.moe
 *.play68.com
 *.play700.com
@@ -78976,6 +78993,7 @@
 *.quantuantuan.com
 *.quantum-etc.com
 *.quantum-info.com
+*.quantumsc.online
 *.quanwai100.com
 *.quanwiki.com
 *.quanxi.cc
@@ -80269,6 +80287,7 @@
 *.remax-bj.com
 *.remenxs.cc
 *.remixai.com
+*.remixicon.com
 *.remo-ai.com
 *.remodelife.com
 *.remotcon.mobi
@@ -86309,6 +86328,7 @@
 *.sinochemintl.com
 *.sinochemitc.com
 *.sinochemjiangsu.com
+*.sinochemoilmarketing.com
 *.sinochempharma.com
 *.sinochip.net
 *.sinoclick.com
@@ -87803,6 +87823,7 @@
 *.souyue.vip
 *.souyunku.com
 *.souyute.com
+*.souziti.com
 *.sov2ex.com
 *.sovell.com
 *.soven.com
@@ -91362,6 +91383,7 @@
 *.taxksec.com
 *.taxnote.org
 *.taxspirit.com
+*.taxtaoj.xyz
 *.taxuspharm.com
 *.taxwen.com
 *.tayohya.com
@@ -91846,6 +91868,7 @@
 *.tengmoney.com
 *.tengning.net
 *.tengnu999.com
+*.tengnuobx.com
 *.tengrant.com
 *.tengshengchina.com
 *.tengshiauto.com
@@ -93290,6 +93313,7 @@
 *.tongchengir.com
 *.tongchengkang.com
 *.tongchengqun.vip
+*.tongchengxuanshang.com
 *.tongchouba.com
 *.tongda2000.com
 *.tongdanet.com
@@ -93456,6 +93480,7 @@
 *.top263.net
 *.top2fun.com
 *.top3456.com
+*.top4xlc.com
 *.top6000.com
 *.topbester.com
 *.topbiol.com
@@ -94175,6 +94200,7 @@
 *.ttcat.site
 *.ttcl.cc
 *.ttdailynews.com
+*.ttdnsa.com
 *.ttdown.com
 *.ttdsw.com
 *.ttechhk.com
@@ -94354,6 +94380,7 @@
 *.tudan.vip
 *.tudou.com
 *.tudoupe.com
+*.tudouseo.com
 *.tudouui.com
 *.tudouxy01.com
 *.tudouyx.com
@@ -94528,6 +94555,7 @@
 *.tupian365.com
 *.tupiancunchu.com
 *.tupiankucdn.com
+*.tupianseo.com
 *.tupianyun.com
 *.tupianzj.com
 *.tupu360.com
@@ -95691,6 +95719,7 @@
 *.upchinapro.com
 *.upchinaproduct.com
 *.upd.kaspersky.com
+*.update1.cyou
 *.update2.cyou
 *.update8.com
 *.updeals.com
@@ -99770,6 +99799,7 @@
 *.winheadhunter.com
 *.winhealth.hk
 *.winhealthgroups.com
+*.winhlb.com
 *.winhong.com
 *.winicssec.com
 *.winjoinit.com
@@ -104084,6 +104114,7 @@
 *.xiongmaitech.com
 *.xiongmao555.com
 *.xiongmao789.com
+*.xiongmaoboshi.com
 *.xiongmaodangao.com
 *.xiongmaojinku.com
 *.xiongmaosaohao.com
@@ -104834,6 +104865,7 @@
 *.xn--cetx7iotgtmgrm7blsf.com
 *.xn--chq7lp8e46htw3g.com
 *.xn--chq84itwgrb674blm6f.com
+*.xn--chq978ctsf6v6c.com
 *.xn--cjztj18l.com
 *.xn--cnqr5ysyl.xn--czr694b
 *.xn--cpqr0dg9g4t0fodaq5c.com
@@ -107105,6 +107137,7 @@
 *.yczk.org
 *.yczpw.com
 *.yczxyy.com
+*.yczy5.com
 *.yczyc.com
 *.yd-data.com
 *.yd-jxt.com
@@ -107669,6 +107702,7 @@
 *.yicaihua.com
 *.yicamp.com
 *.yicang.com
+*.yicanggongyi.com
 *.yicbo.com
 *.yice11.com
 *.yicha-yc.com
@@ -108642,6 +108676,7 @@
 *.yjsry.com
 *.yjssishisi.com
 *.yjsswjt.com
+*.yjswsht.xyz
 *.yjtiyu.com
 *.yjtvw.com
 *.yjtw.com
@@ -116163,6 +116198,7 @@
 *.zui.com
 *.zui5.com
 *.zui88.com
+*.zuiaixs.net
 *.zuiben.com
 *.zuibook.com
 *.zuiceshi.net
