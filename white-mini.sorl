@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: https://github.com/zero-peak/ZeroOmega
-; Update @ Fri Dec  5 10:34:59 2025
+; Update @ Sun Dec  7 10:29:24 2025
 
 ; cn域名都不走代理
 *.cn
@@ -104,6 +104,7 @@
 *.aliapp.org
 *.alibaba.com
 *.alibabacloud.com
+*.alibabachengdun.com
 *.alibabausercontent.com
 *.alicdn.com
 *.alicloudccp.com
@@ -122,6 +123,7 @@
 *.autonavi.com
 *.dingtalk.com
 *.ele.me
+*.elemecdn.com
 *.hichina.com
 *.mmstat.com
 *.mxhichina.com
@@ -129,6 +131,7 @@
 *.taobao.com
 *.taobaocdn.com
 *.tbcache.com
+*.tbcdn.cn
 *.tbcdn.com
 *.tmall.com
 *.tmall.hk
@@ -449,6 +452,7 @@ steamstatic.com.8686c.com
 *.air-matters.io
 *.aixifan.com
 *.algocasts.io
+*.asklink.com
 *.babytree.com
 *.babytreeimg.com
 *.baicizhan.com
