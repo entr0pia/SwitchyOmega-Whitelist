@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: https://github.com/zero-peak/ZeroOmega
-; Update @ Sat Dec 13 10:31:39 2025
+; Update @ Mon Dec 15 10:40:12 2025
 
 ; cn域名都不走代理
 *.cn
