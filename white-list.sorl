@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: https://github.com/zero-peak/ZeroOmega
-; Update @ Sun May 17 11:21:50 2026
+; Update @ Tue May 19 12:51:00 2026
 
 ; cn域名都不走代理
 *.cn
@@ -23054,7 +23054,6 @@
 *.chuangyejia.com
 *.chuangyetv.com
 *.chuangyijisu.com
-*.chuangyimao.com
 *.chuangyiqifu.com
 *.chuangyisai.com
 *.chuangyiwh.com
@@ -24346,7 +24345,6 @@
 *.cncsen.com
 *.cncsj.net
 *.cncsparetools.com
-*.cnctg.net
 *.cnction.com
 *.cnctrip.com
 *.cncwkj.com
@@ -34065,7 +34063,6 @@
 *.eyou.net
 *.eyoubaidu.com
 *.eyoucms.com
-*.eyouct.com
 *.eyoungindustry.com
 *.eyourbusiness.com
 *.eyouwx.com
@@ -53166,7 +53163,6 @@
 *.iyouxun.com
 *.iyruan.com
 *.iysj.com
-*.iytc.net
 *.iytcdn.com
 *.iyuan.ltd
 *.iyuanpei.cc
@@ -69446,7 +69442,6 @@
 *.newcger.com
 *.newchainbase.com
 *.newchieve.com
-*.newchinabeach.org
 *.newchinalife.com
 *.newcitygz.com
 *.newclasses.org
@@ -76448,7 +76443,6 @@
 *.qmxphoto.com
 *.qmxrmt.com
 *.qmxyc.com
-*.qmyc.ltd
 *.qmyq.com
 *.qmyyl.com
 *.qmz5.com
@@ -78534,7 +78528,6 @@
 *.ritaomeng.com
 *.ritarpower.com
 *.rivalsa.net
-*.riveralydia.shop
 *.rivergame.net
 *.riverinepm.com
 *.riverlimittech.net
@@ -96472,6 +96465,7 @@
 *.wetestlab.net
 *.wetherm.com
 *.weti.me
+*.wetimetech.com
 *.weton.net
 *.wetools.com
 *.wetools.pro
