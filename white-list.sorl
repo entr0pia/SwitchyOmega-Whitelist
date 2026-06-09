@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: https://github.com/zero-peak/ZeroOmega
-; Update @ Sun Jun  7 11:59:43 2026
+; Update @ Tue Jun  9 12:48:14 2026
 
 ; cn域名都不走代理
 *.cn
@@ -1282,6 +1282,7 @@
 *.0x5.me
 *.0x9.me
 *.0xaa55.com
+*.0xffff.one
 *.0xffffff.org
 *.0xiao.com
 *.0xjqlun2.work
@@ -5950,6 +5951,7 @@
 *.51yugou.com
 *.51yund.com
 *.51yundong.me
+*.51yunzhi.com
 *.51ywx.com
 *.51yxcyy.com
 *.51yxky.com
@@ -19328,6 +19330,7 @@
 *.catchyrime.com
 *.catering-shizuoka.com
 *.catfish-cms.com
+*.catfk.com
 *.catguo.com
 *.cathassist.org
 *.cathayagroup.com
@@ -22839,6 +22842,7 @@
 *.chualamdimsum.com
 *.chuan-s.com
 *.chuanboyi.com
+*.chuanboyu.com
 *.chuandaizc.com
 *.chuandasolar.com
 *.chuandong.com
@@ -29071,6 +29075,7 @@
 *.dgjx.net
 *.dgjxmk.com
 *.dgjy.net
+*.dgkfa.com
 *.dgkj888.com
 *.dglpool.com
 *.dglyjx.com
@@ -32524,6 +32529,7 @@
 *.ego-robotics.com
 *.egoint.com
 *.egongzheng.com
+*.egonlin.com
 *.egooad.com
 *.egood995.com
 *.egoonet.com
@@ -43148,6 +43154,7 @@
 *.h5anli.com
 *.h5app.com
 *.h5avu.com
+*.h5cmpassport.com
 *.h5cn.com
 *.h5data.com
 *.h5designer.com
@@ -46126,6 +46133,7 @@
 *.hjenglish.com
 *.hjg365.com
 *.hjgcd.com
+*.hjgroup-sdq.com
 *.hjgrp.com
 *.hjgtjt.com
 *.hjhrcloud.com
@@ -50984,6 +50992,7 @@
 *.ihqfo.org
 *.ihr360.com
 *.ihrscloud.com
+*.ihsiao.com
 *.ihst8.com
 *.ihstatic.com
 *.ihtcboy.com
@@ -59207,6 +59216,7 @@
 *.ksydx.com
 *.ksyiqiwan.com
 *.ksyll.com
+*.ksymsbz.com
 *.ksyna.com
 *.ksyun.com
 *.ksyun.net
@@ -64774,6 +64784,7 @@
 *.marco-bj.com
 *.marcopolochina.com
 *.marginalk.com
+*.maria23.com
 *.mariedalgar.com
 *.marimekko-hots.com
 *.marine-dancer.com
@@ -65142,12 +65153,14 @@
 *.mcyz.com
 *.mczhihui.com
 *.mczmb.org
+*.mczsok.com
 *.mczwlt.net
 *.mczyz.com
 *.mczz.net
 *.md-hmjt.com
 *.md-pms.com
 *.md5ma.com
+*.mdaehx.com
 *.mdapp.tv
 *.mdbchina.com
 *.mdbimg.com
@@ -66271,6 +66284,7 @@
 *.minecraftxz.com
 *.minecraftzw.com
 *.minegoods.com
+*.mineharmony.cc
 *.minei.com
 *.mineplugin.org
 *.minerhome.com
@@ -73311,6 +73325,7 @@
 *.pinkertech.com
 *.pinkoichina.com
 *.pinkou.com
+*.pinkr.com
 *.pinla.com
 *.pinlyu.com
 *.pinmanduo.com
@@ -79706,6 +79721,7 @@
 *.scmccboss.com
 *.scmchem.com
 *.scmfair.com
+*.scmggzbh.com
 *.scmor.com
 *.scmroad.com
 *.scmsky.com
@@ -85406,6 +85422,7 @@
 *.stdout.pub
 *.ste56.com
 *.stea2008.com
+*.steam-run.com
 *.steam.com
 *.steambig.com
 *.steamboxs.com
@@ -86601,6 +86618,7 @@
 *.syhzdj.net
 *.syhzx.com
 *.syhzzf.com
+*.syiban.com
 *.syiptv.com
 *.syitgz.com
 *.syjcly.com
@@ -89556,6 +89574,7 @@
 *.tianxingjianyiliao.com
 *.tianxinkeji.com
 *.tianya.com
+*.tianya.net
 *.tianya.tv
 *.tianya66.com
 *.tianyabook.com
@@ -92915,6 +92934,7 @@
 *.uucqrdmk.com
 *.uueasy.com
 *.uuedutech.com
+*.uufaka.com
 *.uufund.com
 *.uufuns.com
 *.uugai.com
@@ -94388,6 +94408,7 @@
 *.walvax.com
 *.wamawama.com
 *.wamila.com
+*.wamoyu.com
 *.wan-ka.com
 *.wan.cc
 *.wan.com
@@ -98240,6 +98261,7 @@
 *.wya1.com
 *.wybgs.com
 *.wybosch.com
+*.wybuddhist.com
 *.wybzdwss.com
 *.wycad.com
 *.wycfw.com
@@ -100051,6 +100073,7 @@
 *.ximitools.com
 *.ximiyouxi.com
 *.ximmerse.com
+*.ximofood.com
 *.ximogo.com
 *.ximuw.com
 *.xin-health.com
@@ -102367,6 +102390,7 @@
 *.xxymdy.com
 *.xxymw.com
 *.xxyo.com
+*.xxyoil.com
 *.xxys2023.com
 *.xxyw.com
 *.xxyx.ltd
@@ -107983,6 +108007,7 @@
 *.zchospital.com
 *.zchrgroup.com
 *.zcict.com
+*.zcidclink.com
 *.zcimg.com
 *.zcinfo.net
 *.zciv.com
