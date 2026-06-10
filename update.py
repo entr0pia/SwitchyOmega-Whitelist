@@ -14,6 +14,7 @@ up_time = time.ctime()
 headline = ['[SwitchyOmega Conditions]\n',
             '; Require: https://github.com/zero-peak/ZeroOmega\n',
             '; Update @ {}\n'.format(up_time),
+            'file://*\n',
             '\n',
             '; cn域名都不走代理\n',
             '*.cn\n',
